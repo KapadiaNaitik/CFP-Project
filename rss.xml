@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 18 Nov 2024 03:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 03:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,118 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Multi-Sensor and Synthetic Data Fusion in Advanced AI Systems: Opportunities and Ethical Challenges]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316809/multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges</link>
+            <guid>sd-multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Information Fusion (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Enhancing digital manufacturing via AI-LLM]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316823/enhancing-digital-manufacturing-via-ai-llm</link>
+            <guid>sd-enhancing-digital-manufacturing-via-ai-llm</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>International Journal of Production Economics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The geological evolution of the India-Asia collision and the Tibetan Platea]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316818/the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea</link>
+            <guid>sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Tectonophysics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proceedings of the Eleven International Workshop on Modeling in Crystal Growth]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316810/proceedings-of-the-eleven-international-workshop-on-modeling-in-crystal-growth</link>
+            <guid>sd-proceedings-of-the-eleven-international-workshop-on-modeling-in-crystal-growth</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Journal of Crystal Growth (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Evolution and Attribution of River Basin Ecohydrological Processes under Changing Environments]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316821/evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments</link>
+            <guid>sd-evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Journal of Hydrology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Microbial colonisation and biodeterioration of stone monuments (ECBSM2024)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316811/microbial-colonisation-and-biodeterioration-of-stone-monuments-ecbsm2024</link>
+            <guid>sd-microbial-colonisation-and-biodeterioration-of-stone-monuments-ecbsm2024</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>International Biodeterioration &amp; Biodegradation (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Women and motorcycle-taxi operations in Sub-Saharan Africa]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316807/women-and-motorcycle-taxi-operations-in-sub-saharan-africa</link>
+            <guid>sd-women-and-motorcycle-taxi-operations-in-sub-saharan-africa</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>African Transport Studies (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[On the BEM formulation: in Memory of Professor José Domínguez]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316801/on-the-bem-formulation-in-memory-of-professor-jose-dominguez</link>
+            <guid>sd-on-the-bem-formulation-in-memory-of-professor-jose-dominguez</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Engineering Analysis with Boundary Elements (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Celebrating seminal science published in PEPI over 55 years]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316806/celebrating-seminal-science-published-in-pepi-over-55-years</link>
+            <guid>sd-celebrating-seminal-science-published-in-pepi-over-55-years</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Physics of the Earth and Planetary Interiors (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable Development of Energy, Water and Environment Systems 2024 - e-Prime - Advances in Electrical Engineering, Electronics and Energy]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316802/sustainable-development-of-energy-water-and-environment-systems-2024-e-prime-advances-in-electrical-engineering-electronics-and-energy</link>
+            <guid>sd-sustainable-development-of-energy-water-and-environment-systems-2024-e-prime-advances-in-electrical-engineering-electronics-and-energy</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>e-Prime - Advances in Electrical Engineering, Electronics and Energy (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The 12th International Conference on Computational Fluid Dynamics (ICCFD12)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316804/the-12th-international-conference-on-computational-fluid-dynamics-iccfd12</link>
+            <guid>sd-the-12th-international-conference-on-computational-fluid-dynamics-iccfd12</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Computers &amp; Fluids (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Pumped-hydro as an energy storage option]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316808/pumped-hydro-as-an-energy-storage-option</link>
+            <guid>sd-pumped-hydro-as-an-energy-storage-option</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Energy Nexus (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Challenges for Science in Democracy]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316803/challenges-for-science-in-democracy</link>
+            <guid>sd-challenges-for-science-in-democracy</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Ethics, Medicine and Public Health (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Special issue devoted to HPLC 2024 - Journal of Chromatography B]]></title>
+            <link>https://www.sciencedirect.com/special-issue/312662/special-issue-devoted-to-hplc-2024-journal-of-chromatography-b</link>
+            <guid>sd-special-issue-devoted-to-hplc-2024-journal-of-chromatography-b</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Journal of Chromatography B (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ocean Wave Modelling and Climate Impacts: Advances and Future Directions - Ocean Modelling]]></title>
+            <link>https://www.sciencedirect.com/special-issue/311998/ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling</link>
+            <guid>sd-ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Ocean Modelling (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Special issue devoted to HPLC 2024 - Journal of Chromatography A]]></title>
+            <link>https://www.sciencedirect.com/special-issue/294540/special-issue-devoted-to-hplc-2024-journal-of-chromatography-a</link>
+            <guid>sd-special-issue-devoted-to-hplc-2024-journal-of-chromatography-a</guid>
+            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
+            <author>Journal of Chromatography A (SD)</author>
+        </item>
         <item>
             <title><![CDATA[CO2 valorization]]></title>
             <link>https://www.sciencedirect.com/special-issue/302258/co2-valorization</link>

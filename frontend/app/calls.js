@@ -1,5 +1,165 @@
 export const papers = [
   {
+    "title": "Multi-Sensor and Synthetic Data Fusion in Advanced AI Systems: Opportunities and Ethical Challenges",
+    "url": "https://www.sciencedirect.com/special-issue/316809/multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges",
+    "dueDate": 1753920000000,
+    "journal": "Information Fusion",
+    "abbreviation": "sd",
+    "slug": "sd-multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Enhancing digital manufacturing via AI-LLM",
+    "url": "https://www.sciencedirect.com/special-issue/316823/enhancing-digital-manufacturing-via-ai-llm",
+    "dueDate": 1750636800000,
+    "journal": "International Journal of Production Economics",
+    "abbreviation": "sd",
+    "slug": "sd-enhancing-digital-manufacturing-via-ai-llm",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "The geological evolution of the India-Asia collision and the Tibetan Platea",
+    "url": "https://www.sciencedirect.com/special-issue/316818/the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea",
+    "dueDate": 1750377600000,
+    "journal": "Tectonophysics",
+    "abbreviation": "sd",
+    "slug": "sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Proceedings of the Eleven International Workshop on Modeling in Crystal Growth",
+    "url": "https://www.sciencedirect.com/special-issue/316810/proceedings-of-the-eleven-international-workshop-on-modeling-in-crystal-growth",
+    "dueDate": 1740700800000,
+    "journal": "Journal of Crystal Growth",
+    "abbreviation": "sd",
+    "slug": "sd-proceedings-of-the-eleven-international-workshop-on-modeling-in-crystal-growth",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Evolution and Attribution of River Basin Ecohydrological Processes under Changing Environments",
+    "url": "https://www.sciencedirect.com/special-issue/316821/evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments",
+    "dueDate": 1761782400000,
+    "journal": "Journal of Hydrology",
+    "abbreviation": "sd",
+    "slug": "sd-evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Microbial colonisation and biodeterioration of stone monuments (ECBSM2024)",
+    "url": "https://www.sciencedirect.com/special-issue/316811/microbial-colonisation-and-biodeterioration-of-stone-monuments-ecbsm2024",
+    "dueDate": 1740700800000,
+    "journal": "International Biodeterioration & Biodegradation",
+    "abbreviation": "sd",
+    "slug": "sd-microbial-colonisation-and-biodeterioration-of-stone-monuments-ecbsm2024",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Women and motorcycle-taxi operations in Sub-Saharan Africa",
+    "url": "https://www.sciencedirect.com/special-issue/316807/women-and-motorcycle-taxi-operations-in-sub-saharan-africa",
+    "dueDate": 1736035200000,
+    "journal": "African Transport Studies",
+    "abbreviation": "sd",
+    "slug": "sd-women-and-motorcycle-taxi-operations-in-sub-saharan-africa",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "On the BEM formulation: in Memory of Professor José Domínguez",
+    "url": "https://www.sciencedirect.com/special-issue/316801/on-the-bem-formulation-in-memory-of-professor-jose-dominguez",
+    "dueDate": 1761955200000,
+    "journal": "Engineering Analysis with Boundary Elements",
+    "abbreviation": "sd",
+    "slug": "sd-on-the-bem-formulation-in-memory-of-professor-jose-dominguez",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Celebrating seminal science published in PEPI over 55 years",
+    "url": "https://www.sciencedirect.com/special-issue/316806/celebrating-seminal-science-published-in-pepi-over-55-years",
+    "dueDate": 1743379200000,
+    "journal": "Physics of the Earth and Planetary Interiors",
+    "abbreviation": "sd",
+    "slug": "sd-celebrating-seminal-science-published-in-pepi-over-55-years",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Sustainable Development of Energy, Water and Environment Systems 2024 - e-Prime - Advances in Electrical Engineering, Electronics and Energy",
+    "url": "https://www.sciencedirect.com/special-issue/316802/sustainable-development-of-energy-water-and-environment-systems-2024-e-prime-advances-in-electrical-engineering-electronics-and-energy",
+    "dueDate": 1745971200000,
+    "journal": "e-Prime - Advances in Electrical Engineering, Electronics and Energy",
+    "abbreviation": "sd",
+    "slug": "sd-sustainable-development-of-energy-water-and-environment-systems-2024-e-prime-advances-in-electrical-engineering-electronics-and-energy",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "The 12th International Conference on Computational Fluid Dynamics (ICCFD12)",
+    "url": "https://www.sciencedirect.com/special-issue/316804/the-12th-international-conference-on-computational-fluid-dynamics-iccfd12",
+    "dueDate": 1743465600000,
+    "journal": "Computers & Fluids",
+    "abbreviation": "sd",
+    "slug": "sd-the-12th-international-conference-on-computational-fluid-dynamics-iccfd12",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Pumped-hydro as an energy storage option",
+    "url": "https://www.sciencedirect.com/special-issue/316808/pumped-hydro-as-an-energy-storage-option",
+    "dueDate": 1753833600000,
+    "journal": "Energy Nexus",
+    "abbreviation": "sd",
+    "slug": "sd-pumped-hydro-as-an-energy-storage-option",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Challenges for Science in Democracy",
+    "url": "https://www.sciencedirect.com/special-issue/316803/challenges-for-science-in-democracy",
+    "dueDate": 1761868800000,
+    "journal": "Ethics, Medicine and Public Health",
+    "abbreviation": "sd",
+    "slug": "sd-challenges-for-science-in-democracy",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Special issue devoted to HPLC 2024 - Journal of Chromatography B",
+    "url": "https://www.sciencedirect.com/special-issue/312662/special-issue-devoted-to-hplc-2024-journal-of-chromatography-b",
+    "dueDate": 1739577600000,
+    "journal": "Journal of Chromatography B",
+    "abbreviation": "sd",
+    "slug": "sd-special-issue-devoted-to-hplc-2024-journal-of-chromatography-b",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Ocean Wave Modelling and Climate Impacts: Advances and Future Directions - Ocean Modelling",
+    "url": "https://www.sciencedirect.com/special-issue/311998/ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling",
+    "dueDate": 1743552000000,
+    "journal": "Ocean Modelling",
+    "abbreviation": "sd",
+    "slug": "sd-ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
+    "title": "Special issue devoted to HPLC 2024 - Journal of Chromatography A",
+    "url": "https://www.sciencedirect.com/special-issue/294540/special-issue-devoted-to-hplc-2024-journal-of-chromatography-a",
+    "dueDate": 1739577600000,
+    "journal": "Journal of Chromatography A",
+    "abbreviation": "sd",
+    "slug": "sd-special-issue-devoted-to-hplc-2024-journal-of-chromatography-a",
+    "active": true,
+    "pubDate": 1731985383000
+  },
+  {
     "title": "CO2 valorization",
     "url": "https://www.sciencedirect.com/special-issue/302258/co2-valorization",
     "dueDate": 1741996800000,
@@ -2372,7 +2532,7 @@ export const papers = [
   {
     "title": "Recent Developments and Challenges in Real Options",
     "url": "https://www.sciencedirect.com/special-issue/311058/recent-developments-and-challenges-in-real-options",
-    "dueDate": 1730246400000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Economics and Business",
     "abbreviation": "sd",
     "slug": "sd-recent-developments-and-challenges-in-real-options",
@@ -3442,7 +3602,7 @@ export const papers = [
   {
     "title": "18th International Symposium on Polymer Electrolytes (ISPE-18)",
     "url": "https://www.sciencedirect.com/special-issue/307174/18th-international-symposium-on-polymer-electrolytes-ispe-18",
-    "dueDate": 1730073600000,
+    "dueDate": 1734652800000,
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-18th-international-symposium-on-polymer-electrolytes-ispe-18",
@@ -3772,7 +3932,7 @@ export const papers = [
   {
     "title": "New mechanisms, therapeutic targets, and biomarkers for TDP-43 and tau in neurodegeneration",
     "url": "https://www.sciencedirect.com/special-issue/306932/new-mechanisms-therapeutic-targets-and-biomarkers-for-tdp-43-and-tau-in-neurodegeneration",
-    "dueDate": 1732924800000,
+    "dueDate": 1743379200000,
     "journal": "Neurochemistry International",
     "abbreviation": "sd",
     "slug": "sd-new-mechanisms-therapeutic-targets-and-biomarkers-for-tdp-43-and-tau-in-neurodegeneration",
@@ -5022,7 +5182,7 @@ export const papers = [
   {
     "title": "Special Edition of Pattern Recognition: Celebrating the Life and Research Contributions of Edwin Hancock",
     "url": "https://www.sciencedirect.com/special-issue/304840/special-edition-of-pattern-recognition-celebrating-the-life-and-research-contributions-of-edwin-hancock",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Pattern Recognition",
     "abbreviation": "sd",
     "slug": "sd-special-edition-of-pattern-recognition-celebrating-the-life-and-research-contributions-of-edwin-hancock",
@@ -5712,7 +5872,7 @@ export const papers = [
   {
     "title": "Linking soil organic matter with soil health and decarbonization",
     "url": "https://www.sciencedirect.com/special-issue/304123/linking-soil-organic-matter-with-soil-health-and-decarbonization",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Soil Biology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-linking-soil-organic-matter-with-soil-health-and-decarbonization",
@@ -5772,7 +5932,7 @@ export const papers = [
   {
     "title": "Equity and health",
     "url": "https://www.sciencedirect.com/special-issue/304161/equity-and-health",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Ethics, Medicine and Public Health",
     "abbreviation": "sd",
     "slug": "sd-equity-and-health",
@@ -5896,8 +6056,9 @@ export const papers = [
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-diversity-in-neurodegenerative-disease-research",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "The Evolution of Retail Careers",
@@ -7122,7 +7283,7 @@ export const papers = [
   {
     "title": "Advancements in Smart Energy Engineering",
     "url": "https://www.sciencedirect.com/special-issue/302707/advancements-in-smart-energy-engineering",
-    "dueDate": 1733011200000,
+    "dueDate": 1735603200000,
     "journal": "Energy",
     "abbreviation": "sd",
     "slug": "sd-advancements-in-smart-energy-engineering",
@@ -7612,7 +7773,7 @@ export const papers = [
   {
     "title": "Polymers and advanced characterization techniques for new societal demands at POLY-CHAR2024",
     "url": "https://www.sciencedirect.com/special-issue/301849/polymers-and-advanced-characterization-techniques-for-new-societal-demands-at-poly-char2024",
-    "dueDate": 1731628800000,
+    "dueDate": 1734220800000,
     "journal": "Polymer",
     "abbreviation": "sd",
     "slug": "sd-polymers-and-advanced-characterization-techniques-for-new-societal-demands-at-poly-char2024",
@@ -8712,7 +8873,7 @@ export const papers = [
   {
     "title": "1st International Symposium on Materials, Energy and Environment (ISMEE 2024)",
     "url": "https://www.sciencedirect.com/special-issue/299748/1st-international-symposium-on-materials-energy-and-environment-ismee-2024",
-    "dueDate": 1731628800000,
+    "dueDate": 1738454400000,
     "journal": "Chemical Physics Impact",
     "abbreviation": "sd",
     "slug": "sd-1st-international-symposium-on-materials-energy-and-environment-ismee-2024",
@@ -10132,7 +10293,7 @@ export const papers = [
   {
     "title": "Energy Economics and Climate Policies in Smart Energy Systems",
     "url": "https://www.sciencedirect.com/special-issue/297452/energy-economics-and-climate-policies-in-smart-energy-systems",
-    "dueDate": 1731628800000,
+    "dueDate": 1743465600000,
     "journal": "Smart Energy",
     "abbreviation": "sd",
     "slug": "sd-energy-economics-and-climate-policies-in-smart-energy-systems",
@@ -10352,7 +10513,7 @@ export const papers = [
   {
     "title": "12th international workshop on infrared microscopy and spectroscopy with accelerator-based sources (WIRMS 2024)",
     "url": "https://www.sciencedirect.com/special-issue/297003/12th-international-workshop-on-infrared-microscopy-and-spectroscopy-with-accelerator-based-sources-wirms-2024",
-    "dueDate": 1739577600000,
+    "dueDate": 1736899200000,
     "journal": "Infrared Physics & Technology",
     "abbreviation": "sd",
     "slug": "sd-12th-international-workshop-on-infrared-microscopy-and-spectroscopy-with-accelerator-based-sources-wirms-2024",
@@ -12706,8 +12867,9 @@ export const papers = [
     "journal": "Brain Behavior and Immunity Integrative",
     "abbreviation": "sd",
     "slug": "sd-on-the-move-to-better-health-integrating-movement-therapies-for-immune-enhancement-in-chronic-disease",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Dependable Software Engineering: Theories, Tools and Applications",
@@ -12886,8 +13048,9 @@ export const papers = [
     "journal": "Brain Behavior and Immunity Integrative",
     "abbreviation": "sd",
     "slug": "sd-perinatal-stress-inflammation-and-maternal-child-mental-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Current and Future Trends in Big Data-based Smart Mobility",
@@ -12946,8 +13109,9 @@ export const papers = [
     "journal": "Brain Behavior and Immunity Integrative",
     "abbreviation": "sd",
     "slug": "sd-clinical-evidence-and-advances-in-traditional-chinese-medicine-for-depression",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Electrochemistry: Opportunities and Challenges in the 21st Century (SIBAE 2024)",
@@ -14326,8 +14490,9 @@ export const papers = [
     "journal": "Pacific-Basin Finance Journal",
     "abbreviation": "sd",
     "slug": "sd-current-issues-in-emerging-markets",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Interdisciplinary Perspectives on Future Technologies, Technoculture, and Posthumanity",
@@ -16706,8 +16871,9 @@ export const papers = [
     "journal": "Journal of Microbiological Methods",
     "abbreviation": "sd",
     "slug": "sd-recent-advancements-in-monitoring-biological-indicators-for-freshwater-monitoring-for-public-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Hyperspectral Remote Sensing: new missions and novel applications",
@@ -18116,8 +18282,9 @@ export const papers = [
     "journal": "Theoretical and Applied Mechanics Letters",
     "abbreviation": "sd",
     "slug": "sd-crossing-mechanics-driven-by-big-data",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Machine learning in the fluid mechanics research of wind energy",
@@ -18126,8 +18293,9 @@ export const papers = [
     "journal": "Theoretical and Applied Mechanics Letters",
     "abbreviation": "sd",
     "slug": "sd-machine-learning-in-the-fluid-mechanics-research-of-wind-energy",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Microplastics in freshwater systems: occurrence and effects",
@@ -18176,8 +18344,9 @@ export const papers = [
     "journal": "Theoretical and Applied Mechanics Letters",
     "abbreviation": "sd",
     "slug": "sd-mechanics-of-origamikirigami-structures-and-metamaterials",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "New insights and perspectives on impact biomechanics for human tissues: from injury prevention, protection to protective equipment",
@@ -18186,8 +18355,9 @@ export const papers = [
     "journal": "Theoretical and Applied Mechanics Letters",
     "abbreviation": "sd",
     "slug": "sd-new-insights-and-perspectives-on-impact-biomechanics-for-human-tissues-from-injury-prevention-protection-to-protective-equipment",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Environmental Mechanics for Extreme Natural Events",
@@ -18196,8 +18366,9 @@ export const papers = [
     "journal": "Theoretical and Applied Mechanics Letters",
     "abbreviation": "sd",
     "slug": "sd-environmental-mechanics-for-extreme-natural-events",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Futures of Interaction, Relationships and Networks; Evolving Interdependencies",
@@ -18292,7 +18463,7 @@ export const papers = [
   {
     "title": "Remote sensing to improve modeling of carbon quantities and the quality of carbon credits",
     "url": "https://www.sciencedirect.com/special-issue/268520/remote-sensing-to-improve-modeling-of-carbon-quantities-and-the-quality-of-carbon-credits",
-    "dueDate": 1732924800000,
+    "dueDate": 1735603200000,
     "journal": "Remote Sensing of Environment",
     "abbreviation": "sd",
     "slug": "sd-remote-sensing-to-improve-modeling-of-carbon-quantities-and-the-quality-of-carbon-credits",
@@ -19296,8 +19467,9 @@ export const papers = [
     "journal": "Coordination Chemistry Reviews",
     "abbreviation": "sd",
     "slug": "sd-contemporary-challenges-in-photochemistry-and-photophysics-of-coordination-compounds",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Marine Resource Management for Carbon Neutrality",
@@ -21192,7 +21364,7 @@ export const papers = [
   {
     "title": "Point-of-care Ultrasound in Infectious Diseases",
     "url": "https://www.sciencedirect.com/special-issue/316728/point-of-care-ultrasound-in-infectious-diseases",
-    "dueDate": 1747180800000,
+    "dueDate": 1730678400000,
     "journal": "Enfermedades Infecciosas y Microbiología Clínica",
     "abbreviation": "sd",
     "slug": "sd-point-of-care-ultrasound-in-infectious-diseases",
@@ -23962,7 +24134,7 @@ export const papers = [
   {
     "title": "Energy, Wellbeing, and Environmental Sustainability in Building Communities in a Changing Climate",
     "url": "https://www.sciencedirect.com/special-issue/315690/energy-wellbeing-and-environmental-sustainability-in-building-communities-in-a-changing-climate",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Energy and Buildings",
     "abbreviation": "sd",
     "slug": "sd-energy-wellbeing-and-environmental-sustainability-in-building-communities-in-a-changing-climate",
@@ -24916,8 +25088,9 @@ export const papers = [
     "journal": "Learning, Culture and Social Interaction",
     "abbreviation": "sd",
     "slug": "sd-sociocultural-and-situated-perspectives-on-learning-with-computational-thinking",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Polycondensation 2024 - In honour of Jim McGrath",
@@ -29247,8 +29420,9 @@ export const papers = [
     "journal": "The International Journal of Biochemistry & Cell Biology",
     "abbreviation": "sd",
     "slug": "sd-big-data-and-multi-omics-in-advancing-cancer-research",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Urban Nature and Human Health",
@@ -30602,7 +30776,7 @@ export const papers = [
   {
     "title": "Future direction of animal alternative/microphysiological systems in drug discovery and development",
     "url": "https://www.sciencedirect.com/special-issue/313328/future-direction-of-animal-alternative-microphysiological-systems-in-drug-discovery-and-development",
-    "dueDate": 1727654400000,
+    "dueDate": 1735603200000,
     "journal": "Drug Metabolism and Pharmacokinetics",
     "abbreviation": "sd",
     "slug": "sd-future-direction-of-animal-alternativemicrophysiological-systems-in-drug-discovery-and-development",
@@ -32145,8 +32319,9 @@ export const papers = [
     "journal": "Journal of Chromatography B",
     "abbreviation": "sd",
     "slug": "sd-special-issue-devoted-to-hplc-2024",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1734577383000
   },
   {
     "title": "Aging Research, Technology and Artificial Intelligence",
