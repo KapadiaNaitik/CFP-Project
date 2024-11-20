@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Tue, 19 Nov 2024 03:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 03:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,97 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Diet-mediated effects on the gut-brain axis in health and disease]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316851/diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease</link>
+            <guid>sd-diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>The Journal of Nutritional Biochemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Digital and Intelligent Approaches for Electric Vehicle Integration and Vehicle-to-Grid Interaction: Prediction, Evaluation, Flexibility, and Resilience]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316841/digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience</link>
+            <guid>sd-digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>International Journal of Electrical Power &amp; Energy Systems (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[19th International Symposium on Recent Advancements in Drug Delivery Systems]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316852/19th-international-symposium-on-recent-advancements-in-drug-delivery-systems</link>
+            <guid>sd-19th-international-symposium-on-recent-advancements-in-drug-delivery-systems</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Journal of Controlled Release (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[From folds to faults: A special issue honouring Richard Lisle]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316847/from-folds-to-faults-a-special-issue-honouring-richard-lisle</link>
+            <guid>sd-from-folds-to-faults-a-special-issue-honouring-richard-lisle</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Journal of Structural Geology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Ordovician Stratigraphy and Palaeontology in Qilian Mountian, Northwestern China]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316848/the-ordovician-stratigraphy-and-palaeontology-in-qilian-mountian-northwestern-china</link>
+            <guid>sd-the-ordovician-stratigraphy-and-palaeontology-in-qilian-mountian-northwestern-china</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Palaeoworld (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Natural and human-related variability and transformation of Chernozems on a global and regional scale (1)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316833/natural-and-human-related-variability-and-transformation-of-chernozems-on-a-global-and-regional-scale-1</link>
+            <guid>sd-natural-and-human-related-variability-and-transformation-of-chernozems-on-a-global-and-regional-scale-1</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Geoderma Regional (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Targeted cancer therapy: the avenues in small molecule development]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316856/targeted-cancer-therapy-the-avenues-in-small-molecule-development</link>
+            <guid>sd-targeted-cancer-therapy-the-avenues-in-small-molecule-development</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Bioorganic Chemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Late Quaternary desertification, landscape changes, paleoclimate, and human adaptation in Eurasian drylands]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316853/late-quaternary-desertification-landscape-changes-paleoclimate-and-human-adaptation-in-eurasian-drylands</link>
+            <guid>sd-late-quaternary-desertification-landscape-changes-paleoclimate-and-human-adaptation-in-eurasian-drylands</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Quaternary International (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Special Issue on: The Microfoundations of Entrepreneurial Ecosystems]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316834/special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems</link>
+            <guid>sd-special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Journal of Business Venturing (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Biostimulants for sustainable agriculture: enhancing plant tolerance to abiotic and biotic stresses]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316857/biostimulants-for-sustainable-agriculture-enhancing-plant-tolerance-to-abiotic-and-biotic-stresses</link>
+            <guid>sd-biostimulants-for-sustainable-agriculture-enhancing-plant-tolerance-to-abiotic-and-biotic-stresses</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Plant Stress (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Honoring Prof. Raimund Rolfes 65th Birthday]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316854/honoring-prof-raimund-rolfes-65th-birthday</link>
+            <guid>sd-honoring-prof-raimund-rolfes-65th-birthday</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Composite Structures (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Mind in Deep Time: Interdisciplinary explorations of cognitive evolution]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316874/the-mind-in-deep-time-interdisciplinary-explorations-of-cognitive-evolution</link>
+            <guid>sd-the-mind-in-deep-time-interdisciplinary-explorations-of-cognitive-evolution</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Journal of Archaeological Science (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Closing the forest transition theory - the policy and practice gap of forest restoration]]></title>
+            <link>https://www.sciencedirect.com/special-issue/277977/closing-the-forest-transition-theory-the-policy-and-practice-gap-of-forest-restoration</link>
+            <guid>sd-closing-the-forest-transition-theory-the-policy-and-practice-gap-of-forest-restoration</guid>
+            <pubDate>Wed, 20 Nov 2024 03:02:24 GMT</pubDate>
+            <author>Land Use Policy (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Multi-Sensor and Synthetic Data Fusion in Advanced AI Systems: Opportunities and Ethical Challenges]]></title>
             <link>https://www.sciencedirect.com/special-issue/316809/multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges</link>
@@ -6035,7 +6126,7 @@
         </item>
         <item>
             <title><![CDATA[Physical Activity for People Living with Disability]]></title>
-            <link>https://www.sciencedirect.com/special-issue/300024/physical-activity-for-people-living-with-disability</link>
+            <link>https://www.sciencedirect.com/special-issue/316826/physical-activity-for-people-living-with-disability</link>
             <guid>sd-physical-activity-for-people-living-with-disability</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>JSAMS Plus (SD)</author>

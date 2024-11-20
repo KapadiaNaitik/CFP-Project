@@ -1,5 +1,135 @@
 export const papers = [
   {
+    "title": "Diet-mediated effects on the gut-brain axis in health and disease",
+    "url": "https://www.sciencedirect.com/special-issue/316851/diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease",
+    "dueDate": 1746057600000,
+    "journal": "The Journal of Nutritional Biochemistry",
+    "abbreviation": "sd",
+    "slug": "sd-diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Digital and Intelligent Approaches for Electric Vehicle Integration and Vehicle-to-Grid Interaction: Prediction, Evaluation, Flexibility, and Resilience",
+    "url": "https://www.sciencedirect.com/special-issue/316841/digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience",
+    "dueDate": null,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "abbreviation": "sd",
+    "slug": "sd-digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "19th International Symposium on Recent Advancements in Drug Delivery Systems",
+    "url": "https://www.sciencedirect.com/special-issue/316852/19th-international-symposium-on-recent-advancements-in-drug-delivery-systems",
+    "dueDate": 1741996800000,
+    "journal": "Journal of Controlled Release",
+    "abbreviation": "sd",
+    "slug": "sd-19th-international-symposium-on-recent-advancements-in-drug-delivery-systems",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "From folds to faults: A special issue honouring Richard Lisle",
+    "url": "https://www.sciencedirect.com/special-issue/316847/from-folds-to-faults-a-special-issue-honouring-richard-lisle",
+    "dueDate": 1756512000000,
+    "journal": "Journal of Structural Geology",
+    "abbreviation": "sd",
+    "slug": "sd-from-folds-to-faults-a-special-issue-honouring-richard-lisle",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "The Ordovician Stratigraphy and Palaeontology in Qilian Mountian, Northwestern China",
+    "url": "https://www.sciencedirect.com/special-issue/316848/the-ordovician-stratigraphy-and-palaeontology-in-qilian-mountian-northwestern-china",
+    "dueDate": 1751241600000,
+    "journal": "Palaeoworld",
+    "abbreviation": "sd",
+    "slug": "sd-the-ordovician-stratigraphy-and-palaeontology-in-qilian-mountian-northwestern-china",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Natural and human-related variability and transformation of Chernozems on a global and regional scale (1)",
+    "url": "https://www.sciencedirect.com/special-issue/316833/natural-and-human-related-variability-and-transformation-of-chernozems-on-a-global-and-regional-scale-1",
+    "dueDate": 1740700800000,
+    "journal": "Geoderma Regional",
+    "abbreviation": "sd",
+    "slug": "sd-natural-and-human-related-variability-and-transformation-of-chernozems-on-a-global-and-regional-scale-1",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Targeted cancer therapy: the avenues in small molecule development",
+    "url": "https://www.sciencedirect.com/special-issue/316856/targeted-cancer-therapy-the-avenues-in-small-molecule-development",
+    "dueDate": 1753920000000,
+    "journal": "Bioorganic Chemistry",
+    "abbreviation": "sd",
+    "slug": "sd-targeted-cancer-therapy-the-avenues-in-small-molecule-development",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Late Quaternary desertification, landscape changes, paleoclimate, and human adaptation in Eurasian drylands",
+    "url": "https://www.sciencedirect.com/special-issue/316853/late-quaternary-desertification-landscape-changes-paleoclimate-and-human-adaptation-in-eurasian-drylands",
+    "dueDate": 1732924800000,
+    "journal": "Quaternary International",
+    "abbreviation": "sd",
+    "slug": "sd-late-quaternary-desertification-landscape-changes-paleoclimate-and-human-adaptation-in-eurasian-drylands",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Special Issue on: The Microfoundations of Entrepreneurial Ecosystems",
+    "url": "https://www.sciencedirect.com/special-issue/316834/special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems",
+    "dueDate": 1738368000000,
+    "journal": "Journal of Business Venturing",
+    "abbreviation": "sd",
+    "slug": "sd-special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Biostimulants for sustainable agriculture: enhancing plant tolerance to abiotic and biotic stresses",
+    "url": "https://www.sciencedirect.com/special-issue/316857/biostimulants-for-sustainable-agriculture-enhancing-plant-tolerance-to-abiotic-and-biotic-stresses",
+    "dueDate": 1753833600000,
+    "journal": "Plant Stress",
+    "abbreviation": "sd",
+    "slug": "sd-biostimulants-for-sustainable-agriculture-enhancing-plant-tolerance-to-abiotic-and-biotic-stresses",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Honoring Prof. Raimund Rolfes 65th Birthday",
+    "url": "https://www.sciencedirect.com/special-issue/316854/honoring-prof-raimund-rolfes-65th-birthday",
+    "dueDate": 1751241600000,
+    "journal": "Composite Structures",
+    "abbreviation": "sd",
+    "slug": "sd-honoring-prof-raimund-rolfes-65th-birthday",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "The Mind in Deep Time: Interdisciplinary explorations of cognitive evolution",
+    "url": "https://www.sciencedirect.com/special-issue/316874/the-mind-in-deep-time-interdisciplinary-explorations-of-cognitive-evolution",
+    "dueDate": 1741996800000,
+    "journal": "Journal of Archaeological Science",
+    "abbreviation": "sd",
+    "slug": "sd-the-mind-in-deep-time-interdisciplinary-explorations-of-cognitive-evolution",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
+    "title": "Closing the forest transition theory - the policy and practice gap of forest restoration",
+    "url": "https://www.sciencedirect.com/special-issue/277977/closing-the-forest-transition-theory-the-policy-and-practice-gap-of-forest-restoration",
+    "dueDate": 1735603200000,
+    "journal": "Land Use Policy",
+    "abbreviation": "sd",
+    "slug": "sd-closing-the-forest-transition-theory-the-policy-and-practice-gap-of-forest-restoration",
+    "active": true,
+    "pubDate": 1732071744000
+  },
+  {
     "title": "Multi-Sensor and Synthetic Data Fusion in Advanced AI Systems: Opportunities and Ethical Challenges",
     "url": "https://www.sciencedirect.com/special-issue/316809/multi-sensor-and-synthetic-data-fusion-in-advanced-ai-systems-opportunities-and-ethical-challenges",
     "dueDate": 1753920000000,
@@ -62,7 +192,7 @@ export const papers = [
   {
     "title": "Women and motorcycle-taxi operations in Sub-Saharan Africa",
     "url": "https://www.sciencedirect.com/special-issue/316807/women-and-motorcycle-taxi-operations-in-sub-saharan-africa",
-    "dueDate": 1736035200000,
+    "dueDate": 1735862400000,
     "journal": "African Transport Studies",
     "abbreviation": "sd",
     "slug": "sd-women-and-motorcycle-taxi-operations-in-sub-saharan-africa",
@@ -2632,7 +2762,7 @@ export const papers = [
   {
     "title": "Electrochemical Energy for a Greener and more Sustainable Future Society",
     "url": "https://www.sciencedirect.com/special-issue/310896/electrochemical-energy-for-a-greener-and-more-sustainable-future-society",
-    "dueDate": 1731456000000,
+    "dueDate": 1740700800000,
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-electrochemical-energy-for-a-greener-and-more-sustainable-future-society",
@@ -3072,7 +3202,7 @@ export const papers = [
   {
     "title": "An endocrinological perspective on metabolic diseases",
     "url": "https://www.sciencedirect.com/special-issue/308747/an-endocrinological-perspective-on-metabolic-diseases",
-    "dueDate": 1731801600000,
+    "dueDate": 1738281600000,
     "journal": "Molecular and Cellular Endocrinology",
     "abbreviation": "sd",
     "slug": "sd-an-endocrinological-perspective-on-metabolic-diseases",
@@ -5822,7 +5952,7 @@ export const papers = [
   {
     "title": "Green Mobility and Tourism: Advancing Sustainable Development Goals",
     "url": "https://www.sciencedirect.com/special-issue/304175/green-mobility-and-tourism-advancing-sustainable-development-goals",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Systems and Soft Computing",
     "abbreviation": "sd",
     "slug": "sd-green-mobility-and-tourism-advancing-sustainable-development-goals",
@@ -7553,7 +7683,7 @@ export const papers = [
   {
     "title": "Current directions in plant nitric oxide research",
     "url": "https://www.sciencedirect.com/special-issue/302351/current-directions-in-plant-nitric-oxide-research",
-    "dueDate": 1734652800000,
+    "dueDate": 1743379200000,
     "journal": "Plant Science",
     "abbreviation": "sd",
     "slug": "sd-current-directions-in-plant-nitric-oxide-research",
@@ -8602,8 +8732,8 @@ export const papers = [
   },
   {
     "title": "Physical Activity for People Living with Disability",
-    "url": "https://www.sciencedirect.com/special-issue/300024/physical-activity-for-people-living-with-disability",
-    "dueDate": 1727654400000,
+    "url": "https://www.sciencedirect.com/special-issue/316826/physical-activity-for-people-living-with-disability",
+    "dueDate": 1734220800000,
     "journal": "JSAMS Plus",
     "abbreviation": "sd",
     "slug": "sd-physical-activity-for-people-living-with-disability",
@@ -8853,7 +8983,7 @@ export const papers = [
   {
     "title": "Water and Wastewater surveillance for pathogens and antimicrobial resistance",
     "url": "https://www.sciencedirect.com/special-issue/299600/water-and-wastewater-surveillance-for-pathogens-and-antimicrobial-resistance",
-    "dueDate": 1732406400000,
+    "dueDate": 1741996800000,
     "journal": "Cleaner Water",
     "abbreviation": "sd",
     "slug": "sd-water-and-wastewater-surveillance-for-pathogens-and-antimicrobial-resistance",
@@ -11577,8 +11707,9 @@ export const papers = [
     "journal": "Current Research in Microbial Sciences",
     "abbreviation": "sd",
     "slug": "sd-melioidosis-in-south-asia",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734663744000
   },
   {
     "title": "Renewable Energy Impact on Urban Transportation Systems",
@@ -13336,7 +13467,7 @@ export const papers = [
   {
     "title": "Household Finance and Socioeconomic Development",
     "url": "https://www.sciencedirect.com/special-issue/289573/household-finance-and-socioeconomic-development",
-    "dueDate": 1732924800000,
+    "dueDate": 1734652800000,
     "journal": "Emerging Markets Review",
     "abbreviation": "sd",
     "slug": "sd-household-finance-and-socioeconomic-development",
@@ -14797,7 +14928,7 @@ export const papers = [
   {
     "title": "Circular Economy in the Healthcare Industry: Opportunities and Challenges",
     "url": "https://www.sciencedirect.com/special-issue/284780/circular-economy-in-the-healthcare-industry-opportunities-and-challenges",
-    "dueDate": 1730332800000,
+    "dueDate": 1735603200000,
     "journal": "Resources, Conservation and Recycling",
     "abbreviation": "sd",
     "slug": "sd-circular-economy-in-the-healthcare-industry-opportunities-and-challenges",
@@ -17458,7 +17589,7 @@ export const papers = [
   {
     "title": "Effects of Stress Exposure During Development on Neurobehavioral and Neuroendocrine Function",
     "url": "https://www.sciencedirect.com/special-issue/274054/effects-of-stress-exposure-during-development-on-neurobehavioral-and-neuroendocrine-function",
-    "dueDate": 1730332800000,
+    "dueDate": 1733097600000,
     "journal": "Neurotoxicology and Teratology",
     "abbreviation": "sd",
     "slug": "sd-effects-of-stress-exposure-during-development-on-neurobehavioral-and-neuroendocrine-function",
@@ -23404,7 +23535,7 @@ export const papers = [
   {
     "title": "The development of innovation and creativity in children and other animals",
     "url": "https://www.sciencedirect.com/special-issue/315960/the-development-of-innovation-and-creativity-in-children-and-other-animals",
-    "dueDate": 1767139200000,
+    "dueDate": 1781481600000,
     "journal": "Acta Psychologica",
     "abbreviation": "sd",
     "slug": "sd-the-development-of-innovation-and-creativity-in-children-and-other-animals",
@@ -25435,7 +25566,7 @@ export const papers = [
   {
     "title": "How agriculture managements influence biogeochemical cycles of soil carbon: processes, mechanisms and ecological consequences",
     "url": "https://www.sciencedirect.com/special-issue/315069/how-agriculture-managements-influence-biogeochemical-cycles-of-soil-carbon-processes-mechanisms-and-ecological-consequences",
-    "dueDate": 1727654400000,
+    "dueDate": 1759190400000,
     "journal": "Agriculture, Ecosystems & Environment",
     "abbreviation": "sd",
     "slug": "sd-how-agriculture-managements-influence-biogeochemical-cycles-of-soil-carbon-processes-mechanisms-and-ecological-consequences",
@@ -31303,8 +31434,9 @@ export const papers = [
     "journal": "Atención Primaria Práctica",
     "abbreviation": "sd",
     "slug": "sd-atencion-domiciliaria-presente-y-futuro",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1734663744000
   },
   {
     "title": "Computer Graphics & Visual Computing Conference 2024 Special Issue",
@@ -31850,7 +31982,7 @@ export const papers = [
   {
     "title": "Dynamics, Disorder, and Regulation of Proteins and Nucleic Acids X",
     "url": "https://www.sciencedirect.com/special-issue/312904/dynamics-disorder-and-regulation-of-proteins-and-nucleic-acids-x",
-    "dueDate": 1734220800000,
+    "dueDate": 1740700800000,
     "journal": "Journal of Structural Biology: X",
     "abbreviation": "sd",
     "slug": "sd-dynamics-disorder-and-regulation-of-proteins-and-nucleic-acids-x",
@@ -31884,13 +32016,14 @@ export const papers = [
     "journal": "Plant Physiology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-physiological-biochemical-and-molecular-responses-of-plants-to-stressful-conditions",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1734663744000
   },
   {
     "title": "Dynamics, Disorder, and Regulation of Proteins and Nucleic Acids",
     "url": "https://www.sciencedirect.com/special-issue/312903/dynamics-disorder-and-regulation-of-proteins-and-nucleic-acids",
-    "dueDate": 1734220800000,
+    "dueDate": 1740700800000,
     "journal": "Journal of Structural Biology",
     "abbreviation": "sd",
     "slug": "sd-dynamics-disorder-and-regulation-of-proteins-and-nucleic-acids",
