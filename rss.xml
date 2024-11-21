@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Wed, 20 Nov 2024 03:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 03:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,83 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Data Generation in Healthcare Environments]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316886/data-generation-in-healthcare-environments</link>
+            <guid>sd-data-generation-in-healthcare-environments</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Journal of Biomedical Informatics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Functional materials for a sustainable world]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316921/functional-materials-for-a-sustainable-world</link>
+            <guid>sd-functional-materials-for-a-sustainable-world</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Sustainable Chemistry One World (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Promising Early Career Scientists 2025]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316922/promising-early-career-scientists-2025</link>
+            <guid>sd-promising-early-career-scientists-2025</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Materials Today Energy (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Fritz Kuehn 60th Birthday Anniversary]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316920/fritz-kuehn-60th-birthday-anniversary</link>
+            <guid>sd-fritz-kuehn-60th-birthday-anniversary</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Journal of Organometallic Chemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Modelling and Simulation, concepts and applications for sustainability]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316923/modelling-and-simulation-concepts-and-applications-for-sustainability</link>
+            <guid>sd-modelling-and-simulation-concepts-and-applications-for-sustainability</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Chemical Engineering Science (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unraveling the Universe: Recent Advances in Particle Physics, Nuclear Physics, Cosmology and Astronomy]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316876/unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy</link>
+            <guid>sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Journal of Subatomic Particles and Cosmology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Jean Futrell]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316877/jean-futrell</link>
+            <guid>sd-jean-futrell</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>International Journal of Mass Spectrometry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Unraveling the Universe: Recent Advances in Particle Physics, Nuclear Physics, Cosmology and Astronomy (1)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316897/unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1</link>
+            <guid>sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Journal of Subatomic Particles and Cosmology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[VSI: Pediatric oncology]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316904/vsi-pediatric-oncology</link>
+            <guid>sd-vsi-pediatric-oncology</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Journal of Pediatric Surgery Open (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Innovations and Advances in Multifunctional Nanocomposites for Energy Harvesting and Sensing Applications]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316901/innovations-and-advances-in-multifunctional-nanocomposites-for-energy-harvesting-and-sensing-applications</link>
+            <guid>sd-innovations-and-advances-in-multifunctional-nanocomposites-for-energy-harvesting-and-sensing-applications</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>Chemical Physics Impact (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Nonthermal technologies to process foods for a sustainable supply chain]]></title>
+            <link>https://www.sciencedirect.com/special-issue/292450/nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain</link>
+            <guid>sd-nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain</guid>
+            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
+            <author>LWT (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Diet-mediated effects on the gut-brain axis in health and disease]]></title>
             <link>https://www.sciencedirect.com/special-issue/316851/diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease</link>

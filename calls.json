@@ -1,5 +1,115 @@
 [
   {
+    "title": "Data Generation in Healthcare Environments",
+    "url": "https://www.sciencedirect.com/special-issue/316886/data-generation-in-healthcare-environments",
+    "dueDate": 1748736000000,
+    "journal": "Journal of Biomedical Informatics",
+    "abbreviation": "sd",
+    "slug": "sd-data-generation-in-healthcare-environments",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Functional materials for a sustainable world",
+    "url": "https://www.sciencedirect.com/special-issue/316921/functional-materials-for-a-sustainable-world",
+    "dueDate": 1756598400000,
+    "journal": "Sustainable Chemistry One World",
+    "abbreviation": "sd",
+    "slug": "sd-functional-materials-for-a-sustainable-world",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Promising Early Career Scientists 2025",
+    "url": "https://www.sciencedirect.com/special-issue/316922/promising-early-career-scientists-2025",
+    "dueDate": 1743465600000,
+    "journal": "Materials Today Energy",
+    "abbreviation": "sd",
+    "slug": "sd-promising-early-career-scientists-2025",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Fritz Kuehn 60th Birthday Anniversary",
+    "url": "https://www.sciencedirect.com/special-issue/316920/fritz-kuehn-60th-birthday-anniversary",
+    "dueDate": 1745539200000,
+    "journal": "Journal of Organometallic Chemistry",
+    "abbreviation": "sd",
+    "slug": "sd-fritz-kuehn-60th-birthday-anniversary",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Modelling and Simulation, concepts and applications for sustainability",
+    "url": "https://www.sciencedirect.com/special-issue/316923/modelling-and-simulation-concepts-and-applications-for-sustainability",
+    "dueDate": 1736899200000,
+    "journal": "Chemical Engineering Science",
+    "abbreviation": "sd",
+    "slug": "sd-modelling-and-simulation-concepts-and-applications-for-sustainability",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Unraveling the Universe: Recent Advances in Particle Physics, Nuclear Physics, Cosmology and Astronomy",
+    "url": "https://www.sciencedirect.com/special-issue/316876/unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy",
+    "dueDate": 1740700800000,
+    "journal": "Journal of Subatomic Particles and Cosmology",
+    "abbreviation": "sd",
+    "slug": "sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Jean Futrell",
+    "url": "https://www.sciencedirect.com/special-issue/316877/jean-futrell",
+    "dueDate": 1751328000000,
+    "journal": "International Journal of Mass Spectrometry",
+    "abbreviation": "sd",
+    "slug": "sd-jean-futrell",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Unraveling the Universe: Recent Advances in Particle Physics, Nuclear Physics, Cosmology and Astronomy (1)",
+    "url": "https://www.sciencedirect.com/special-issue/316897/unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1",
+    "dueDate": 1735603200000,
+    "journal": "Journal of Subatomic Particles and Cosmology",
+    "abbreviation": "sd",
+    "slug": "sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "VSI: Pediatric oncology",
+    "url": "https://www.sciencedirect.com/special-issue/316904/vsi-pediatric-oncology",
+    "dueDate": 1747267200000,
+    "journal": "Journal of Pediatric Surgery Open",
+    "abbreviation": "sd",
+    "slug": "sd-vsi-pediatric-oncology",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Innovations and Advances in Multifunctional Nanocomposites for Energy Harvesting and Sensing Applications",
+    "url": "https://www.sciencedirect.com/special-issue/316901/innovations-and-advances-in-multifunctional-nanocomposites-for-energy-harvesting-and-sensing-applications",
+    "dueDate": 1749513600000,
+    "journal": "Chemical Physics Impact",
+    "abbreviation": "sd",
+    "slug": "sd-innovations-and-advances-in-multifunctional-nanocomposites-for-energy-harvesting-and-sensing-applications",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
+    "title": "Nonthermal technologies to process foods for a sustainable supply chain",
+    "url": "https://www.sciencedirect.com/special-issue/292450/nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain",
+    "dueDate": 1732924800000,
+    "journal": "LWT",
+    "abbreviation": "sd",
+    "slug": "sd-nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain",
+    "active": true,
+    "pubDate": 1732158136000
+  },
+  {
     "title": "Diet-mediated effects on the gut-brain axis in health and disease",
     "url": "https://www.sciencedirect.com/special-issue/316851/diet-mediated-effects-on-the-gut-brain-axis-in-health-and-disease",
     "dueDate": 1746057600000,
@@ -812,7 +922,7 @@
   {
     "title": "Hypercalcified sponges: palaeogeography, palaeoecology and systematics",
     "url": "https://www.sciencedirect.com/special-issue/312485/hypercalcified-sponges-palaeogeography-palaeoecology-and-systematics",
-    "dueDate": 1733011200000,
+    "dueDate": 1751241600000,
     "journal": "Journal of Palaeogeography",
     "abbreviation": "sd",
     "slug": "sd-hypercalcified-sponges-palaeogeography-palaeoecology-and-systematics",
@@ -1392,7 +1502,7 @@
   {
     "title": "Microstructure-Aware Modelling of the Mechanics of Heterogeneous Materials: Formulations, Experimental and Data Science Integration, and Engineering Applications——Special Issue in Honor of Ricardo Lebensohn",
     "url": "https://www.sciencedirect.com/special-issue/312230/microstructure-aware-modelling-of-the-mechanics-of-heterogeneous-materials-formulations-experimental-and-data-science-integration-and-engineering-applications-special-issue-in-honor-of-ricardo-lebensohn",
-    "dueDate": 1736899200000,
+    "dueDate": 1740700800000,
     "journal": "Mechanics Research Communications",
     "abbreviation": "sd",
     "slug": "sd-microstructure-aware-modelling-of-the-mechanics-of-heterogeneous-materials-formulations-experimental-and-data-science-integration-and-engineering-applicationsspecial-issue-in-honor-of-ricardo-lebensohn",
@@ -3422,7 +3532,7 @@
   {
     "title": "Latest pedagogical developments in chemical engineering education in Africa: innovative approaches inside and outside the classroom",
     "url": "https://www.sciencedirect.com/special-issue/308503/latest-pedagogical-developments-in-chemical-engineering-education-in-africa-innovative-approaches-inside-and-outside-the-classroom",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Education for Chemical Engineers",
     "abbreviation": "sd",
     "slug": "sd-latest-pedagogical-developments-in-chemical-engineering-education-in-africa-innovative-approaches-inside-and-outside-the-classroom",
@@ -3472,7 +3582,7 @@
   {
     "title": "Exploring Non-Thermal Methodology for Fruit and Leaf Protein Extraction and Utilization",
     "url": "https://www.sciencedirect.com/special-issue/308250/exploring-non-thermal-methodology-for-fruit-and-leaf-protein-extraction-and-utilization",
-    "dueDate": 1733011200000,
+    "dueDate": 1743379200000,
     "journal": "Food Chemistry: X",
     "abbreviation": "sd",
     "slug": "sd-exploring-non-thermal-methodology-for-fruit-and-leaf-protein-extraction-and-utilization",
@@ -7317,8 +7427,9 @@
     "journal": "Reviews in Physics",
     "abbreviation": "sd",
     "slug": "sd-topological-photonics",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734750136000
   },
   {
     "title": "Embodied Artificial Intelligence for Robotic Vision and Navigation",
@@ -8243,7 +8354,7 @@
   {
     "title": "The Role of Transcriptomics/Epigenetics in Addiction",
     "url": "https://www.sciencedirect.com/special-issue/301708/the-role-of-transcriptomics-epigenetics-in-addiction",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Addiction Neuroscience",
     "abbreviation": "sd",
     "slug": "sd-the-role-of-transcriptomicsepigenetics-in-addiction",
@@ -9863,7 +9974,7 @@
   {
     "title": "Machine learning in Chromatography",
     "url": "https://www.sciencedirect.com/special-issue/298238/machine-learning-in-chromatography",
-    "dueDate": 1735603200000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Chromatography A",
     "abbreviation": "sd",
     "slug": "sd-machine-learning-in-chromatography",
@@ -9903,7 +10014,7 @@
   {
     "title": "Silanes and Catalytic Hydrosilylation and its Applications",
     "url": "https://www.sciencedirect.com/special-issue/298251/silanes-and-catalytic-hydrosilylation-and-its-applications",
-    "dueDate": 1732924800000,
+    "dueDate": 1740700800000,
     "journal": "Journal of Organometallic Chemistry",
     "abbreviation": "sd",
     "slug": "sd-silanes-and-catalytic-hydrosilylation-and-its-applications",
@@ -12628,8 +12739,9 @@
     "journal": "Current Research in Environmental Sustainability",
     "abbreviation": "sd",
     "slug": "sd-water-energy-food-ecosystem-nexus-adaptive-governance-enhancing-resilience-to-a-complex-world",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734750136000
   },
   {
     "title": "3D Printed Micro and Nano Sensors for Healthcare applications 2023 (3DPMNS-2023)",
@@ -13099,8 +13211,9 @@
     "journal": "Journal of Magnetic Resonance Open",
     "abbreviation": "sd",
     "slug": "sd-hyperpolarized-magnetic-resonance",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734750136000
   },
   {
     "title": "Application of Large Language Models in Materials Science",
@@ -16408,7 +16521,7 @@
   {
     "title": "Special Issue in Celebration of Larry Que",
     "url": "https://www.sciencedirect.com/special-issue/280614/special-issue-in-celebration-of-larry-que",
-    "dueDate": 1731628800000,
+    "dueDate": 1735689600000,
     "journal": "Journal of Inorganic Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-special-issue-in-celebration-of-larry-que",
@@ -21965,7 +22078,7 @@
   {
     "title": "Integrating Social, Emotional, and Academic Learning: Knowledge, Innovation, and Transformation",
     "url": "https://www.sciencedirect.com/special-issue/316556/integrating-social-emotional-and-academic-learning-knowledge-innovation-and-transformation",
-    "dueDate": 1755216000000,
+    "dueDate": 1759190400000,
     "journal": "Social and Emotional Learning: Research, Practice, and Policy",
     "abbreviation": "sd",
     "slug": "sd-integrating-social-emotional-and-academic-learning-knowledge-innovation-and-transformation",
@@ -22365,7 +22478,7 @@
   {
     "title": "10th Asian Triangle Heavy-Ion Conference (ATHIC 2025)",
     "url": "https://www.sciencedirect.com/special-issue/316406/10th-asian-triangle-heavy-ion-conference-athic-2025",
-    "dueDate": 1739577600000,
+    "dueDate": 1744675200000,
     "journal": "Journal of Subatomic Particles and Cosmology",
     "abbreviation": "sd",
     "slug": "sd-10th-asian-triangle-heavy-ion-conference-athic-2025",
@@ -25936,7 +26049,7 @@
   {
     "title": "The Early Acheulean on the Ethiopian highlands: The case of Gombore IB at Melka Kunture (Upper Awash, Ethiopia)",
     "url": "https://www.sciencedirect.com/special-issue/314892/the-early-acheulean-on-the-ethiopian-highlands-the-case-of-gombore-ib-at-melka-kunture-upper-awash-ethiopia",
-    "dueDate": 1728000000000,
+    "dueDate": 1733270400000,
     "journal": "Quaternary International",
     "abbreviation": "sd",
     "slug": "sd-the-early-acheulean-on-the-ethiopian-highlands-the-case-of-gombore-ib-at-melka-kunture-upper-awash-ethiopia",
@@ -32149,8 +32262,9 @@
     "journal": "System",
     "abbreviation": "sd",
     "slug": "sd-generative-artificial-intelligence-for-language-learning-and-teaching-opportunities-challenges-and-ethical-considerations",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1734750136000
   },
   {
     "title": "Tissue Engineering and Regenerative Medicine Applications",
