@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Thu, 21 Nov 2024 03:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 03:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,62 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Recognizing and Overcoming Inequities to Achieve Inclusive Cancer Care]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316971/recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care</link>
+            <guid>sd-recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Seminars in Oncology Nursing (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series</link>
+            <guid>sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Journal of Computational and Applied Mathematics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recent Advances in Intelligent Control for Complex Industrial Internet Systems]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316962/recent-advances-in-intelligent-control-for-complex-industrial-internet-systems</link>
+            <guid>sd-recent-advances-in-intelligent-control-for-complex-industrial-internet-systems</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Journal of the Franklin Institute (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series</link>
+            <guid>sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Systems and Soft Computing (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Public EV Charger infrastructure: A Transport Geography Perspective]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316967/public-ev-charger-infrastructure-a-transport-geography-perspective</link>
+            <guid>sd-public-ev-charger-infrastructure-a-transport-geography-perspective</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Journal of Transport Geography (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Proceedings of 29th International Conference on Nuclear Tracks and Radiation Measurements (ICNTRM29)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316946/proceedings-of-29th-international-conference-on-nuclear-tracks-and-radiation-measurements-icntrm29</link>
+            <guid>sd-proceedings-of-29th-international-conference-on-nuclear-tracks-and-radiation-measurements-icntrm29</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Radiation Measurements (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Decontamination of water through integrated biological and electrochemical technologies]]></title>
+            <link>https://www.sciencedirect.com/special-issue/303614/decontamination-of-water-through-integrated-biological-and-electrochemical-technologies</link>
+            <guid>sd-decontamination-of-water-through-integrated-biological-and-electrochemical-technologies</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Current Research in Biotechnology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Separation Challenges in Biotherapeutics Manufacturing]]></title>
+            <link>https://www.sciencedirect.com/special-issue/290858/separation-challenges-in-biotherapeutics-manufacturing</link>
+            <guid>sd-separation-challenges-in-biotherapeutics-manufacturing</guid>
+            <pubDate>Fri, 22 Nov 2024 03:03:09 GMT</pubDate>
+            <author>Journal of Chromatography A (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Data Generation in Healthcare Environments]]></title>
             <link>https://www.sciencedirect.com/special-issue/316886/data-generation-in-healthcare-environments</link>

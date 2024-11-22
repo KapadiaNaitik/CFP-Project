@@ -1,5 +1,85 @@
 [
   {
+    "title": "Recognizing and Overcoming Inequities to Achieve Inclusive Cancer Care",
+    "url": "https://www.sciencedirect.com/special-issue/316971/recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care",
+    "dueDate": 1740614400000,
+    "journal": "Seminars in Oncology Nursing",
+    "abbreviation": "sd",
+    "slug": "sd-recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)",
+    "url": "https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
+    "dueDate": 1747267200000,
+    "journal": "Journal of Computational and Applied Mathematics",
+    "abbreviation": "sd",
+    "slug": "sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Recent Advances in Intelligent Control for Complex Industrial Internet Systems",
+    "url": "https://www.sciencedirect.com/special-issue/316962/recent-advances-in-intelligent-control-for-complex-industrial-internet-systems",
+    "dueDate": 1756598400000,
+    "journal": "Journal of the Franklin Institute",
+    "abbreviation": "sd",
+    "slug": "sd-recent-advances-in-intelligent-control-for-complex-industrial-internet-systems",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)",
+    "url": "https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
+    "dueDate": 1747267200000,
+    "journal": "Systems and Soft Computing",
+    "abbreviation": "sd",
+    "slug": "sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Public EV Charger infrastructure: A Transport Geography Perspective",
+    "url": "https://www.sciencedirect.com/special-issue/316967/public-ev-charger-infrastructure-a-transport-geography-perspective",
+    "dueDate": 1748563200000,
+    "journal": "Journal of Transport Geography",
+    "abbreviation": "sd",
+    "slug": "sd-public-ev-charger-infrastructure-a-transport-geography-perspective",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Proceedings of 29th International Conference on Nuclear Tracks and Radiation Measurements (ICNTRM29)",
+    "url": "https://www.sciencedirect.com/special-issue/316946/proceedings-of-29th-international-conference-on-nuclear-tracks-and-radiation-measurements-icntrm29",
+    "dueDate": 1803859200000,
+    "journal": "Radiation Measurements",
+    "abbreviation": "sd",
+    "slug": "sd-proceedings-of-29th-international-conference-on-nuclear-tracks-and-radiation-measurements-icntrm29",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Decontamination of water through integrated biological and electrochemical technologies",
+    "url": "https://www.sciencedirect.com/special-issue/303614/decontamination-of-water-through-integrated-biological-and-electrochemical-technologies",
+    "dueDate": 1740700800000,
+    "journal": "Current Research in Biotechnology",
+    "abbreviation": "sd",
+    "slug": "sd-decontamination-of-water-through-integrated-biological-and-electrochemical-technologies",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
+    "title": "Separation Challenges in Biotherapeutics Manufacturing",
+    "url": "https://www.sciencedirect.com/special-issue/290858/separation-challenges-in-biotherapeutics-manufacturing",
+    "dueDate": 1735603200000,
+    "journal": "Journal of Chromatography A",
+    "abbreviation": "sd",
+    "slug": "sd-separation-challenges-in-biotherapeutics-manufacturing",
+    "active": true,
+    "pubDate": 1732244589000
+  },
+  {
     "title": "Data Generation in Healthcare Environments",
     "url": "https://www.sciencedirect.com/special-issue/316886/data-generation-in-healthcare-environments",
     "dueDate": 1748736000000,
@@ -122,7 +202,7 @@
   {
     "title": "Digital and Intelligent Approaches for Electric Vehicle Integration and Vehicle-to-Grid Interaction: Prediction, Evaluation, Flexibility, and Resilience",
     "url": "https://www.sciencedirect.com/special-issue/316841/digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience",
-    "dueDate": null,
+    "dueDate": 1748649600000,
     "journal": "International Journal of Electrical Power & Energy Systems",
     "abbreviation": "sd",
     "slug": "sd-digital-and-intelligent-approaches-for-electric-vehicle-integration-and-vehicle-to-grid-interaction-prediction-evaluation-flexibility-and-resilience",
@@ -7534,7 +7614,7 @@
   {
     "title": "Advancing Urban and Territorial Performance: Exploring the Latest Innovations in Smart Cities",
     "url": "https://www.sciencedirect.com/special-issue/302358/advancing-urban-and-territorial-performance-exploring-the-latest-innovations-in-smart-cities",
-    "dueDate": 1730332800000,
+    "dueDate": 1735603200000,
     "journal": "Journal of Urban Management",
     "abbreviation": "sd",
     "slug": "sd-advancing-urban-and-territorial-performance-exploring-the-latest-innovations-in-smart-cities",
@@ -12840,8 +12920,9 @@
     "journal": "Chemosphere",
     "abbreviation": "sd",
     "slug": "sd-novel-catalytic-processes-and-wastewater-treatment",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734836589000
   },
   {
     "title": "Parameter estimation and sensitivity analysis of dynamic crop models",
@@ -14775,8 +14856,9 @@
     "journal": "Seminars in Oncology Nursing",
     "abbreviation": "sd",
     "slug": "sd-calls-for-upcoming-special-issues",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734836589000
   },
   {
     "title": "Beyond the Hidden Curriculum: Justice, Power, and Innovation in Health Professions Training",
@@ -21588,7 +21670,7 @@
   {
     "title": "Information, Contracts, and Firms",
     "url": "https://www.sciencedirect.com/special-issue/316757/information-contracts-and-firms",
-    "dueDate": 1769904000000,
+    "dueDate": 1732579200000,
     "journal": "Journal of Corporate Finance",
     "abbreviation": "sd",
     "slug": "sd-information-contracts-and-firms",
@@ -21872,8 +21954,9 @@
     "journal": "Chaos, Solitons & Fractals",
     "abbreviation": "sd",
     "slug": "sd-electronic-circuits-as-platforms-for-the-experimental-investigation-of-nonlinear-phenomena-and-chaos",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1734836589000
   },
   {
     "title": "Cutting-edge solutions in data engineering, data analytics, and data science",
@@ -30708,7 +30791,7 @@
   {
     "title": "Environmental Radiobiology",
     "url": "https://www.sciencedirect.com/special-issue/313469/environmental-radiobiology",
-    "dueDate": 1735603200000,
+    "dueDate": 1745971200000,
     "journal": "Journal of Radiation Research and Applied Sciences",
     "abbreviation": "sd",
     "slug": "sd-environmental-radiobiology",
@@ -32552,7 +32635,7 @@
   {
     "title": "Neuroimmunology of Addiction",
     "url": "https://www.sciencedirect.com/special-issue/273802/neuroimmunology-of-addiction",
-    "dueDate": 1735603200000,
+    "dueDate": 1740700800000,
     "journal": "Journal of Neuroimmunology",
     "abbreviation": "sd",
     "slug": "sd-neuroimmunology-of-addiction",
