@@ -1,5 +1,155 @@
 export const papers = [
   {
+    "title": "Reclaiming the Dark Sky: Challenges and Opportunities",
+    "url": "https://www.sciencedirect.com/special-issue/317031/reclaiming-the-dark-sky-challenges-and-opportunities",
+    "dueDate": 1748736000000,
+    "journal": "Journal of Urban Management",
+    "abbreviation": "sd",
+    "slug": "sd-reclaiming-the-dark-sky-challenges-and-opportunities",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Circular Bioeconomy: Recovery of Valuable Products and Green Deal Biotechnology (1)",
+    "url": "https://www.sciencedirect.com/special-issue/317025/circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1",
+    "dueDate": 1740700800000,
+    "journal": "New Biotechnology",
+    "abbreviation": "sd",
+    "slug": "sd-circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Modelling of origin, evolution and functioning of the genetic code (2)",
+    "url": "https://www.sciencedirect.com/special-issue/317032/modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2",
+    "dueDate": 1735516800000,
+    "journal": "BioSystems",
+    "abbreviation": "sd",
+    "slug": "sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "DNA Damage and Repair in Disease and Therapy",
+    "url": "https://www.sciencedirect.com/special-issue/317019/dna-damage-and-repair-in-disease-and-therapy",
+    "dueDate": 1740700800000,
+    "journal": "DNA Repair",
+    "abbreviation": "sd",
+    "slug": "sd-dna-damage-and-repair-in-disease-and-therapy",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Tetrahedron Young Investigator Award For Bioorganic and Medicinal Chemistry 2025",
+    "url": "https://www.sciencedirect.com/special-issue/317011/tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025",
+    "dueDate": 1751241600000,
+    "journal": "Bioorganic & Medicinal Chemistry Letters",
+    "abbreviation": "sd",
+    "slug": "sd-tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Special Issue in Memory of Enrique Baran: Celebrating His Career and Contributions to Inorganic Biochemistry",
+    "url": "https://www.sciencedirect.com/special-issue/317018/special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry",
+    "dueDate": 1748736000000,
+    "journal": "Journal of Inorganic Biochemistry",
+    "abbreviation": "sd",
+    "slug": "sd-special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Tetrahedron Young Investigator Award For Bioorganic and Medicinal Chemistry 2025",
+    "url": "https://www.sciencedirect.com/special-issue/317011/tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025",
+    "dueDate": 1751241600000,
+    "journal": "Bioorganic & Medicinal Chemistry",
+    "abbreviation": "sd",
+    "slug": "sd-tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Near Patient Precision Oncology Models in Genitourinary Cancers",
+    "url": "https://www.sciencedirect.com/special-issue/316986/near-patient-precision-oncology-models-in-genitourinary-cancers",
+    "dueDate": 1752537600000,
+    "journal": "Gene",
+    "abbreviation": "sd",
+    "slug": "sd-near-patient-precision-oncology-models-in-genitourinary-cancers",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Rethinking Resilience Through Innovation, Renovation and Adaptation Strategies for Buildings and Outdoor Spaces",
+    "url": "https://www.sciencedirect.com/special-issue/316976/rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces",
+    "dueDate": 1764028800000,
+    "journal": "Energy and Buildings",
+    "abbreviation": "sd",
+    "slug": "sd-rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health (1)",
+    "url": "https://www.sciencedirect.com/special-issue/316974/sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health-1",
+    "dueDate": 1740700800000,
+    "journal": "Neurobiology of Disease",
+    "abbreviation": "sd",
+    "slug": "sd-sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health-1",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Herbal Remedies for Inflammatory Disease Care",
+    "url": "https://www.sciencedirect.com/special-issue/316975/herbal-remedies-for-inflammatory-disease-care",
+    "dueDate": 1795996800000,
+    "journal": "Journal of Herbal Medicine",
+    "abbreviation": "sd",
+    "slug": "sd-herbal-remedies-for-inflammatory-disease-care",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Innovative biomass and bioenergy production and conversion systems for promoting a circular bioeconomy",
+    "url": "https://www.sciencedirect.com/special-issue/316977/innovative-biomass-and-bioenergy-production-and-conversion-systems-for-promoting-a-circular-bioeconomy",
+    "dueDate": 1743379200000,
+    "journal": "Biomass and Bioenergy",
+    "abbreviation": "sd",
+    "slug": "sd-innovative-biomass-and-bioenergy-production-and-conversion-systems-for-promoting-a-circular-bioeconomy",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Advanced Green oriented Catalytic Technologies and Materials towards Sustainability",
+    "url": "https://www.sciencedirect.com/special-issue/316979/advanced-green-oriented-catalytic-technologies-and-materials-towards-sustainability",
+    "dueDate": 1761436800000,
+    "journal": "Molecular Catalysis",
+    "abbreviation": "sd",
+    "slug": "sd-advanced-green-oriented-catalytic-technologies-and-materials-towards-sustainability",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Interdisciplinary Perspectives on Educations Role in Sustainable Development",
+    "url": "https://www.sciencedirect.com/special-issue/291095/interdisciplinary-perspectives-on-education-s-role-in-sustainable-development",
+    "dueDate": 1767139200000,
+    "journal": "Current Research in Environmental Sustainability",
+    "abbreviation": "sd",
+    "slug": "sd-interdisciplinary-perspectives-on-educations-role-in-sustainable-development",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
+    "title": "Multi-scale landscape for understanding plant stress memory adaptation for abiotic stress resilience",
+    "url": "https://www.sciencedirect.com/special-issue/277862/multi-scale-landscape-for-understanding-plant-stress-memory-adaptation-for-abiotic-stress-resilience",
+    "dueDate": 1735603200000,
+    "journal": "Plant Gene",
+    "abbreviation": "sd",
+    "slug": "sd-multi-scale-landscape-for-understanding-plant-stress-memory-adaptation-for-abiotic-stress-resilience",
+    "active": true,
+    "pubDate": 1732330881000
+  },
+  {
     "title": "Recognizing and Overcoming Inequities to Achieve Inclusive Cancer Care",
     "url": "https://www.sciencedirect.com/special-issue/316971/recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care",
     "dueDate": 1740614400000,
@@ -3412,7 +3562,7 @@ export const papers = [
   {
     "title": "Impact processes and planetary evolution",
     "url": "https://www.sciencedirect.com/special-issue/308679/impact-processes-and-planetary-evolution",
-    "dueDate": 1733011200000,
+    "dueDate": 1738281600000,
     "journal": "Icarus",
     "abbreviation": "sd",
     "slug": "sd-impact-processes-and-planetary-evolution",
@@ -4182,7 +4332,7 @@ export const papers = [
   {
     "title": "Multi-Speaker, Multi-Microphone, and Multi-Modal Distant Speech Recognition",
     "url": "https://www.sciencedirect.com/special-issue/307064/multi-speaker-multi-microphone-and-multi-modal-distant-speech-recognition",
-    "dueDate": 1733097600000,
+    "dueDate": 1734307200000,
     "journal": "Computer Speech & Language",
     "abbreviation": "sd",
     "slug": "sd-multi-speaker-multi-microphone-and-multi-modal-distant-speech-recognition",
@@ -6803,7 +6953,7 @@ export const papers = [
   {
     "title": "Emerging Methods for Mapping Neurofluid Circulation and Exchange",
     "url": "https://www.sciencedirect.com/special-issue/303472/emerging-methods-for-mapping-neurofluid-circulation-and-exchange",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "NeuroImage",
     "abbreviation": "sd",
     "slug": "sd-emerging-methods-for-mapping-neurofluid-circulation-and-exchange",
@@ -7173,7 +7323,7 @@ export const papers = [
   {
     "title": "Biotechnology and Innovation in Dentistry - Exploring A New Frontier",
     "url": "https://www.sciencedirect.com/special-issue/303044/biotechnology-and-innovation-in-dentistry-exploring-a-new-frontier",
-    "dueDate": 1738281600000,
+    "dueDate": 1767139200000,
     "journal": "Dentistry Review",
     "abbreviation": "sd",
     "slug": "sd-biotechnology-and-innovation-in-dentistry-exploring-a-new-frontier",
@@ -9604,7 +9754,7 @@ export const papers = [
   {
     "title": "Taking stock of work and employment research in the forest sector",
     "url": "https://www.sciencedirect.com/special-issue/298826/taking-stock-of-work-and-employment-research-in-the-forest-sector",
-    "dueDate": 1732924800000,
+    "dueDate": 1748649600000,
     "journal": "Forest Policy and Economics",
     "abbreviation": "sd",
     "slug": "sd-taking-stock-of-work-and-employment-research-in-the-forest-sector",
@@ -11264,7 +11414,7 @@ export const papers = [
   {
     "title": "Proceedings from the 22nd International Soil Tillage Research Organisation Conference",
     "url": "https://www.sciencedirect.com/special-issue/296448/proceedings-from-the-22nd-international-soil-tillage-research-organisation-conference",
-    "dueDate": 1733011200000,
+    "dueDate": 1738368000000,
     "journal": "Soil and Tillage Research",
     "abbreviation": "sd",
     "slug": "sd-proceedings-from-the-22nd-international-soil-tillage-research-organisation-conference",
@@ -14877,8 +15027,9 @@ export const papers = [
     "journal": "Industrial Marketing Management",
     "abbreviation": "sd",
     "slug": "sd-power-in-business-relationships-a-systems-thinking-perspective",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1734922881000
   },
   {
     "title": "Multicomponent High Entropy Metallic Alloys: Structural and Functional Properties",
@@ -21954,9 +22105,8 @@ export const papers = [
     "journal": "Chaos, Solitons & Fractals",
     "abbreviation": "sd",
     "slug": "sd-electronic-circuits-as-platforms-for-the-experimental-investigation-of-nonlinear-phenomena-and-chaos",
-    "active": false,
-    "pubDate": 1731796573000,
-    "gracePeriod": 1734836589000
+    "active": true,
+    "pubDate": 1731796573000
   },
   {
     "title": "Cutting-edge solutions in data engineering, data analytics, and data science",
@@ -29472,7 +29622,7 @@ export const papers = [
   {
     "title": "Emerging Trends in Hydrogen Research",
     "url": "https://www.sciencedirect.com/special-issue/313977/emerging-trends-in-hydrogen-research",
-    "dueDate": 1730332800000,
+    "dueDate": 1735603200000,
     "journal": "Energy Conversion and Management: X",
     "abbreviation": "sd",
     "slug": "sd-emerging-trends-in-hydrogen-research",
@@ -32676,7 +32826,7 @@ export const papers = [
   {
     "title": "UAV Control and Applications in the Low-Altitude Economy",
     "url": "https://www.sciencedirect.com/special-issue/312659/uav-control-and-applications-in-the-low-altitude-economy",
-    "dueDate": 1735603200000,
+    "dueDate": 1740700800000,
     "journal": "Control Engineering Practice",
     "abbreviation": "sd",
     "slug": "sd-uav-control-and-applications-in-the-low-altitude-economy",

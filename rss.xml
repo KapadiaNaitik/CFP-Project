@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 03:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,111 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Reclaiming the Dark Sky: Challenges and Opportunities]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317031/reclaiming-the-dark-sky-challenges-and-opportunities</link>
+            <guid>sd-reclaiming-the-dark-sky-challenges-and-opportunities</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Journal of Urban Management (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Circular Bioeconomy: Recovery of Valuable Products and Green Deal Biotechnology (1)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317025/circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1</link>
+            <guid>sd-circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>New Biotechnology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Modelling of origin, evolution and functioning of the genetic code (2)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317032/modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2</link>
+            <guid>sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>BioSystems (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[DNA Damage and Repair in Disease and Therapy]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317019/dna-damage-and-repair-in-disease-and-therapy</link>
+            <guid>sd-dna-damage-and-repair-in-disease-and-therapy</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>DNA Repair (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tetrahedron Young Investigator Award For Bioorganic and Medicinal Chemistry 2025]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317011/tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025</link>
+            <guid>sd-tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Bioorganic &amp; Medicinal Chemistry Letters (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Special Issue in Memory of Enrique Baran: Celebrating His Career and Contributions to Inorganic Biochemistry]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317018/special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry</link>
+            <guid>sd-special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Journal of Inorganic Biochemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Tetrahedron Young Investigator Award For Bioorganic and Medicinal Chemistry 2025]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317011/tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025</link>
+            <guid>sd-tetrahedron-young-investigator-award-for-bioorganic-and-medicinal-chemistry-2025</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Bioorganic &amp; Medicinal Chemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Near Patient Precision Oncology Models in Genitourinary Cancers]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316986/near-patient-precision-oncology-models-in-genitourinary-cancers</link>
+            <guid>sd-near-patient-precision-oncology-models-in-genitourinary-cancers</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Gene (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Resilience Through Innovation, Renovation and Adaptation Strategies for Buildings and Outdoor Spaces]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316976/rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces</link>
+            <guid>sd-rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Energy and Buildings (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health (1)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316974/sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health-1</link>
+            <guid>sd-sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health-1</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Neurobiology of Disease (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Herbal Remedies for Inflammatory Disease Care]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316975/herbal-remedies-for-inflammatory-disease-care</link>
+            <guid>sd-herbal-remedies-for-inflammatory-disease-care</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Journal of Herbal Medicine (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Innovative biomass and bioenergy production and conversion systems for promoting a circular bioeconomy]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316977/innovative-biomass-and-bioenergy-production-and-conversion-systems-for-promoting-a-circular-bioeconomy</link>
+            <guid>sd-innovative-biomass-and-bioenergy-production-and-conversion-systems-for-promoting-a-circular-bioeconomy</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Biomass and Bioenergy (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Advanced Green oriented Catalytic Technologies and Materials towards Sustainability]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316979/advanced-green-oriented-catalytic-technologies-and-materials-towards-sustainability</link>
+            <guid>sd-advanced-green-oriented-catalytic-technologies-and-materials-towards-sustainability</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Molecular Catalysis (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Interdisciplinary Perspectives on Educations Role in Sustainable Development]]></title>
+            <link>https://www.sciencedirect.com/special-issue/291095/interdisciplinary-perspectives-on-education-s-role-in-sustainable-development</link>
+            <guid>sd-interdisciplinary-perspectives-on-educations-role-in-sustainable-development</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Current Research in Environmental Sustainability (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Multi-scale landscape for understanding plant stress memory adaptation for abiotic stress resilience]]></title>
+            <link>https://www.sciencedirect.com/special-issue/277862/multi-scale-landscape-for-understanding-plant-stress-memory-adaptation-for-abiotic-stress-resilience</link>
+            <guid>sd-multi-scale-landscape-for-understanding-plant-stress-memory-adaptation-for-abiotic-stress-resilience</guid>
+            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
+            <author>Plant Gene (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Recognizing and Overcoming Inequities to Achieve Inclusive Cancer Care]]></title>
             <link>https://www.sciencedirect.com/special-issue/316971/recognizing-and-overcoming-inequities-to-achieve-inclusive-cancer-care</link>
