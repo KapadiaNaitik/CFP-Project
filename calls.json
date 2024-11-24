@@ -1556,8 +1556,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-green-bio-and-chemo-catalysis-for-environmental-sustainability",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Fermentation and Precision Fermentation",
@@ -1616,8 +1617,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-non-traditional-activation",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Metal-Binding Peptides",
@@ -5436,8 +5438,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-molecular-heterogeneous-catalysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Large-span steel structures",
@@ -12579,8 +12582,9 @@
     "journal": "Journal of Genetics and Genomics",
     "abbreviation": "sd",
     "slug": "sd-human-genetics-and-genomics",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Generative AI in Finance",
@@ -20005,8 +20009,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-women-in-green-chemistry",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Multiscale engineering of crystal lattice towards high performance electron-correlated materials",
@@ -20775,8 +20780,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-catalysis-for-biomass-and-renewables-valorization",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Self-Healing, Multifunctional and Advanced Repair Technologies in Cementitious Systems",
@@ -20805,8 +20811,9 @@
     "journal": "Tetrahedron Green Chem",
     "abbreviation": "sd",
     "slug": "sd-new-developments-in-flow-chemistry",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735009658000
   },
   {
     "title": "Submarine Geomorphology and Processes: from coast to deep abyssal plains (1)",
