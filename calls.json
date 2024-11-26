@@ -1,5 +1,105 @@
 [
   {
+    "title": "The Neural Correlates of the Risks and Benefits of Media Use",
+    "url": "https://www.sciencedirect.com/special-issue/317047/the-neural-correlates-of-the-risks-and-benefits-of-media-use",
+    "dueDate": 1743379200000,
+    "journal": "NeuroImage",
+    "abbreviation": "sd",
+    "slug": "sd-the-neural-correlates-of-the-risks-and-benefits-of-media-use",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Graph Theory and Combinatorial Optimizations",
+    "url": "https://www.sciencedirect.com/special-issue/317052/graph-theory-and-combinatorial-optimizations",
+    "dueDate": 1741996800000,
+    "journal": "Discrete Applied Mathematics",
+    "abbreviation": "sd",
+    "slug": "sd-graph-theory-and-combinatorial-optimizations",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "The Neuroscience of Mindfulness: Cognitive and Neural Mechanisms",
+    "url": "https://www.sciencedirect.com/special-issue/317046/the-neuroscience-of-mindfulness-cognitive-and-neural-mechanisms",
+    "dueDate": 1782777600000,
+    "journal": "Brain and Cognition",
+    "abbreviation": "sd",
+    "slug": "sd-the-neuroscience-of-mindfulness-cognitive-and-neural-mechanisms",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Exogenous priming and manipulation of metabolic/regulatory genes for crop stress tolerance",
+    "url": "https://www.sciencedirect.com/special-issue/317056/exogenous-priming-and-manipulation-of-metabolic-regulatory-genes-for-crop-stress-tolerance",
+    "dueDate": 1751241600000,
+    "journal": "Current Plant Biology",
+    "abbreviation": "sd",
+    "slug": "sd-exogenous-priming-and-manipulation-of-metabolicregulatory-genes-for-crop-stress-tolerance",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Sensorimotor Interactions in the Human Brain",
+    "url": "https://www.sciencedirect.com/special-issue/317043/sensorimotor-interactions-in-the-human-brain",
+    "dueDate": 1746316800000,
+    "journal": "NeuroImage",
+    "abbreviation": "sd",
+    "slug": "sd-sensorimotor-interactions-in-the-human-brain",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Endocrinology Update: Islet Transplantation",
+    "url": "https://www.sciencedirect.com/special-issue/317035/endocrinology-update-islet-transplantation",
+    "dueDate": 1743292800000,
+    "journal": "Clinical Therapeutics",
+    "abbreviation": "sd",
+    "slug": "sd-endocrinology-update-islet-transplantation",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Advancement in gas production, storage and transportation: Materials, Process optimization, and Applications",
+    "url": "https://www.sciencedirect.com/special-issue/317042/advancement-in-gas-production-storage-and-transportation-materials-process-optimization-and-applications",
+    "dueDate": 1746057600000,
+    "journal": "Gas Science and Engineering",
+    "abbreviation": "sd",
+    "slug": "sd-advancement-in-gas-production-storage-and-transportation-materials-process-optimization-and-applications",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Explosion Science and Safety Protection in Process Industry",
+    "url": "https://www.sciencedirect.com/special-issue/317036/explosion-science-and-safety-protection-in-process-industry",
+    "dueDate": 1748736000000,
+    "journal": "Journal of Loss Prevention in the Process Industries",
+    "abbreviation": "sd",
+    "slug": "sd-explosion-science-and-safety-protection-in-process-industry",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Addressing Challenges and Future Needs in Experimental Research for Water-Cooled SMRs",
+    "url": "https://www.sciencedirect.com/special-issue/317044/addressing-challenges-and-future-needs-in-experimental-research-for-water-cooled-smrs",
+    "dueDate": 1751241600000,
+    "journal": "Nuclear Engineering and Design",
+    "abbreviation": "sd",
+    "slug": "sd-addressing-challenges-and-future-needs-in-experimental-research-for-water-cooled-smrs",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
+    "title": "Modelling of origin,  evolution and functioning of the genetic code",
+    "url": "https://www.sciencedirect.com/special-issue/317032/modelling-of-origin-evolution-and-functioning-of-the-genetic-code",
+    "dueDate": 1735516800000,
+    "journal": "BioSystems",
+    "abbreviation": "sd",
+    "slug": "sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code",
+    "active": true,
+    "pubDate": 1732590273000
+  },
+  {
     "title": "Reclaiming the Dark Sky: Challenges and Opportunities",
     "url": "https://www.sciencedirect.com/special-issue/317031/reclaiming-the-dark-sky-challenges-and-opportunities",
     "dueDate": 1748736000000,
@@ -26,8 +126,9 @@
     "journal": "BioSystems",
     "abbreviation": "sd",
     "slug": "sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2",
-    "active": true,
-    "pubDate": 1732330881000
+    "active": false,
+    "pubDate": 1732330881000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "DNA Damage and Repair in Disease and Therapy",
@@ -52,7 +153,7 @@
   {
     "title": "Special Issue in Memory of Enrique Baran: Celebrating His Career and Contributions to Inorganic Biochemistry",
     "url": "https://www.sciencedirect.com/special-issue/317018/special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry",
-    "dueDate": 1748736000000,
+    "dueDate": 1751328000000,
     "journal": "Journal of Inorganic Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-special-issue-in-memory-of-enrique-baran-celebrating-his-career-and-contributions-to-inorganic-biochemistry",
@@ -306,8 +407,9 @@
     "journal": "Journal of Subatomic Particles and Cosmology",
     "abbreviation": "sd",
     "slug": "sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1",
-    "active": true,
-    "pubDate": 1732158136000
+    "active": false,
+    "pubDate": 1732158136000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "VSI: Pediatric oncology",
@@ -512,7 +614,7 @@
   {
     "title": "Evolution and Attribution of River Basin Ecohydrological Processes under Changing Environments",
     "url": "https://www.sciencedirect.com/special-issue/316821/evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments",
-    "dueDate": 1761782400000,
+    "dueDate": 1759276800000,
     "journal": "Journal of Hydrology",
     "abbreviation": "sd",
     "slug": "sd-evolution-and-attribution-of-river-basin-ecohydrological-processes-under-changing-environments",
@@ -616,8 +718,9 @@
     "journal": "Ocean Modelling",
     "abbreviation": "sd",
     "slug": "sd-ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling",
-    "active": true,
-    "pubDate": 1731985383000
+    "active": false,
+    "pubDate": 1731985383000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Special issue devoted to HPLC 2024 - Journal of Chromatography A",
@@ -3004,7 +3107,7 @@
   {
     "title": "Recent Developments and Challenges in Real Options",
     "url": "https://www.sciencedirect.com/special-issue/311058/recent-developments-and-challenges-in-real-options",
-    "dueDate": 1738281600000,
+    "dueDate": 1730246400000,
     "journal": "Journal of Economics and Business",
     "abbreviation": "sd",
     "slug": "sd-recent-developments-and-challenges-in-real-options",
@@ -3264,7 +3367,7 @@
   {
     "title": "Generative and Explainable Artificial Intelligence for Internet Traffic and Architectures",
     "url": "https://www.sciencedirect.com/special-issue/310886/generative-and-explainable-artificial-intelligence-for-internet-traffic-and-architectures",
-    "dueDate": 1733011200000,
+    "dueDate": 1738281600000,
     "journal": "Computer Networks",
     "abbreviation": "sd",
     "slug": "sd-generative-and-explainable-artificial-intelligence-for-internet-traffic-and-architectures",
@@ -3854,7 +3957,7 @@
   {
     "title": "Elimination of hepatitis C virus and other infectious diseases among people in prisons, jails, and other carceral settings: Ensuring equitable access to prevention, treatment, and care",
     "url": "https://www.sciencedirect.com/special-issue/308241/elimination-of-hepatitis-c-virus-and-other-infectious-diseases-among-people-in-prisons-jails-and-other-carceral-settings-ensuring-equitable-access-to-prevention-treatment-and-care",
-    "dueDate": 1733011200000,
+    "dueDate": 1738281600000,
     "journal": "International Journal of Drug Policy",
     "abbreviation": "sd",
     "slug": "sd-elimination-of-hepatitis-c-virus-and-other-infectious-diseases-among-people-in-prisons-jails-and-other-carceral-settings-ensuring-equitable-access-to-prevention-treatment-and-care",
@@ -5324,7 +5427,7 @@
   {
     "title": "IASIM-2024. Special Issue of the Meeting of International Association of Spectral Imaging 2024",
     "url": "https://www.sciencedirect.com/special-issue/305497/iasim-2024-special-issue-of-the-meeting-of-international-association-of-spectral-imaging-2024",
-    "dueDate": 1735603200000,
+    "dueDate": 1740700800000,
     "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
     "abbreviation": "sd",
     "slug": "sd-iasim-2024-special-issue-of-the-meeting-of-international-association-of-spectral-imaging-2024",
@@ -6906,7 +7009,7 @@
   {
     "title": "Advances in Plant Metabolomics: Insights, Applications, and Integration",
     "url": "https://www.sciencedirect.com/special-issue/303514/advances-in-plant-metabolomics-insights-applications-and-integration",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Plant Physiology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-advances-in-plant-metabolomics-insights-applications-and-integration",
@@ -7110,8 +7213,9 @@
     "journal": "Chemical Engineering Research and Design",
     "abbreviation": "sd",
     "slug": "sd-adsorption-for-water-purification-and-wastewater-treatment-technical-issues-and-troubleshooting",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Sex Crime",
@@ -8167,7 +8271,7 @@
   {
     "title": "Health and Social Justice in the 21st century",
     "url": "https://www.sciencedirect.com/special-issue/301941/health-and-social-justice-in-the-21st-century",
-    "dueDate": 1735603200000,
+    "dueDate": 1745971200000,
     "journal": "Dialogues in Health",
     "abbreviation": "sd",
     "slug": "sd-health-and-social-justice-in-the-21st-century",
@@ -10847,7 +10951,7 @@
   {
     "title": "Impact of climate change in viticulture: understanding and mitigating abiotic and biotic stress in grapevine",
     "url": "https://www.sciencedirect.com/special-issue/297380/impact-of-climate-change-in-viticulture-understanding-and-mitigating-abiotic-and-biotic-stress-in-grapevine",
-    "dueDate": 1738281600000,
+    "dueDate": 1743379200000,
     "journal": "Plant Stress",
     "abbreviation": "sd",
     "slug": "sd-impact-of-climate-change-in-viticulture-understanding-and-mitigating-abiotic-and-biotic-stress-in-grapevine",
@@ -11967,7 +12071,7 @@
   {
     "title": "Falling Between the Cracks: Gaps and Tensions in Mental Health Law",
     "url": "https://www.sciencedirect.com/special-issue/294388/falling-between-the-cracks-gaps-and-tensions-in-mental-health-law",
-    "dueDate": 1727654400000,
+    "dueDate": 1743379200000,
     "journal": "International Journal of Law and Psychiatry",
     "abbreviation": "sd",
     "slug": "sd-falling-between-the-cracks-gaps-and-tensions-in-mental-health-law",
@@ -12478,7 +12582,7 @@
   {
     "title": "Probabilistic nature of perception and cognition",
     "url": "https://www.sciencedirect.com/special-issue/293446/probabilistic-nature-of-perception-and-cognition",
-    "dueDate": 1732924800000,
+    "dueDate": 1745971200000,
     "journal": "New Ideas in Psychology",
     "abbreviation": "sd",
     "slug": "sd-probabilistic-nature-of-perception-and-cognition",
@@ -16418,7 +16522,7 @@
   {
     "title": "The harms and benefits of cannabis and cannabinoids in women and men and effects on their progeny",
     "url": "https://www.sciencedirect.com/special-issue/281810/the-harms-and-benefits-of-cannabis-and-cannabinoids-in-women-and-men-and-effects-on-their-progeny",
-    "dueDate": 1733011200000,
+    "dueDate": 1738281600000,
     "journal": "Drug and Alcohol Dependence Reports",
     "abbreviation": "sd",
     "slug": "sd-the-harms-and-benefits-of-cannabis-and-cannabinoids-in-women-and-men-and-effects-on-their-progeny",
@@ -17989,7 +18093,7 @@
   {
     "title": "Structures in Fire",
     "url": "https://www.sciencedirect.com/special-issue/273627/structures-in-fire",
-    "dueDate": null,
+    "dueDate": 1735603200000,
     "journal": "Fire Safety Journal",
     "abbreviation": "sd",
     "slug": "sd-structures-in-fire",
@@ -18463,8 +18567,9 @@
     "journal": "Fire Safety Journal",
     "abbreviation": "sd",
     "slug": "sd-tunnel-fire-safety-selected-papers-from-the-10th-international-symposium-on-tunnel-safety-and-security",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Machine Learning and Artificial Intelligence in Solid State Chemistry",
@@ -21722,8 +21827,9 @@
     "journal": "Solid State Sciences",
     "abbreviation": "sd",
     "slug": "sd-computational-physics-symposium-at-cps-fall-meeting-2025",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Arts Therapies and Adverse Experiences in Childhood and Adolescence",
@@ -22062,8 +22168,9 @@
     "journal": "Glial Health Research",
     "abbreviation": "sd",
     "slug": "sd-role-of-non-neuronal-cells-in-the-control-of-energy-homeostasis-glial-health-research",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Reirradiation: Pushing Boundaries in Radiation Oncology - Physics and Imaging in Radiation Oncology",
@@ -25048,7 +25155,7 @@
   {
     "title": "EDGE 2024 proceedings - 9th International Workshop on Electron Energy-Loss Spectroscopy and Related Techniques",
     "url": "https://www.sciencedirect.com/special-issue/315549/edge-2024-proceedings-9th-international-workshop-on-electron-energy-loss-spectroscopy-and-related-techniques",
-    "dueDate": 1738281600000,
+    "dueDate": 1740700800000,
     "journal": "Micron",
     "abbreviation": "sd",
     "slug": "sd-edge-2024-proceedings-9th-international-workshop-on-electron-energy-loss-spectroscopy-and-related-techniques",
@@ -26358,7 +26465,7 @@
   },
   {
     "title": "Advancing Diversity, Racial Equity & Inclusion in Clinical Research",
-    "url": "https://www.sciencedirect.com/special-issue/313339/advancing-diversity-racial-equity-inclusion-in-clinical-research",
+    "url": "https://www.sciencedirect.com/special-issue/313339/Advancing%20Diversity,%20Racial%20Equity%20&%20Inclusion%20in%20Clinical%20Research",
     "dueDate": 1740700800000,
     "journal": "Clinical Therapeutics",
     "abbreviation": "sd",
@@ -27134,8 +27241,9 @@
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735182273000
   },
   {
     "title": "Regulation in the Age of Digitalization",
@@ -29930,7 +30038,7 @@
   {
     "title": "Quaternary Science Advances in the Baltic Sea Region - highlights from the INQUA Peribaltic Finland 2023 excursion and symposium",
     "url": "https://www.sciencedirect.com/special-issue/313861/quaternary-science-advances-in-the-baltic-sea-region-highlights-from-the-inqua-peribaltic-finland-2023-excursion-and-symposium",
-    "dueDate": 1731628800000,
+    "dueDate": 1738281600000,
     "journal": "Quaternary International",
     "abbreviation": "sd",
     "slug": "sd-quaternary-science-advances-in-the-baltic-sea-region-highlights-from-the-inqua-peribaltic-finland-2023-excursion-and-symposium",
@@ -32364,13 +32472,12 @@
   {
     "title": "Physiological, biochemical and molecular responses of plants to stressful conditions",
     "url": "https://www.sciencedirect.com/special-issue/312862/physiological-biochemical-and-molecular-responses-of-plants-to-stressful-conditions",
-    "dueDate": 1734220800000,
+    "dueDate": 1743379200000,
     "journal": "Plant Physiology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-physiological-biochemical-and-molecular-responses-of-plants-to-stressful-conditions",
-    "active": false,
-    "pubDate": 1727211111000,
-    "gracePeriod": 1734663744000
+    "active": true,
+    "pubDate": 1727211111000
   },
   {
     "title": "Dynamics, Disorder, and Regulation of Proteins and Nucleic Acids",

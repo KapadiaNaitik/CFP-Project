@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 25 Nov 2024 03:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 03:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,76 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[The Neural Correlates of the Risks and Benefits of Media Use]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317047/the-neural-correlates-of-the-risks-and-benefits-of-media-use</link>
+            <guid>sd-the-neural-correlates-of-the-risks-and-benefits-of-media-use</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>NeuroImage (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Graph Theory and Combinatorial Optimizations]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317052/graph-theory-and-combinatorial-optimizations</link>
+            <guid>sd-graph-theory-and-combinatorial-optimizations</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Discrete Applied Mathematics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Neuroscience of Mindfulness: Cognitive and Neural Mechanisms]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317046/the-neuroscience-of-mindfulness-cognitive-and-neural-mechanisms</link>
+            <guid>sd-the-neuroscience-of-mindfulness-cognitive-and-neural-mechanisms</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Brain and Cognition (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Exogenous priming and manipulation of metabolic/regulatory genes for crop stress tolerance]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317056/exogenous-priming-and-manipulation-of-metabolic-regulatory-genes-for-crop-stress-tolerance</link>
+            <guid>sd-exogenous-priming-and-manipulation-of-metabolicregulatory-genes-for-crop-stress-tolerance</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Current Plant Biology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sensorimotor Interactions in the Human Brain]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317043/sensorimotor-interactions-in-the-human-brain</link>
+            <guid>sd-sensorimotor-interactions-in-the-human-brain</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>NeuroImage (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Endocrinology Update: Islet Transplantation]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317035/endocrinology-update-islet-transplantation</link>
+            <guid>sd-endocrinology-update-islet-transplantation</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Clinical Therapeutics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Advancement in gas production, storage and transportation: Materials, Process optimization, and Applications]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317042/advancement-in-gas-production-storage-and-transportation-materials-process-optimization-and-applications</link>
+            <guid>sd-advancement-in-gas-production-storage-and-transportation-materials-process-optimization-and-applications</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Gas Science and Engineering (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Explosion Science and Safety Protection in Process Industry]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317036/explosion-science-and-safety-protection-in-process-industry</link>
+            <guid>sd-explosion-science-and-safety-protection-in-process-industry</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Journal of Loss Prevention in the Process Industries (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Addressing Challenges and Future Needs in Experimental Research for Water-Cooled SMRs]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317044/addressing-challenges-and-future-needs-in-experimental-research-for-water-cooled-smrs</link>
+            <guid>sd-addressing-challenges-and-future-needs-in-experimental-research-for-water-cooled-smrs</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>Nuclear Engineering and Design (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Modelling of origin,  evolution and functioning of the genetic code]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317032/modelling-of-origin-evolution-and-functioning-of-the-genetic-code</link>
+            <guid>sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code</guid>
+            <pubDate>Tue, 26 Nov 2024 03:04:33 GMT</pubDate>
+            <author>BioSystems (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Reclaiming the Dark Sky: Challenges and Opportunities]]></title>
             <link>https://www.sciencedirect.com/special-issue/317031/reclaiming-the-dark-sky-challenges-and-opportunities</link>
@@ -18446,7 +18516,7 @@
         </item>
         <item>
             <title><![CDATA[Advancing Diversity, Racial Equity & Inclusion in Clinical Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313339/advancing-diversity-racial-equity-inclusion-in-clinical-research</link>
+            <link>https://www.sciencedirect.com/special-issue/313339/Advancing%20Diversity,%20Racial%20Equity%20&amp;%20Inclusion%20in%20Clinical%20Research</link>
             <guid>sd-advancing-diversity-racial-equity-and-inclusion-in-clinical-research</guid>
             <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
             <author>Clinical Therapeutics (SD)</author>
