@@ -1,5 +1,45 @@
 export const papers = [
   {
+    "title": "Fall Risk Assessment and Fall Prevention",
+    "url": "https://www.sciencedirect.com/special-issue/317058/fall-risk-assessment-and-fall-prevention",
+    "dueDate": 1738281600000,
+    "journal": "Clinical Biomechanics",
+    "abbreviation": "sd",
+    "slug": "sd-fall-risk-assessment-and-fall-prevention",
+    "active": true,
+    "pubDate": 1732676799000
+  },
+  {
+    "title": "ADBIS 2024 Best Papers",
+    "url": "https://www.sciencedirect.com/special-issue/317060/special-issue-on-adbis-2024-best-papers",
+    "dueDate": 1738368000000,
+    "journal": "Information Systems",
+    "abbreviation": "sd",
+    "slug": "sd-adbis-2024-best-papers",
+    "active": true,
+    "pubDate": 1732676799000
+  },
+  {
+    "title": "Innovations For Sustainable Crop Production In The Mediterranean Region",
+    "url": "https://www.sciencedirect.com/special-issue/317059/innovations-for-sustainable-crop-production-in-the-mediterranean-region",
+    "dueDate": 1735603200000,
+    "journal": "Italian Journal of Agronomy",
+    "abbreviation": "sd",
+    "slug": "sd-innovations-for-sustainable-crop-production-in-the-mediterranean-region",
+    "active": true,
+    "pubDate": 1732676799000
+  },
+  {
+    "title": "Computational Physics Symposium at CPS Fall Meeting 2024",
+    "url": "https://www.sciencedirect.com/special-issue/316764/Computational%20Physics%20Symposium%20at%20CPS%20Fall%20Meeting%202025",
+    "dueDate": 1748736000000,
+    "journal": "Solid State Communications",
+    "abbreviation": "sd",
+    "slug": "sd-computational-physics-symposium-at-cps-fall-meeting-2024",
+    "active": true,
+    "pubDate": 1732676799000
+  },
+  {
     "title": "The Neural Correlates of the Risks and Benefits of Media Use",
     "url": "https://www.sciencedirect.com/special-issue/317047/the-neural-correlates-of-the-risks-and-benefits-of-media-use",
     "dueDate": 1743379200000,
@@ -233,7 +273,7 @@ export const papers = [
   {
     "title": "Interdisciplinary Perspectives on Educations Role in Sustainable Development",
     "url": "https://www.sciencedirect.com/special-issue/291095/interdisciplinary-perspectives-on-education-s-role-in-sustainable-development",
-    "dueDate": 1767139200000,
+    "dueDate": 1751241600000,
     "journal": "Current Research in Environmental Sustainability",
     "abbreviation": "sd",
     "slug": "sd-interdisciplinary-perspectives-on-educations-role-in-sustainable-development",
@@ -16136,8 +16176,9 @@ export const papers = [
     "journal": "Learning and Motivation",
     "abbreviation": "sd",
     "slug": "sd-the-applications-of-positive-psychology-in-educational-environments-teachers-and-students-psychological-state-in-the-spotlight",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735268799000
   },
   {
     "title": "Life-cycle Sustainability and Resilience of Steel Structures against Multi-hazards",
@@ -31690,7 +31731,7 @@ export const papers = [
   {
     "title": "Polyploid Giant Cancer Cells: Decoding the Enigma of Malignancies",
     "url": "https://www.sciencedirect.com/special-issue/313220/polyploid-giant-cancer-cells-decoding-the-enigma-of-malignancies",
-    "dueDate": 1743465600000,
+    "dueDate": 1751328000000,
     "journal": "Cancer Letters",
     "abbreviation": "sd",
     "slug": "sd-polyploid-giant-cancer-cells-decoding-the-enigma-of-malignancies",

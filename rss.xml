@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Tue, 26 Nov 2024 03:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 03:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,34 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Fall Risk Assessment and Fall Prevention]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317058/fall-risk-assessment-and-fall-prevention</link>
+            <guid>sd-fall-risk-assessment-and-fall-prevention</guid>
+            <pubDate>Wed, 27 Nov 2024 03:06:39 GMT</pubDate>
+            <author>Clinical Biomechanics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[ADBIS 2024 Best Papers]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317060/special-issue-on-adbis-2024-best-papers</link>
+            <guid>sd-adbis-2024-best-papers</guid>
+            <pubDate>Wed, 27 Nov 2024 03:06:39 GMT</pubDate>
+            <author>Information Systems (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Innovations For Sustainable Crop Production In The Mediterranean Region]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317059/innovations-for-sustainable-crop-production-in-the-mediterranean-region</link>
+            <guid>sd-innovations-for-sustainable-crop-production-in-the-mediterranean-region</guid>
+            <pubDate>Wed, 27 Nov 2024 03:06:39 GMT</pubDate>
+            <author>Italian Journal of Agronomy (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Computational Physics Symposium at CPS Fall Meeting 2024]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316764/Computational%20Physics%20Symposium%20at%20CPS%20Fall%20Meeting%202025</link>
+            <guid>sd-computational-physics-symposium-at-cps-fall-meeting-2024</guid>
+            <pubDate>Wed, 27 Nov 2024 03:06:39 GMT</pubDate>
+            <author>Solid State Communications (SD)</author>
+        </item>
         <item>
             <title><![CDATA[The Neural Correlates of the Risks and Benefits of Media Use]]></title>
             <link>https://www.sciencedirect.com/special-issue/317047/the-neural-correlates-of-the-risks-and-benefits-of-media-use</link>
