@@ -1,5 +1,275 @@
 [
   {
+    "title": "Erosion, sediments, and ecology",
+    "url": "https://www.sciencedirect.com/special-issue/317140/erosion-sediments-and-ecology",
+    "dueDate": 1739577600000,
+    "journal": "CATENA",
+    "abbreviation": "sd",
+    "slug": "sd-erosion-sediments-and-ecology",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Dynamic Quantitative Trade",
+    "url": "https://www.sciencedirect.com/special-issue/317118/dynamic-quantitative-trade",
+    "dueDate": 1734048000000,
+    "journal": "Journal of International Economics",
+    "abbreviation": "sd",
+    "slug": "sd-dynamic-quantitative-trade",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Biomolecule-based electrospinning",
+    "url": "https://www.sciencedirect.com/special-issue/317123/biomolecule-based-electrospinning",
+    "dueDate": 1743465600000,
+    "journal": "BBA Advances",
+    "abbreviation": "sd",
+    "slug": "sd-biomolecule-based-electrospinning",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Technology in EAP Language Teaching and Learning",
+    "url": "https://www.sciencedirect.com/special-issue/317091/technology-in-eap-language-teaching-and-learning",
+    "dueDate": 1749945600000,
+    "journal": "Journal of English for Academic Purposes",
+    "abbreviation": "sd",
+    "slug": "sd-technology-in-eap-language-teaching-and-learning",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Artificial Intelligence for Future 6G Systems",
+    "url": "https://www.sciencedirect.com/special-issue/317103/artificial-intelligence-for-future-6g-systems",
+    "dueDate": 1751241600000,
+    "journal": "Computer Networks",
+    "abbreviation": "sd",
+    "slug": "sd-artificial-intelligence-for-future-6g-systems",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Geospatial information and sustainable urban development",
+    "url": "https://www.sciencedirect.com/special-issue/317119/geospatial-information-and-sustainable-urban-development",
+    "dueDate": 1759190400000,
+    "journal": "Information Geography",
+    "abbreviation": "sd",
+    "slug": "sd-geospatial-information-and-sustainable-urban-development",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Research Methods and Analyses",
+    "url": "https://www.sciencedirect.com/special-issue/317092/research-methods-and-analyses",
+    "dueDate": 1740787200000,
+    "journal": "Currents in Pharmacy Teaching and Learning",
+    "abbreviation": "sd",
+    "slug": "sd-research-methods-and-analyses",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Planetary Health and Primary Care",
+    "url": "https://www.sciencedirect.com/special-issue/317126/planetary-health-and-primary-care",
+    "dueDate": 1748649600000,
+    "journal": "Atención Primaria",
+    "abbreviation": "sd",
+    "slug": "sd-planetary-health-and-primary-care",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Structure Modification and Electronic Modulation of Nanomaterials for Energy Conversion and Storage",
+    "url": "https://www.sciencedirect.com/special-issue/317133/structure-modification-and-electronic-modulation-of-nanomaterials-for-energy-conversion-and-storage",
+    "dueDate": 1751241600000,
+    "journal": "Results in Surfaces and Interfaces",
+    "abbreviation": "sd",
+    "slug": "sd-structure-modification-and-electronic-modulation-of-nanomaterials-for-energy-conversion-and-storage",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Green Processes and Sustainable Functional Materials for Environment Photo(electro)chemistry",
+    "url": "https://www.sciencedirect.com/special-issue/317138/green-processes-and-sustainable-functional-materials-for-environment-photo-electro-chemistry",
+    "dueDate": 1751241600000,
+    "journal": "Results in Surfaces and Interfaces",
+    "abbreviation": "sd",
+    "slug": "sd-green-processes-and-sustainable-functional-materials-for-environment-photoelectrochemistry",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Pulmonary Drug Delivery part 2",
+    "url": "https://www.sciencedirect.com/special-issue/317064/pulmonary-drug-delivery-part-2",
+    "dueDate": 1751241600000,
+    "journal": "European Journal of Pharmaceutical Sciences",
+    "abbreviation": "sd",
+    "slug": "sd-pulmonary-drug-delivery-part-2",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Nature-Positive Actions, Management and Solutions for Soil Health and Security",
+    "url": "https://www.sciencedirect.com/special-issue/317108/nature-positive-actions-management-and-solutions-for-soil-health-and-security",
+    "dueDate": 1751328000000,
+    "journal": "Soil Security",
+    "abbreviation": "sd",
+    "slug": "sd-nature-positive-actions-management-and-solutions-for-soil-health-and-security",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Systemic Functional Semiotics: From theory to practice",
+    "url": "https://www.sciencedirect.com/special-issue/317099/systemic-functional-semiotics-from-theory-to-practice",
+    "dueDate": 1759276800000,
+    "journal": "Journal of English for Academic Purposes",
+    "abbreviation": "sd",
+    "slug": "sd-systemic-functional-semiotics-from-theory-to-practice",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Emotions in Teaching Second Language Writing",
+    "url": "https://www.sciencedirect.com/special-issue/317082/emotions-in-teaching-second-language-writing",
+    "dueDate": 1752969600000,
+    "journal": "Journal of Second Language Writing",
+    "abbreviation": "sd",
+    "slug": "sd-emotions-in-teaching-second-language-writing",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "State of the Art and Future Directions in Spine Surgery and Spine Care: Report of the NASS Subspecialty Sections",
+    "url": "https://www.sciencedirect.com/special-issue/317081/state-of-the-art-and-future-directions-in-spine-surgery-and-spine-care-report-of-the-nass-subspecialty-sections",
+    "dueDate": 1741910400000,
+    "journal": "North American Spine Society Journal (NASSJ)",
+    "abbreviation": "sd",
+    "slug": "sd-state-of-the-art-and-future-directions-in-spine-surgery-and-spine-care-report-of-the-nass-subspecialty-sections",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Glial Metabolism in Neurodegeneration: Molecular Mechanisms and Therapeutic Targets",
+    "url": "https://www.sciencedirect.com/special-issue/317089/glial-metabolism-in-neurodegeneration-molecular-mechanisms-and-therapeutic-targets",
+    "dueDate": 1761955200000,
+    "journal": "Glial Health Research",
+    "abbreviation": "sd",
+    "slug": "sd-glial-metabolism-in-neurodegeneration-molecular-mechanisms-and-therapeutic-targets",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Emergency Behavioral Health in the ED",
+    "url": "https://www.sciencedirect.com/special-issue/317088/emergency-behavioral-health-in-the-ed",
+    "dueDate": 1740787200000,
+    "journal": "The Journal of Emergency Medicine",
+    "abbreviation": "sd",
+    "slug": "sd-emergency-behavioral-health-in-the-ed",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Recent Advances in Assistive Computer Vision and Robotics",
+    "url": "https://www.sciencedirect.com/special-issue/317098/recent-advances-in-assistive-computer-vision-and-robotics",
+    "dueDate": 1738281600000,
+    "journal": "Computer Vision and Image Understanding",
+    "abbreviation": "sd",
+    "slug": "sd-recent-advances-in-assistive-computer-vision-and-robotics",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Sustainable Development of Energy, Water and Environment Systems 2024 - Renewable and Sustainable Energy Reviews",
+    "url": "https://www.sciencedirect.com/special-issue/317062/sustainable-development-of-energy-water-and-environment-systems-2024-renewable-and-sustainable-energy-reviews",
+    "dueDate": 1753920000000,
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "abbreviation": "sd",
+    "slug": "sd-sustainable-development-of-energy-water-and-environment-systems-2024-renewable-and-sustainable-energy-reviews",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "The Mitral and Tricuspid Valves",
+    "url": "https://www.sciencedirect.com/special-issue/317073/the-mitral-and-tricuspid-valves",
+    "dueDate": 1745971200000,
+    "journal": "Journal of Veterinary Cardiology",
+    "abbreviation": "sd",
+    "slug": "sd-the-mitral-and-tricuspid-valves",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Studies in Materialistic Historiography",
+    "url": "https://www.sciencedirect.com/special-issue/317061/studies-in-materialistic-historiography",
+    "dueDate": 1737331200000,
+    "journal": "Perspectives in Architecture and Urbanism",
+    "abbreviation": "sd",
+    "slug": "sd-studies-in-materialistic-historiography",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Laennec capsule based on anatomical procedures in hepatobiliary surgery",
+    "url": "https://www.sciencedirect.com/special-issue/317074/laennec-capsule-based-on-anatomical-procedures-in-hepatobiliary-surgery",
+    "dueDate": 1748736000000,
+    "journal": "iLIVER",
+    "abbreviation": "sd",
+    "slug": "sd-laennec-capsule-based-on-anatomical-procedures-in-hepatobiliary-surgery",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Ultrasonic Communication in Rodents",
+    "url": "https://www.sciencedirect.com/special-issue/317071/ultrasonic-communication-in-rodents",
+    "dueDate": 1753920000000,
+    "journal": "Behavioural Brain Research",
+    "abbreviation": "sd",
+    "slug": "sd-ultrasonic-communication-in-rodents",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Selected HPSR 2024 paper fast-track",
+    "url": "https://www.sciencedirect.com/special-issue/317068/selected-hpsr-2024-paper-fast-track",
+    "dueDate": 1736467200000,
+    "journal": "Computer Networks",
+    "abbreviation": "sd",
+    "slug": "sd-selected-hpsr-2024-paper-fast-track",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "The geological evolution of the India-Asia collision and the Tibetan Plateau",
+    "url": "https://www.sciencedirect.com/special-issue/316818/the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-plateau",
+    "dueDate": 1750377600000,
+    "journal": "Tectonophysics",
+    "abbreviation": "sd",
+    "slug": "sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-plateau",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Current Controversies in the Medical Treatment of Early Breast Cancer",
+    "url": "https://www.sciencedirect.com/special-issue/306778/current-controversies-in-the-medical-treatment-of-early-breast-cancer",
+    "dueDate": 1748649600000,
+    "journal": "Revista de Senología y Patología Mamaria",
+    "abbreviation": "sd",
+    "slug": "sd-current-controversies-in-the-medical-treatment-of-early-breast-cancer",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
+    "title": "Neuropharmacology of voltage-gated ion channels",
+    "url": "https://www.sciencedirect.com/special-issue/297525/neuropharmacology-of-voltage-gated-ion-channels",
+    "dueDate": 1738281600000,
+    "journal": "Neuropharmacology",
+    "abbreviation": "sd",
+    "slug": "sd-neuropharmacology-of-voltage-gated-ion-channels",
+    "active": true,
+    "pubDate": 1732763193000
+  },
+  {
     "title": "Fall Risk Assessment and Fall Prevention",
     "url": "https://www.sciencedirect.com/special-issue/317058/fall-risk-assessment-and-fall-prevention",
     "dueDate": 1738281600000,
@@ -31,7 +301,7 @@
   },
   {
     "title": "Computational Physics Symposium at CPS Fall Meeting 2024",
-    "url": "https://www.sciencedirect.com/special-issue/316764/Computational%20Physics%20Symposium%20at%20CPS%20Fall%20Meeting%202025",
+    "url": "https://www.sciencedirect.com/special-issue/316764/computational-physics-symposium-at-cps-fall-meeting-2024",
     "dueDate": 1748736000000,
     "journal": "Solid State Communications",
     "abbreviation": "sd",
@@ -564,7 +834,7 @@
   {
     "title": "Special Issue on: The Microfoundations of Entrepreneurial Ecosystems",
     "url": "https://www.sciencedirect.com/special-issue/316834/special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems",
-    "dueDate": 1738368000000,
+    "dueDate": 1769904000000,
     "journal": "Journal of Business Venturing",
     "abbreviation": "sd",
     "slug": "sd-special-issue-on-the-microfoundations-of-entrepreneurial-ecosystems",
@@ -638,8 +908,9 @@
     "journal": "Tectonophysics",
     "abbreviation": "sd",
     "slug": "sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea",
-    "active": true,
-    "pubDate": 1731985383000
+    "active": false,
+    "pubDate": 1731985383000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Proceedings of the Eleven International Workshop on Modeling in Crystal Growth",
@@ -2831,8 +3102,9 @@
     "journal": "Mental Health and Physical Activity",
     "abbreviation": "sd",
     "slug": "sd-biological-mechanisms-linking-physical-activity-and-substance-use-implications-for-prevention-and-treatment",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Metabolic Crossroads: Navigating Aging, Obesity, and Energy Balance",
@@ -3257,7 +3529,7 @@
   {
     "title": "Marine and environmental electrochemistry in the era of new technologies",
     "url": "https://www.sciencedirect.com/special-issue/310830/marine-and-environmental-electrochemistry-in-the-era-of-new-technologies",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-marine-and-environmental-electrochemistry-in-the-era-of-new-technologies",
@@ -3627,7 +3899,7 @@
   {
     "title": "New Insights and Challenges in the Holistic Research of Harmful Algal Blooms (HABs)",
     "url": "https://www.sciencedirect.com/special-issue/308738/new-insights-and-challenges-in-the-holistic-research-of-harmful-algal-blooms-habs",
-    "dueDate": 1731283200000,
+    "dueDate": 1745971200000,
     "journal": "Current Research in Microbial Sciences",
     "abbreviation": "sd",
     "slug": "sd-new-insights-and-challenges-in-the-holistic-research-of-harmful-algal-blooms-habs",
@@ -4061,8 +4333,9 @@
     "journal": "Tetrahedron",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-transition-metal-catalyzed-reactions",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "New Frontiers of Business Model, and Open Innovation for the Sustainability of World Economy",
@@ -4111,8 +4384,9 @@
     "journal": "Tetrahedron Letters",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-transition-metal-catalyzed-reactions",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Remote Sensing of Wildfires",
@@ -4217,7 +4491,7 @@
   {
     "title": "18th International Symposium on Polymer Electrolytes (ISPE-18)",
     "url": "https://www.sciencedirect.com/special-issue/307174/18th-international-symposium-on-polymer-electrolytes-ispe-18",
-    "dueDate": 1734652800000,
+    "dueDate": 1740700800000,
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-18th-international-symposium-on-polymer-electrolytes-ispe-18",
@@ -4451,8 +4725,9 @@
     "journal": "Tetrahedron",
     "abbreviation": "sd",
     "slug": "sd-four-membered-heterocycles-and-products-derived-from-them",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Decoding Prostate Cancer Therapy Resistance and Novel Therapeutic Strategies",
@@ -4491,8 +4766,9 @@
     "journal": "Tetrahedron Letters",
     "abbreviation": "sd",
     "slug": "sd-four-membered-heterocycles-and-products-derived-from-them",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Electrochemical reactor design and implementation: connecting different innovative technologies",
@@ -5217,7 +5493,7 @@
   {
     "title": "Exploring Nanotechnology in Medicinal Plants",
     "url": "https://www.sciencedirect.com/special-issue/306116/exploring-nanotechnology-in-medicinal-plants",
-    "dueDate": 1735603200000,
+    "dueDate": 1751241600000,
     "journal": "Journal of Herbal Medicine",
     "abbreviation": "sd",
     "slug": "sd-exploring-nanotechnology-in-medicinal-plants",
@@ -7029,7 +7305,7 @@
   {
     "title": "Advancing forest inventory science for enhanced insights into tomorrow’s forests",
     "url": "https://www.sciencedirect.com/special-issue/303527/advancing-forest-inventory-science-for-enhanced-insights-into-tomorrow-s-forests",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Forest Ecology and Management",
     "abbreviation": "sd",
     "slug": "sd-advancing-forest-inventory-science-for-enhanced-insights-into-tomorrows-forests",
@@ -7570,7 +7846,7 @@
   {
     "title": "Mineral nutrient acquisition under stress: Sensing, signalling, and transportation",
     "url": "https://www.sciencedirect.com/special-issue/302974/mineral-nutrient-acquisition-under-stress-sensing-signalling-and-transportation",
-    "dueDate": 1735603200000,
+    "dueDate": 1743379200000,
     "journal": "Plant Science",
     "abbreviation": "sd",
     "slug": "sd-mineral-nutrient-acquisition-under-stress-sensing-signalling-and-transportation",
@@ -7861,7 +8137,7 @@
   {
     "title": "Triage in African Emergency Care",
     "url": "https://www.sciencedirect.com/special-issue/302394/triage-in-african-emergency-care",
-    "dueDate": 1732752000000,
+    "dueDate": 1750809600000,
     "journal": "African Journal of Emergency Medicine",
     "abbreviation": "sd",
     "slug": "sd-triage-in-african-emergency-care",
@@ -8021,7 +8297,7 @@
   {
     "title": "Molecular liquids as seen from experiments and simulations - Nacer Idrissi 60 Festschrift",
     "url": "https://www.sciencedirect.com/special-issue/302249/molecular-liquids-as-seen-from-experiments-and-simulations-nacer-idrissi-60-festschrift",
-    "dueDate": 1732924800000,
+    "dueDate": 1736899200000,
     "journal": "Journal of Molecular Liquids",
     "abbreviation": "sd",
     "slug": "sd-molecular-liquids-as-seen-from-experiments-and-simulations-nacer-idrissi-60-festschrift",
@@ -10051,7 +10327,7 @@
   {
     "title": "Literature Reviews driving the field of purchasing and supply chain management forward",
     "url": "https://www.sciencedirect.com/special-issue/298674/literature-reviews-driving-the-field-of-purchasing-and-supply-chain-management-forward",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Purchasing and Supply Management",
     "abbreviation": "sd",
     "slug": "sd-literature-reviews-driving-the-field-of-purchasing-and-supply-chain-management-forward",
@@ -10541,7 +10817,7 @@
   {
     "title": "Recent Advances in Nonlinear Dynamics in Engineering Systems. In occasion of the 65th birthday of Prof. Jerzy Warminski",
     "url": "https://www.sciencedirect.com/special-issue/298078/recent-advances-in-nonlinear-dynamics-in-engineering-systems-in-occasion-of-the-65th-birthday-of-prof-jerzy-warminski",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Sound and Vibration",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-nonlinear-dynamics-in-engineering-systems-in-occasion-of-the-65th-birthday-of-prof-jerzy-warminski",
@@ -11141,7 +11417,7 @@
   {
     "title": "Special Issue of the 16th International Symposium of Radiation Physics (ISRP-16)",
     "url": "https://www.sciencedirect.com/special-issue/296996/special-issue-of-the-16th-international-symposium-of-radiation-physics-isrp-16",
-    "dueDate": 1732924800000,
+    "dueDate": 1735776000000,
     "journal": "Radiation Physics and Chemistry",
     "abbreviation": "sd",
     "slug": "sd-special-issue-of-the-16th-international-symposium-of-radiation-physics-isrp-16",
@@ -11211,7 +11487,7 @@
   {
     "title": "Materials innovation and mechanistic features of photo/thermal catalysis for sustainable chemical production (Sustainable chemicals)",
     "url": "https://www.sciencedirect.com/special-issue/297022/materials-innovation-and-mechanistic-features-of-photo-thermal-catalysis-for-sustainable-chemical-production-sustainable-chemicals",
-    "dueDate": 1730332800000,
+    "dueDate": 1743379200000,
     "journal": "Journal of Physics and Chemistry of Solids",
     "abbreviation": "sd",
     "slug": "sd-materials-innovation-and-mechanistic-features-of-photothermal-catalysis-for-sustainable-chemical-production-sustainable-chemicals",
@@ -11371,7 +11647,7 @@
   {
     "title": "Industrial Policy and Industrial Organization",
     "url": "https://www.sciencedirect.com/special-issue/296675/industrial-policy-and-industrial-organization",
-    "dueDate": 1730332800000,
+    "dueDate": 1734480000000,
     "journal": "International Journal of Industrial Organization",
     "abbreviation": "sd",
     "slug": "sd-industrial-policy-and-industrial-organization",
@@ -12011,7 +12287,7 @@
   {
     "title": "Traffic and tillage management systems for improved soil resilience and agricultural sustainability",
     "url": "https://www.sciencedirect.com/special-issue/294564/traffic-and-tillage-management-systems-for-improved-soil-resilience-and-agricultural-sustainability",
-    "dueDate": 1733011200000,
+    "dueDate": 1745971200000,
     "journal": "Soil and Tillage Research",
     "abbreviation": "sd",
     "slug": "sd-traffic-and-tillage-management-systems-for-improved-soil-resilience-and-agricultural-sustainability",
@@ -12165,8 +12441,9 @@
     "journal": "Physiology & Behavior",
     "abbreviation": "sd",
     "slug": "sd-the-role-of-physical-activity-in-psychological-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Payments for Ecosystem Services and Motivations: exploring the driving conditions for success or failure.",
@@ -14379,7 +14656,7 @@
   {
     "title": "Machine Learning and Big Data Analytics in Applied Finance",
     "url": "https://www.sciencedirect.com/special-issue/288087/machine-learning-and-big-data-analytics-in-applied-finance",
-    "dueDate": 1732924800000,
+    "dueDate": 1734048000000,
     "journal": "Pacific-Basin Finance Journal",
     "abbreviation": "sd",
     "slug": "sd-machine-learning-and-big-data-analytics-in-applied-finance",
@@ -17207,8 +17484,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-supramolecular-chemistry",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Organocatalysis",
@@ -17217,8 +17495,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-organocatalysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Biomolecule Synthesis and Modification",
@@ -17227,8 +17506,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-biomolecule-synthesis-and-modification",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Total Synthesis",
@@ -17237,8 +17517,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-total-synthesis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Biocatalysis",
@@ -17247,8 +17528,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-biocatalysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Electrochemistry and Synthesis",
@@ -17257,8 +17539,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-electrochemistry-and-synthesis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Photocatalysis in Organic Synthesis",
@@ -17267,8 +17550,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-photocatalysis-in-organic-synthesis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Interactions between agroecosystems and the environment: field observations, modelling and data-model integration",
@@ -19444,8 +19728,9 @@
     "journal": "Behavioural Brain Research",
     "abbreviation": "sd",
     "slug": "sd-virtual-reality-in-cognitive-and-affective-neuroscience",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Safety Technologies for New Energy Vehicles",
@@ -26267,7 +26552,7 @@
   {
     "title": "Machine learning and Artificial Intelligence applications in Fungal Genetics and Biology",
     "url": "https://www.sciencedirect.com/special-issue/315068/machine-learning-and-artificial-intelligence-applications-in-fungal-genetics-and-biology",
-    "dueDate": 1740787200000,
+    "dueDate": 1751328000000,
     "journal": "Fungal Genetics and Biology",
     "abbreviation": "sd",
     "slug": "sd-machine-learning-and-artificial-intelligence-applications-in-fungal-genetics-and-biology",
@@ -26381,8 +26666,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-chemo-selective-transformation-of-peptides-and-proteins",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Recent Progress in Iron, Cobalt, and Nickel Catalysis",
@@ -26391,8 +26677,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-recent-progress-in-iron-cobalt-and-nickel-catalysis",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Palladium and Copper Catalysis",
@@ -26401,8 +26688,9 @@
     "journal": "Tetrahedron Chem",
     "abbreviation": "sd",
     "slug": "sd-palladium-and-copper-catalysis",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Advances in Analytical Methods for Mass Spectrometry Imaging",
@@ -30576,8 +30864,9 @@
     "journal": "Tetrahedron",
     "abbreviation": "sd",
     "slug": "sd-in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "In honor of Professor Song Lin for the 2025 Tetrahedron Young Investigator Award For Organic Synthesis",
@@ -30586,8 +30875,9 @@
     "journal": "Tetrahedron",
     "abbreviation": "sd",
     "slug": "sd-in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
@@ -30642,7 +30932,7 @@
   {
     "title": "Proceedings of the 2024 Advanced Accelerator Concepts workshop",
     "url": "https://www.sciencedirect.com/special-issue/313607/proceedings-of-the-2024-advanced-accelerator-concepts-workshop",
-    "dueDate": 1732838400000,
+    "dueDate": 1734220800000,
     "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
     "abbreviation": "sd",
     "slug": "sd-proceedings-of-the-2024-advanced-accelerator-concepts-workshop",
@@ -30656,8 +30946,9 @@
     "journal": "Tetrahedron Letters",
     "abbreviation": "sd",
     "slug": "sd-in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "In honor of Professor Song Lin for the 2025 Tetrahedron Young Investigator Award For Organic Synthesis",
@@ -30666,8 +30957,9 @@
     "journal": "Tetrahedron Letters",
     "abbreviation": "sd",
     "slug": "sd-in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735355193000
   },
   {
     "title": "Recycling and Sustainability of Strategic Metals Resource",
@@ -30905,7 +31197,7 @@
   {
     "title": "New Approach Methodologies in Risk Assessment of Food Chemicals",
     "url": "https://www.sciencedirect.com/special-issue/313530/new-approach-methodologies-in-risk-assessment-of-food-chemicals",
-    "dueDate": 1735603200000,
+    "dueDate": 1740700800000,
     "journal": "Food and Chemical Toxicology",
     "abbreviation": "sd",
     "slug": "sd-new-approach-methodologies-in-risk-assessment-of-food-chemicals",
@@ -32350,14 +32642,13 @@
   },
   {
     "title": "Herbal Remedies for Oral and Dental Health",
-    "url": "https://www.sciencedirect.com/journal/journal-of-herbal-medicine/about/call-for-papers#herbal-remedies-for-oral-and-dental-health",
-    "dueDate": 1727634600000,
+    "url": "https://www.sciencedirect.com/special-issue/313015/herbal-remedies-for-oral-and-dental-health",
+    "dueDate": 1751241600000,
     "journal": "Journal of Herbal Medicine",
     "abbreviation": "sd",
     "slug": "sd-herbal-remedies-for-oral-and-dental-health",
-    "active": false,
-    "pubDate": 1727211111000,
-    "gracePeriod": 1734387593000
+    "active": true,
+    "pubDate": 1727211111000
   },
   {
     "title": "Exploration of the Therapeutic Potential of Natural Products on Cancer",

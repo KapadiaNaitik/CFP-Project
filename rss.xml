@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Wed, 27 Nov 2024 03:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 03:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,195 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Erosion, sediments, and ecology]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317140/erosion-sediments-and-ecology</link>
+            <guid>sd-erosion-sediments-and-ecology</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>CATENA (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic Quantitative Trade]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317118/dynamic-quantitative-trade</link>
+            <guid>sd-dynamic-quantitative-trade</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Journal of International Economics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Biomolecule-based electrospinning]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317123/biomolecule-based-electrospinning</link>
+            <guid>sd-biomolecule-based-electrospinning</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>BBA Advances (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Technology in EAP Language Teaching and Learning]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317091/technology-in-eap-language-teaching-and-learning</link>
+            <guid>sd-technology-in-eap-language-teaching-and-learning</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Journal of English for Academic Purposes (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence for Future 6G Systems]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317103/artificial-intelligence-for-future-6g-systems</link>
+            <guid>sd-artificial-intelligence-for-future-6g-systems</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Computer Networks (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Geospatial information and sustainable urban development]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317119/geospatial-information-and-sustainable-urban-development</link>
+            <guid>sd-geospatial-information-and-sustainable-urban-development</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Information Geography (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Research Methods and Analyses]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317092/research-methods-and-analyses</link>
+            <guid>sd-research-methods-and-analyses</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Currents in Pharmacy Teaching and Learning (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Planetary Health and Primary Care]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317126/planetary-health-and-primary-care</link>
+            <guid>sd-planetary-health-and-primary-care</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Atención Primaria (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Structure Modification and Electronic Modulation of Nanomaterials for Energy Conversion and Storage]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317133/structure-modification-and-electronic-modulation-of-nanomaterials-for-energy-conversion-and-storage</link>
+            <guid>sd-structure-modification-and-electronic-modulation-of-nanomaterials-for-energy-conversion-and-storage</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Results in Surfaces and Interfaces (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Green Processes and Sustainable Functional Materials for Environment Photo(electro)chemistry]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317138/green-processes-and-sustainable-functional-materials-for-environment-photo-electro-chemistry</link>
+            <guid>sd-green-processes-and-sustainable-functional-materials-for-environment-photoelectrochemistry</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Results in Surfaces and Interfaces (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Pulmonary Drug Delivery part 2]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317064/pulmonary-drug-delivery-part-2</link>
+            <guid>sd-pulmonary-drug-delivery-part-2</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>European Journal of Pharmaceutical Sciences (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Nature-Positive Actions, Management and Solutions for Soil Health and Security]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317108/nature-positive-actions-management-and-solutions-for-soil-health-and-security</link>
+            <guid>sd-nature-positive-actions-management-and-solutions-for-soil-health-and-security</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Soil Security (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Systemic Functional Semiotics: From theory to practice]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317099/systemic-functional-semiotics-from-theory-to-practice</link>
+            <guid>sd-systemic-functional-semiotics-from-theory-to-practice</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Journal of English for Academic Purposes (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Emotions in Teaching Second Language Writing]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317082/emotions-in-teaching-second-language-writing</link>
+            <guid>sd-emotions-in-teaching-second-language-writing</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Journal of Second Language Writing (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[State of the Art and Future Directions in Spine Surgery and Spine Care: Report of the NASS Subspecialty Sections]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317081/state-of-the-art-and-future-directions-in-spine-surgery-and-spine-care-report-of-the-nass-subspecialty-sections</link>
+            <guid>sd-state-of-the-art-and-future-directions-in-spine-surgery-and-spine-care-report-of-the-nass-subspecialty-sections</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>North American Spine Society Journal (NASSJ) (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Glial Metabolism in Neurodegeneration: Molecular Mechanisms and Therapeutic Targets]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317089/glial-metabolism-in-neurodegeneration-molecular-mechanisms-and-therapeutic-targets</link>
+            <guid>sd-glial-metabolism-in-neurodegeneration-molecular-mechanisms-and-therapeutic-targets</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Glial Health Research (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Emergency Behavioral Health in the ED]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317088/emergency-behavioral-health-in-the-ed</link>
+            <guid>sd-emergency-behavioral-health-in-the-ed</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>The Journal of Emergency Medicine (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Recent Advances in Assistive Computer Vision and Robotics]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317098/recent-advances-in-assistive-computer-vision-and-robotics</link>
+            <guid>sd-recent-advances-in-assistive-computer-vision-and-robotics</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Computer Vision and Image Understanding (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable Development of Energy, Water and Environment Systems 2024 - Renewable and Sustainable Energy Reviews]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317062/sustainable-development-of-energy-water-and-environment-systems-2024-renewable-and-sustainable-energy-reviews</link>
+            <guid>sd-sustainable-development-of-energy-water-and-environment-systems-2024-renewable-and-sustainable-energy-reviews</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Renewable and Sustainable Energy Reviews (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Mitral and Tricuspid Valves]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317073/the-mitral-and-tricuspid-valves</link>
+            <guid>sd-the-mitral-and-tricuspid-valves</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Journal of Veterinary Cardiology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Studies in Materialistic Historiography]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317061/studies-in-materialistic-historiography</link>
+            <guid>sd-studies-in-materialistic-historiography</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Perspectives in Architecture and Urbanism (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Laennec capsule based on anatomical procedures in hepatobiliary surgery]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317074/laennec-capsule-based-on-anatomical-procedures-in-hepatobiliary-surgery</link>
+            <guid>sd-laennec-capsule-based-on-anatomical-procedures-in-hepatobiliary-surgery</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>iLIVER (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Ultrasonic Communication in Rodents]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317071/ultrasonic-communication-in-rodents</link>
+            <guid>sd-ultrasonic-communication-in-rodents</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Behavioural Brain Research (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Selected HPSR 2024 paper fast-track]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317068/selected-hpsr-2024-paper-fast-track</link>
+            <guid>sd-selected-hpsr-2024-paper-fast-track</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Computer Networks (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The geological evolution of the India-Asia collision and the Tibetan Plateau]]></title>
+            <link>https://www.sciencedirect.com/special-issue/316818/the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-plateau</link>
+            <guid>sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-plateau</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Tectonophysics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Current Controversies in the Medical Treatment of Early Breast Cancer]]></title>
+            <link>https://www.sciencedirect.com/special-issue/306778/current-controversies-in-the-medical-treatment-of-early-breast-cancer</link>
+            <guid>sd-current-controversies-in-the-medical-treatment-of-early-breast-cancer</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Revista de Senología y Patología Mamaria (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Neuropharmacology of voltage-gated ion channels]]></title>
+            <link>https://www.sciencedirect.com/special-issue/297525/neuropharmacology-of-voltage-gated-ion-channels</link>
+            <guid>sd-neuropharmacology-of-voltage-gated-ion-channels</guid>
+            <pubDate>Thu, 28 Nov 2024 03:06:33 GMT</pubDate>
+            <author>Neuropharmacology (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Fall Risk Assessment and Fall Prevention]]></title>
             <link>https://www.sciencedirect.com/special-issue/317058/fall-risk-assessment-and-fall-prevention</link>
@@ -36,7 +225,7 @@
         </item>
         <item>
             <title><![CDATA[Computational Physics Symposium at CPS Fall Meeting 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316764/Computational%20Physics%20Symposium%20at%20CPS%20Fall%20Meeting%202025</link>
+            <link>https://www.sciencedirect.com/special-issue/316764/computational-physics-symposium-at-cps-fall-meeting-2024</link>
             <guid>sd-computational-physics-symposium-at-cps-fall-meeting-2024</guid>
             <pubDate>Wed, 27 Nov 2024 03:06:39 GMT</pubDate>
             <author>Solid State Communications (SD)</author>
@@ -22597,7 +22786,7 @@
         </item>
         <item>
             <title><![CDATA[Herbal Remedies for Oral and Dental Health]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-herbal-medicine/about/call-for-papers#herbal-remedies-for-oral-and-dental-health</link>
+            <link>https://www.sciencedirect.com/special-issue/313015/herbal-remedies-for-oral-and-dental-health</link>
             <guid>sd-herbal-remedies-for-oral-and-dental-health</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Herbal Medicine (SD)</author>
