@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Thu, 28 Nov 2024 03:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 03:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,55 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Phenotypic Plasticity]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317161/phenotypic-plasticity</link>
+            <guid>sd-phenotypic-plasticity</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Fundamental Research (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Risk Management Issues in Banking and Insurance Sector: Implications from New Financial, Regulatory, and Environmental Scenarios]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317142/risk-management-issues-in-banking-and-insurance-sector-implications-from-new-financial-regulatory-and-environmental-scenarios</link>
+            <guid>sd-risk-management-issues-in-banking-and-insurance-sector-implications-from-new-financial-regulatory-and-environmental-scenarios</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Research in International Business and Finance (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Pathways to Sustainable Rice Cultivation: Evidence from Long-Term Experiments in Asia]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317143/pathways-to-sustainable-rice-cultivation-evidence-from-long-term-experiments-in-asia</link>
+            <guid>sd-pathways-to-sustainable-rice-cultivation-evidence-from-long-term-experiments-in-asia</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Field Crops Research (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Emerging Green Systems for Industrial and Hazardous Waste Streams]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317162/emerging-green-systems-for-industrial-and-hazardous-waste-streams</link>
+            <guid>sd-emerging-green-systems-for-industrial-and-hazardous-waste-streams</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Journal of Environmental Chemical Engineering (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Terrestrial Radioisotopes in Environment International Conference on Environmental Protection]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317164/terrestrial-radioisotopes-in-environment-international-conference-on-environmental-protection</link>
+            <guid>sd-terrestrial-radioisotopes-in-environment-international-conference-on-environmental-protection</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Journal of Environmental Radioactivity (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[RACI, 2nd Australian Conference on Green and Sustainable Chemistry & Engineering, Melbourne, 2024]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317147/raci-2nd-australian-conference-on-green-and-sustainable-chemistry-engineering-melbourne-2024</link>
+            <guid>sd-raci-2nd-australian-conference-on-green-and-sustainable-chemistry-and-engineering-melbourne-2024</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>Materials Today Chemistry (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Integrating Traditional Chinese Medicine Tradition and Innovation in the Digital Era]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317166/integrating-traditional-chinese-medicine-tradition-and-innovation-in-the-digital-era</link>
+            <guid>sd-integrating-traditional-chinese-medicine-tradition-and-innovation-in-the-digital-era</guid>
+            <pubDate>Fri, 29 Nov 2024 03:06:23 GMT</pubDate>
+            <author>New Techno-Humanities (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Erosion, sediments, and ecology]]></title>
             <link>https://www.sciencedirect.com/special-issue/317140/erosion-sediments-and-ecology</link>

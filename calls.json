@@ -1,5 +1,75 @@
 [
   {
+    "title": "Phenotypic Plasticity",
+    "url": "https://www.sciencedirect.com/special-issue/317161/phenotypic-plasticity",
+    "dueDate": 1745971200000,
+    "journal": "Fundamental Research",
+    "abbreviation": "sd",
+    "slug": "sd-phenotypic-plasticity",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "Risk Management Issues in Banking and Insurance Sector: Implications from New Financial, Regulatory, and Environmental Scenarios",
+    "url": "https://www.sciencedirect.com/special-issue/317142/risk-management-issues-in-banking-and-insurance-sector-implications-from-new-financial-regulatory-and-environmental-scenarios",
+    "dueDate": 1740700800000,
+    "journal": "Research in International Business and Finance",
+    "abbreviation": "sd",
+    "slug": "sd-risk-management-issues-in-banking-and-insurance-sector-implications-from-new-financial-regulatory-and-environmental-scenarios",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "Pathways to Sustainable Rice Cultivation: Evidence from Long-Term Experiments in Asia",
+    "url": "https://www.sciencedirect.com/special-issue/317143/pathways-to-sustainable-rice-cultivation-evidence-from-long-term-experiments-in-asia",
+    "dueDate": 1769817600000,
+    "journal": "Field Crops Research",
+    "abbreviation": "sd",
+    "slug": "sd-pathways-to-sustainable-rice-cultivation-evidence-from-long-term-experiments-in-asia",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "Emerging Green Systems for Industrial and Hazardous Waste Streams",
+    "url": "https://www.sciencedirect.com/special-issue/317162/emerging-green-systems-for-industrial-and-hazardous-waste-streams",
+    "dueDate": 1774915200000,
+    "journal": "Journal of Environmental Chemical Engineering",
+    "abbreviation": "sd",
+    "slug": "sd-emerging-green-systems-for-industrial-and-hazardous-waste-streams",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "Terrestrial Radioisotopes in Environment International Conference on Environmental Protection",
+    "url": "https://www.sciencedirect.com/special-issue/317164/terrestrial-radioisotopes-in-environment-international-conference-on-environmental-protection",
+    "dueDate": 1740700800000,
+    "journal": "Journal of Environmental Radioactivity",
+    "abbreviation": "sd",
+    "slug": "sd-terrestrial-radioisotopes-in-environment-international-conference-on-environmental-protection",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "RACI, 2nd Australian Conference on Green and Sustainable Chemistry & Engineering, Melbourne, 2024",
+    "url": "https://www.sciencedirect.com/special-issue/317147/raci-2nd-australian-conference-on-green-and-sustainable-chemistry-engineering-melbourne-2024",
+    "dueDate": 1748649600000,
+    "journal": "Materials Today Chemistry",
+    "abbreviation": "sd",
+    "slug": "sd-raci-2nd-australian-conference-on-green-and-sustainable-chemistry-and-engineering-melbourne-2024",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
+    "title": "Integrating Traditional Chinese Medicine Tradition and Innovation in the Digital Era",
+    "url": "https://www.sciencedirect.com/special-issue/317166/integrating-traditional-chinese-medicine-tradition-and-innovation-in-the-digital-era",
+    "dueDate": 1739577600000,
+    "journal": "New Techno-Humanities",
+    "abbreviation": "sd",
+    "slug": "sd-integrating-traditional-chinese-medicine-tradition-and-innovation-in-the-digital-era",
+    "active": true,
+    "pubDate": 1732849583000
+  },
+  {
     "title": "Erosion, sediments, and ecology",
     "url": "https://www.sciencedirect.com/special-issue/317140/erosion-sediments-and-ecology",
     "dueDate": 1739577600000,
@@ -573,7 +643,7 @@
   {
     "title": "Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)",
     "url": "https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
-    "dueDate": 1747267200000,
+    "dueDate": 1737763200000,
     "journal": "Journal of Computational and Applied Mathematics",
     "abbreviation": "sd",
     "slug": "sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
@@ -593,7 +663,7 @@
   {
     "title": "Advances in Approximation Theory and Special Functions (Contributions from the ATSF 2024 Conference - 8th Series)",
     "url": "https://www.sciencedirect.com/special-issue/316945/advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
-    "dueDate": 1747267200000,
+    "dueDate": 1737763200000,
     "journal": "Systems and Soft Computing",
     "abbreviation": "sd",
     "slug": "sd-advances-in-approximation-theory-and-special-functions-contributions-from-the-atsf-2024-conference-8th-series",
@@ -1206,7 +1276,7 @@
   {
     "title": "Transformers: bridging the gap between Machine Learning and Engineering Applications",
     "url": "https://www.sciencedirect.com/special-issue/312630/transformers-bridging-the-gap-between-machine-learning-and-engineering-applications",
-    "dueDate": 1731628800000,
+    "dueDate": 1747267200000,
     "journal": "Results in Engineering",
     "abbreviation": "sd",
     "slug": "sd-transformers-bridging-the-gap-between-machine-learning-and-engineering-applications",
@@ -2118,7 +2188,7 @@
   {
     "title": "Institutions, Development, Gender Status, and Behaviours",
     "url": "https://www.sciencedirect.com/special-issue/312183/institutions-development-gender-status-and-behaviours",
-    "dueDate": 1733961600000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Behavioral and Experimental Economics",
     "abbreviation": "sd",
     "slug": "sd-institutions-development-gender-status-and-behaviours",
@@ -7345,7 +7415,7 @@
   {
     "title": "Addressing the growing threat of Harmful Algal Blooms and related biotoxins",
     "url": "https://www.sciencedirect.com/special-issue/303513/addressing-the-growing-threat-of-harmful-algal-blooms-and-related-biotoxins",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Chemosphere",
     "abbreviation": "sd",
     "slug": "sd-addressing-the-growing-threat-of-harmful-algal-blooms-and-related-biotoxins",
@@ -8517,7 +8587,7 @@
   {
     "title": "Polymers: synthesis, structures, properties, and functions at liquids and solutions",
     "url": "https://www.sciencedirect.com/special-issue/302205/polymers-synthesis-structures-properties-and-functions-at-liquids-and-solutions",
-    "dueDate": 1732924800000,
+    "dueDate": 1740700800000,
     "journal": "Journal of Molecular Liquids",
     "abbreviation": "sd",
     "slug": "sd-polymers-synthesis-structures-properties-and-functions-at-liquids-and-solutions",
@@ -14206,7 +14276,7 @@
   {
     "title": "Mapping of Earth and Planetary surfaces through Statistical Learning",
     "url": "https://www.sciencedirect.com/special-issue/289549/mapping-of-earth-and-planetary-surfaces-through-statistical-learning",
-    "dueDate": 1732924800000,
+    "dueDate": 1743379200000,
     "journal": "Applied Computing and Geosciences",
     "abbreviation": "sd",
     "slug": "sd-mapping-of-earth-and-planetary-surfaces-through-statistical-learning",
@@ -17114,8 +17184,9 @@
     "journal": "The Leadership Quarterly",
     "abbreviation": "sd",
     "slug": "sd-qualitative-methods-in-leadership-research-toward-counterfactual-designs-and-open-science",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735441583000
   },
   {
     "title": "Artificial Intelligence in Health and Disease",
@@ -17470,7 +17541,7 @@
   {
     "title": "Frontiers of Blockchain and Intelligent Healthcare",
     "url": "https://www.sciencedirect.com/special-issue/278988/frontiers-of-blockchain-and-intelligent-healthcare",
-    "dueDate": 1736899200000,
+    "dueDate": 1743379200000,
     "journal": "Intelligent Medicine",
     "abbreviation": "sd",
     "slug": "sd-frontiers-of-blockchain-and-intelligent-healthcare",
@@ -23491,7 +23562,7 @@
   {
     "title": "Radiology Cybersecurity - Data Safety and Cybersecurity in Radiology",
     "url": "https://www.sciencedirect.com/special-issue/316306/radiology-cybersecurity-data-safety-and-cybersecurity-in-radiology",
-    "dueDate": 1738540800000,
+    "dueDate": 1743724800000,
     "journal": "Journal of the American College of Radiology",
     "abbreviation": "sd",
     "slug": "sd-radiology-cybersecurity-data-safety-and-cybersecurity-in-radiology",
@@ -26835,7 +26906,7 @@
   {
     "title": "Visible-Light Active Photocatalysis: Recent Advances in Science and Technology",
     "url": "https://www.sciencedirect.com/special-issue/300218/visible-light-active-photocatalysis-recent-advances-in-science-and-technology",
-    "dueDate": 1727654400000,
+    "dueDate": 1738281600000,
     "journal": "Applied Catalysis O: Open",
     "abbreviation": "sd",
     "slug": "sd-visible-light-active-photocatalysis-recent-advances-in-science-and-technology",
@@ -26845,7 +26916,7 @@
   {
     "title": "Visible-Light Active Photocatalysis: Recent Advances in Science and Technology",
     "url": "https://www.sciencedirect.com/special-issue/300218/visible-light-active-photocatalysis-recent-advances-in-science-and-technology",
-    "dueDate": 1727654400000,
+    "dueDate": 1738281600000,
     "journal": "Catalysis Communications",
     "abbreviation": "sd",
     "slug": "sd-visible-light-active-photocatalysis-recent-advances-in-science-and-technology",
@@ -31085,7 +31156,7 @@
   {
     "title": "Special Issue for the 24th International Conference on Solid State Ionics (Solid State Ionics 24 London)",
     "url": "https://www.sciencedirect.com/special-issue/313571/special-issue-for-the-24th-international-conference-on-solid-state-ionics-solid-state-ionics-24-london",
-    "dueDate": 1732924800000,
+    "dueDate": 1735603200000,
     "journal": "Solid State Ionics",
     "abbreviation": "sd",
     "slug": "sd-special-issue-for-the-24th-international-conference-on-solid-state-ionics-solid-state-ionics-24-london",
@@ -32784,7 +32855,7 @@
   {
     "title": "XII Brazilian Conference on Applied Thermodynamics (CBTermo)",
     "url": "https://www.sciencedirect.com/special-issue/312680/xii-brazilian-conference-on-applied-thermodynamics-cbtermo",
-    "dueDate": 1735603200000,
+    "dueDate": 1748649600000,
     "journal": "Fluid Phase Equilibria",
     "abbreviation": "sd",
     "slug": "sd-xii-brazilian-conference-on-applied-thermodynamics-cbtermo",
