@@ -1,5 +1,15 @@
 export const papers = [
   {
+    "title": "Mathematical modelling and artificial intelligence with engineering applications",
+    "url": "https://www.sciencedirect.com/special-issue/317191/mathematical-modelling-and-artificial-intelligence-with-engineering-applications",
+    "dueDate": 1745971200000,
+    "journal": "Journal of Computational and Applied Mathematics",
+    "abbreviation": "sd",
+    "slug": "sd-mathematical-modelling-and-artificial-intelligence-with-engineering-applications",
+    "active": true,
+    "pubDate": 1732935749000
+  },
+  {
     "title": "Phenotypic Plasticity",
     "url": "https://www.sciencedirect.com/special-issue/317161/phenotypic-plasticity",
     "dueDate": 1745971200000,
@@ -242,7 +252,7 @@ export const papers = [
   {
     "title": "Recent Advances in Assistive Computer Vision and Robotics",
     "url": "https://www.sciencedirect.com/special-issue/317098/recent-advances-in-assistive-computer-vision-and-robotics",
-    "dueDate": 1738281600000,
+    "dueDate": 1739750400000,
     "journal": "Computer Vision and Image Understanding",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-assistive-computer-vision-and-robotics",
@@ -3473,8 +3483,9 @@ export const papers = [
     "journal": "Telecommunications Policy",
     "abbreviation": "sd",
     "slug": "sd-building-resilience-in-telecommunications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Modeling and Numerical Simulations in Renewable Energy Systems",
@@ -4079,7 +4090,7 @@ export const papers = [
   {
     "title": "Why Has Youth Mental Health Worsened and What Can Be Done to Address the Causes?",
     "url": "https://www.sciencedirect.com/special-issue/308657/why-has-youth-mental-health-worsened-and-what-can-be-done-to-address-the-causes",
-    "dueDate": 1732924800000,
+    "dueDate": 1738886400000,
     "journal": "Mental Health & Prevention",
     "abbreviation": "sd",
     "slug": "sd-why-has-youth-mental-health-worsened-and-what-can-be-done-to-address-the-causes",
@@ -4259,7 +4270,7 @@ export const papers = [
   {
     "title": "Electrochemistry - Science and Technology for a Sustainable and Better Planet",
     "url": "https://www.sciencedirect.com/special-issue/308488/electrochemistry-science-and-technology-for-a-sustainable-and-better-planet",
-    "dueDate": 1734998400000,
+    "dueDate": 1740700800000,
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-electrochemistry-science-and-technology-for-a-sustainable-and-better-planet",
@@ -4816,8 +4827,9 @@ export const papers = [
     "journal": "Telematics and Informatics Reports",
     "abbreviation": "sd",
     "slug": "sd-shaping-the-future-when-ai-meets-design",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Multi-Speaker, Multi-Microphone, and Multi-Modal Distant Speech Recognition",
@@ -6798,8 +6810,9 @@ export const papers = [
     "journal": "Journal of Biomedical Informatics",
     "abbreviation": "sd",
     "slug": "sd-learning-from-multiple-data-sources-for-decision-making-in-health-care",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Health Digital Twins in Precision and Personalized Medicine",
@@ -9617,7 +9630,7 @@ export const papers = [
   {
     "title": "Transforming Business Models Across Digital Platforms: Exploring the Role of Artificial Intelligence",
     "url": "https://www.sciencedirect.com/special-issue/300007/transforming-business-models-across-digital-platforms-exploring-the-role-of-artificial-intelligence",
-    "dueDate": 1731628800000,
+    "dueDate": 1739577600000,
     "journal": "Journal of Engineering and Technology Management",
     "abbreviation": "sd",
     "slug": "sd-transforming-business-models-across-digital-platforms-exploring-the-role-of-artificial-intelligence",
@@ -10131,8 +10144,9 @@ export const papers = [
     "journal": "Telematics and Informatics Reports",
     "abbreviation": "sd",
     "slug": "sd-computational-communication-fusion-media-and-praxeology-in-big-data",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Navigating Uncertainties towards Just Energy Transitions",
@@ -10867,7 +10881,7 @@ export const papers = [
   {
     "title": "Artificial Intelligence in Dental and Oral Health",
     "url": "https://www.sciencedirect.com/special-issue/298204/artificial-intelligence-in-dental-and-oral-health",
-    "dueDate": 1735603200000,
+    "dueDate": 1751241600000,
     "journal": "Dentistry Review",
     "abbreviation": "sd",
     "slug": "sd-artificial-intelligence-in-dental-and-oral-health",
@@ -19515,7 +19529,7 @@ export const papers = [
   {
     "title": "Recent Advances in Electrochemical Sensors and Biosensors",
     "url": "https://www.sciencedirect.com/special-issue/268431/recent-advances-in-electrochemical-sensors-and-biosensors",
-    "dueDate": 1727654400000,
+    "dueDate": 1743292800000,
     "journal": "International Journal of Electrochemical Science",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-electrochemical-sensors-and-biosensors",
@@ -22882,7 +22896,7 @@ export const papers = [
   {
     "title": "Innovative Pathways to Green Growth: Integrating Industry, Policy, and Community for Sustainable Development",
     "url": "https://www.sciencedirect.com/special-issue/316583/innovative-pathways-to-green-growth-integrating-industry-policy-and-community-for-sustainable-development",
-    "dueDate": 1735689600000,
+    "dueDate": 1751241600000,
     "journal": "Innovation and Green Development",
     "abbreviation": "sd",
     "slug": "sd-innovative-pathways-to-green-growth-integrating-industry-policy-and-community-for-sustainable-development",
@@ -25116,8 +25130,9 @@ export const papers = [
     "journal": "Spectrochimica Acta Part B: Atomic Spectroscopy",
     "abbreviation": "sd",
     "slug": "sd-selected-papers-from-the-european-symposium-on-analytical-spectrometry-esas-24th-28th-of-june-2024-warsaw-poland",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Energy, Wellbeing, and Environmental Sustainability in Building Communities in a Changing Climate",
@@ -31363,8 +31378,9 @@ export const papers = [
     "journal": "Telematics and Informatics Reports",
     "abbreviation": "sd",
     "slug": "sd-beyond-network-public-opinion-computational-communication-in-the-era-of-intelligent-communication",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Geothermal Energy Research and development in China",
@@ -31543,8 +31559,9 @@ export const papers = [
     "journal": "Telecommunications Policy",
     "abbreviation": "sd",
     "slug": "sd-artificial-intelligence-and-digital-media-ecosystems",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "New Energy Nexus for Emerging Technologies, Environmental and Economic Impacts, and Social Adjustment",
@@ -32739,8 +32756,9 @@ export const papers = [
     "journal": "Telematics and Informatics Reports",
     "abbreviation": "sd",
     "slug": "sd-government-communication-in-the-age-of-social-media",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735527749000
   },
   {
     "title": "Circular Economy Models for Sustainable Production and Consumption",
