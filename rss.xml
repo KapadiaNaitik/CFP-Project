@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Sat, 30 Nov 2024 03:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,69 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[10th Conference on Experimental Heat Transfer, Fluid Mechanics and Thermodynamics]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317202/10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics</link>
+            <guid>sd-10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Applied Thermal Engineering (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Nanoscale Optical Probes for Chirality Sensing]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317212/nanoscale-optical-probes-for-chirality-sensing</link>
+            <guid>sd-nanoscale-optical-probes-for-chirality-sensing</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Microchemical Journal (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Edible Soft Matter in between Fluid and Solid States]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317211/edible-soft-matter-in-between-fluid-and-solid-states</link>
+            <guid>sd-edible-soft-matter-in-between-fluid-and-solid-states</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Current Research in Food Science (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Innovations and Advancements in Shape Memory Alloy Engineering]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317203/innovations-and-advancements-in-shape-memory-alloy-engineering</link>
+            <guid>sd-innovations-and-advancements-in-shape-memory-alloy-engineering</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Materials Today Communications (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Economics of ageing: Japan in comparative perspective]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317201/economics-of-ageing-japan-in-comparative-perspective</link>
+            <guid>sd-economics-of-ageing-japan-in-comparative-perspective</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>The Journal of the Economics of Ageing (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Advances in surface coatings and thin films]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317204/advances-in-surface-coatings-and-thin-films</link>
+            <guid>sd-advances-in-surface-coatings-and-thin-films</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Results in Surfaces and Interfaces (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable Development of Energy Systems - SDEWES 2024]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317199/sustainable-development-of-energy-systems-sdewes-2024</link>
+            <guid>sd-sustainable-development-of-energy-systems-sdewes-2024</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Applied Energy (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Selected papers from the 17th International Conference on Similarity Search and Applications (SISAP 2024)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317200/selected-papers-from-the-17th-international-conference-on-similarity-search-and-applications-sisap-2024</link>
+            <guid>sd-selected-papers-from-the-17th-international-conference-on-similarity-search-and-applications-sisap-2024</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>Information Systems (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable nanomaterials: Electrochemical applications to Food, Health, Energy and Environmental remediation]]></title>
+            <link>https://www.sciencedirect.com/special-issue/274825/sustainable-nanomaterials-electrochemical-applications-to-food-health-energy-and-environmental-remediation</link>
+            <guid>sd-sustainable-nanomaterials-electrochemical-applications-to-food-health-energy-and-environmental-remediation</guid>
+            <pubDate>Sun, 01 Dec 2024 03:19:09 GMT</pubDate>
+            <author>International Journal of Electrochemical Science (SD)</author>
+        </item>
         <item>
             <title><![CDATA[Mathematical modelling and artificial intelligence with engineering applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/317191/mathematical-modelling-and-artificial-intelligence-with-engineering-applications</link>

@@ -1,5 +1,95 @@
 [
   {
+    "title": "10th Conference on Experimental Heat Transfer, Fluid Mechanics and Thermodynamics",
+    "url": "https://www.sciencedirect.com/special-issue/317202/10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics",
+    "dueDate": 1734739200000,
+    "journal": "Applied Thermal Engineering",
+    "abbreviation": "sd",
+    "slug": "sd-10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Nanoscale Optical Probes for Chirality Sensing",
+    "url": "https://www.sciencedirect.com/special-issue/317212/nanoscale-optical-probes-for-chirality-sensing",
+    "dueDate": 1764374400000,
+    "journal": "Microchemical Journal",
+    "abbreviation": "sd",
+    "slug": "sd-nanoscale-optical-probes-for-chirality-sensing",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Edible Soft Matter in between Fluid and Solid States",
+    "url": "https://www.sciencedirect.com/special-issue/317211/edible-soft-matter-in-between-fluid-and-solid-states",
+    "dueDate": 1748736000000,
+    "journal": "Current Research in Food Science",
+    "abbreviation": "sd",
+    "slug": "sd-edible-soft-matter-in-between-fluid-and-solid-states",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Innovations and Advancements in Shape Memory Alloy Engineering",
+    "url": "https://www.sciencedirect.com/special-issue/317203/innovations-and-advancements-in-shape-memory-alloy-engineering",
+    "dueDate": 1764547200000,
+    "journal": "Materials Today Communications",
+    "abbreviation": "sd",
+    "slug": "sd-innovations-and-advancements-in-shape-memory-alloy-engineering",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Economics of ageing: Japan in comparative perspective",
+    "url": "https://www.sciencedirect.com/special-issue/317201/economics-of-ageing-japan-in-comparative-perspective",
+    "dueDate": 1747267200000,
+    "journal": "The Journal of the Economics of Ageing",
+    "abbreviation": "sd",
+    "slug": "sd-economics-of-ageing-japan-in-comparative-perspective",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Advances in surface coatings and thin films",
+    "url": "https://www.sciencedirect.com/special-issue/317204/advances-in-surface-coatings-and-thin-films",
+    "dueDate": 1767139200000,
+    "journal": "Results in Surfaces and Interfaces",
+    "abbreviation": "sd",
+    "slug": "sd-advances-in-surface-coatings-and-thin-films",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Sustainable Development of Energy Systems - SDEWES 2024",
+    "url": "https://www.sciencedirect.com/special-issue/317199/sustainable-development-of-energy-systems-sdewes-2024",
+    "dueDate": 1738281600000,
+    "journal": "Applied Energy",
+    "abbreviation": "sd",
+    "slug": "sd-sustainable-development-of-energy-systems-sdewes-2024",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Selected papers from the 17th International Conference on Similarity Search and Applications (SISAP 2024)",
+    "url": "https://www.sciencedirect.com/special-issue/317200/selected-papers-from-the-17th-international-conference-on-similarity-search-and-applications-sisap-2024",
+    "dueDate": 1739577600000,
+    "journal": "Information Systems",
+    "abbreviation": "sd",
+    "slug": "sd-selected-papers-from-the-17th-international-conference-on-similarity-search-and-applications-sisap-2024",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
+    "title": "Sustainable nanomaterials: Electrochemical applications to Food, Health, Energy and Environmental remediation",
+    "url": "https://www.sciencedirect.com/special-issue/274825/sustainable-nanomaterials-electrochemical-applications-to-food-health-energy-and-environmental-remediation",
+    "dueDate": 1756512000000,
+    "journal": "International Journal of Electrochemical Science",
+    "abbreviation": "sd",
+    "slug": "sd-sustainable-nanomaterials-electrochemical-applications-to-food-health-energy-and-environmental-remediation",
+    "active": true,
+    "pubDate": 1733023149000
+  },
+  {
     "title": "Mathematical modelling and artificial intelligence with engineering applications",
     "url": "https://www.sciencedirect.com/special-issue/317191/mathematical-modelling-and-artificial-intelligence-with-engineering-applications",
     "dueDate": 1745971200000,
@@ -496,8 +586,9 @@
     "journal": "Journal of Urban Management",
     "abbreviation": "sd",
     "slug": "sd-reclaiming-the-dark-sky-challenges-and-opportunities",
-    "active": true,
-    "pubDate": 1732330881000
+    "active": false,
+    "pubDate": 1732330881000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Circular Bioeconomy: Recovery of Valuable Products and Green Deal Biotechnology (1)",
@@ -577,8 +668,9 @@
     "journal": "Energy and Buildings",
     "abbreviation": "sd",
     "slug": "sd-rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces",
-    "active": true,
-    "pubDate": 1732330881000
+    "active": false,
+    "pubDate": 1732330881000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health (1)",
@@ -828,8 +920,9 @@
     "journal": "LWT",
     "abbreviation": "sd",
     "slug": "sd-nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain",
-    "active": true,
-    "pubDate": 1732158136000
+    "active": false,
+    "pubDate": 1732158136000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Diet-mediated effects on the gut-brain axis in health and disease",
@@ -1480,8 +1573,9 @@
     "journal": "Sustainable Energy Technologies and Assessments",
     "abbreviation": "sd",
     "slug": "sd-beyond-conventional-use-of-nuclear-for-new-energy-needs-and-net-zero-emission",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Resource-Efficient and Sustainable Future Indoor Agriculture",
@@ -1590,8 +1684,9 @@
     "journal": "Journal of International Money and Finance",
     "abbreviation": "sd",
     "slug": "sd-climate-change-climate-risk-and-the-international-corporate-debt-market",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Intracellular signaling pathways in invertebrates and their role in immunity",
@@ -2030,8 +2125,9 @@
     "journal": "Bioorganic & Medicinal Chemistry Letters",
     "abbreviation": "sd",
     "slug": "sd-emerging-targets-and-drug-discovery-for-antiviral",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Advancements in Human-Robot Collaboration and its Applications in Human-Centric Smart Manufacturing",
@@ -2162,8 +2258,9 @@
     "journal": "Journal of Pharmaceutical and Biomedical Analysis",
     "abbreviation": "sd",
     "slug": "sd-review-papers-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Multiomics in modern bioanalytics",
@@ -2782,8 +2879,9 @@
     "journal": "Physics of Life Reviews",
     "abbreviation": "sd",
     "slug": "sd-20th-anniversary-si-for-physics-of-life-reviews",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "ICTAM 2024",
@@ -3333,8 +3431,9 @@
     "journal": "Earth Critical Zone",
     "abbreviation": "sd",
     "slug": "sd-agricultural-transformation-and-planetary-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Immunotherapy for cancer after liver transplantation",
@@ -3804,8 +3903,9 @@
     "journal": "Journal of Loss Prevention in the Process Industries",
     "abbreviation": "sd",
     "slug": "sd-15th-international-symposium-on-hazards-prevention-and-mitigation-of-industrial-explosions",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Recent Advances in High Temperature Polymer Electrolyte Membrane Fuel Cells",
@@ -4154,8 +4254,9 @@
     "journal": "Frontiers of Architectural Research",
     "abbreviation": "sd",
     "slug": "sd-ai-approaches-to-architectural-design",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "EuroMicro: 50 years of an amazing microprocessors and microsystems evolution",
@@ -4949,8 +5050,9 @@
     "journal": "Autonomic Neuroscience",
     "abbreviation": "sd",
     "slug": "sd-exercise-and-the-autonomic-nervous-system-new-insights-and-future-directions",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The World Understandings for Thumb Hypoplasia",
@@ -4959,8 +5061,9 @@
     "journal": "Journal of Hand and Microsurgery",
     "abbreviation": "sd",
     "slug": "sd-the-world-understandings-for-thumb-hypoplasia",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Climate Economics",
@@ -5719,8 +5822,9 @@
     "journal": "Sensing and Bio-Sensing Research",
     "abbreviation": "sd",
     "slug": "sd-international-conference-on-bio-sensing-technology-2024-sensing-and-bio-sensing-research",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Electric Mobility in Developing Countries: Feasibility, Challenges and Sustainability",
@@ -5735,7 +5839,7 @@
   {
     "title": "21st International Cyclodextrin Symposium",
     "url": "https://www.sciencedirect.com/special-issue/305548/21st-international-cyclodextrin-symposium",
-    "dueDate": 1734220800000,
+    "dueDate": 1738281600000,
     "journal": "Carbohydrate Polymers",
     "abbreviation": "sd",
     "slug": "sd-21st-international-cyclodextrin-symposium",
@@ -6390,8 +6494,9 @@
     "journal": "Graphical Models",
     "abbreviation": "sd",
     "slug": "sd-special-issue-of-chinagraph-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Inclusion and Equity in Multigrade Classrooms",
@@ -6410,8 +6515,9 @@
     "journal": "Photoacoustics",
     "abbreviation": "sd",
     "slug": "sd-deep-learning-algorithms-for-quantitative-optoacoustic-tomography",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Advancements in Wearable Biosensors and Computational Intelligence for Biomedical Applications",
@@ -7162,8 +7268,9 @@
     "journal": "Composites Communications",
     "abbreviation": "sd",
     "slug": "sd-composite-interface",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Physical Aging of Glassy Hybrid Materials (Glass Physical Aging)",
@@ -7733,8 +7840,9 @@
     "journal": "Neuroscience",
     "abbreviation": "sd",
     "slug": "sd-celebrating-the-30th-anniversary-of-the-uruguayan-society-for-neuroscience-emergent-topics-from-south-america-to-global-neuroscience",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging trends to connect Biotechnology and Environmental Sustainability",
@@ -7823,8 +7931,9 @@
     "journal": "Regional Science Policy & Practice",
     "abbreviation": "sd",
     "slug": "sd-cost-benefit-analysis-for-regional-sustainable-development-projects",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Biotechnology and Innovation in Dentistry - Exploring A New Frontier",
@@ -7853,8 +7962,9 @@
     "journal": "Deep Brain Stimulation",
     "abbreviation": "sd",
     "slug": "sd-closed-loop-and-adaptive-deep-brain-stimulation-from-theory-to-clinical-practice",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Digital Twins for Virtual-real Integration in Industrial Internet of Things",
@@ -8324,8 +8434,9 @@
     "journal": "Solid-State Electronics",
     "abbreviation": "sd",
     "slug": "sd-special-issues-for-the-30th-korean-conference-on-semiconductors-2024-kcs-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Learning Assisted Intelligent Optimization and Scheduling: Theory, Algorithms and Applications",
@@ -8424,8 +8535,9 @@
     "journal": "Computers & Graphics",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-graphics-and-interaction-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "New Horizons at the Intersections of Machine Learning, Dynamical Systems, and Algorithmic Information Theory",
@@ -8464,8 +8576,9 @@
     "journal": "Applied Catalysis B: Environment and Energy",
     "abbreviation": "sd",
     "slug": "sd-special-issue-for-13ngcs-catalysis-for-sustainable-c1-chemistry",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Recent Advances in Photovoltaic Science and Technologies: A Special Issue of Papers Presented at the 4th International Conference on Photovoltaic Science and Technologies",
@@ -8474,8 +8587,9 @@
     "journal": "Renewable Energy",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-photovoltaic-science-and-technologies-a-special-issue-of-papers-presented-at-the-4th-international-conference-on-photovoltaic-science-and-technologies",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Submarine Fluid Venting: Shaping Seafloor Morphology and Biology",
@@ -8554,8 +8668,9 @@
     "journal": "Nuclear and Particle Physics Proceedings",
     "abbreviation": "sd",
     "slug": "sd-27th-high-energy-physics-international-in-quantum-chromodynamics-qcd24",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Special issue focused on substance use disorders and pain",
@@ -8724,8 +8839,9 @@
     "journal": "Journal of Pharmaceutical and Biomedical Analysis Open",
     "abbreviation": "sd",
     "slug": "sd-molecularly-imprinted-polymers-for-pharmaceutical-and-biomedical-analysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "VSI: Cancer, Inflammation and Metabolism",
@@ -8964,8 +9080,9 @@
     "journal": "She Ji: The Journal of Design, Economics, and Innovation",
     "abbreviation": "sd",
     "slug": "sd-future-making",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The Use of Psychedelics in Cognitive Behavioral Therapy and Practice",
@@ -9014,8 +9131,9 @@
     "journal": "Cities",
     "abbreviation": "sd",
     "slug": "sd-enriching-urban-residents-low-carbon-lifestyle-choices-through-interdisciplinary-approaches",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Special issue for the 9th International Conference on Metal-Organic Frameworks and Open Framework Compounds (MOF2024)",
@@ -9114,8 +9232,9 @@
     "journal": "Online Social Networks and Media",
     "abbreviation": "sd",
     "slug": "sd-ai-in-online-social-networks-opportunities-and-challenges",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Hydrogen Energy in Chemical, Energy and Environmental Engineering (HECEEE-2023)",
@@ -9124,8 +9243,9 @@
     "journal": "International Journal of Hydrogen Energy",
     "abbreviation": "sd",
     "slug": "sd-hydrogen-energy-in-chemical-energy-and-environmental-engineering-heceee-2023",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Low dimensional carbon materials: from theory to device integration",
@@ -9454,8 +9574,9 @@
     "journal": "Decision Analytics Journal",
     "abbreviation": "sd",
     "slug": "sd-fuzzy-financial-models-and-applications-emerging-trends",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Iterative Algorithms for Solving Unconstrained Optimization Problems and System Nonlinear Equations with Applications",
@@ -9644,8 +9765,9 @@
     "journal": "Studies in History and Philosophy of Science",
     "abbreviation": "sd",
     "slug": "sd-are-social-sciences-special-the-past-and-present-of-exceptionalism",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "New trends and opportunities in Green Chemistry (Special issue in memory of Prof. Pietro Tundo)",
@@ -10205,8 +10327,9 @@
     "journal": "Journal of Clinical Orthopaedics and Trauma",
     "abbreviation": "sd",
     "slug": "sd-complications-in-arthroscopic-surgery-challenges-and-solutions",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Intelligent Situation Awareness",
@@ -10635,8 +10758,9 @@
     "journal": "International Journal of Electrochemical Science",
     "abbreviation": "sd",
     "slug": "sd-conversion-of-molecules-into-valuable-products",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Small Island States, Climate Change and Health: We must act",
@@ -10735,8 +10859,9 @@
     "journal": "Carbon Trends",
     "abbreviation": "sd",
     "slug": "sd-special-issue-for-nanoscience-summer-school-at-yachay-tech-2024-nssy-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Organometallics for Oxidation Catalysis",
@@ -10875,8 +11000,9 @@
     "journal": "Current Research in Behavioral Sciences",
     "abbreviation": "sd",
     "slug": "sd-measuring-behavior-conference-contributions-to-the-2024-meeting-in-aberdeen-uk",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Artificial Intelligence in Dental and Oral Health",
@@ -11235,8 +11361,9 @@
     "journal": "Renewable Energy",
     "abbreviation": "sd",
     "slug": "sd-research-and-development-in-power-engineering",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Optimization of Energy Generation and Storage for Carbon Neutrality",
@@ -11415,8 +11542,9 @@
     "journal": "Digital Chemical Engineering",
     "abbreviation": "sd",
     "slug": "sd-emerging-stars-in-digital-chemical-engineering-ii",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging Techniques for Studying Molecular Structure of Pollutant Degradation in the Environment with Energy Recovery via Biological and Chemical Processes",
@@ -11595,8 +11723,9 @@
     "journal": "Computers & Graphics",
     "abbreviation": "sd",
     "slug": "sd-of-chinagraph-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Upzoning",
@@ -11785,8 +11914,9 @@
     "journal": "Journal of Organometallic Chemistry",
     "abbreviation": "sd",
     "slug": "sd-thomas-strassner-60th-birthday-anniversary",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Disease Microenvironment Modulation Nanomedicines",
@@ -12105,8 +12235,9 @@
     "journal": "Exploratory Research in Clinical and Social Pharmacy",
     "abbreviation": "sd",
     "slug": "sd-the-use-of-automated-dispensing-cabinets-in-hospitals",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The origin and evolution of arthropod appendages",
@@ -12121,7 +12252,7 @@
   {
     "title": "Evidence-based (neuro)psychological interventions for ageing and dementia",
     "url": "https://www.sciencedirect.com/special-issue/295043/evidence-based-neuro-psychological-interventions-for-ageing-and-dementia",
-    "dueDate": 1732924800000,
+    "dueDate": 1738368000000,
     "journal": "International Journal of Clinical and Health Psychology",
     "abbreviation": "sd",
     "slug": "sd-evidence-based-neuropsychological-interventions-for-ageing-and-dementia",
@@ -12245,8 +12376,9 @@
     "journal": "Journal of Organometallic Chemistry",
     "abbreviation": "sd",
     "slug": "sd-the-chemistry-low-and-high-valent-organometallic-compounds-of-the-main-group-elements",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging roles of nanoparticles in sustainable agriculture",
@@ -12577,8 +12709,9 @@
     "journal": "Journal of CO2 Utilization",
     "abbreviation": "sd",
     "slug": "sd-innovative-utilization-of-co2-in-civil-engineering",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Agile and Lean: How far did we come and what’s next?",
@@ -12647,8 +12780,9 @@
     "journal": "Lithos",
     "abbreviation": "sd",
     "slug": "sd-crust-formation-from-subduction-to-collision",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Quality of Life in Developmental Disabilities",
@@ -12747,8 +12881,9 @@
     "journal": "Developmental Biology",
     "abbreviation": "sd",
     "slug": "sd-avian-model-systems-current-advances-in-research-technology-and-biomedical-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Application of sulfur compounds and isotopes to paleoenvironment and petroleum geology studies",
@@ -12887,8 +13022,9 @@
     "journal": "Materials Today Quantum",
     "abbreviation": "sd",
     "slug": "sd-spintronics-and-topological-magnetism",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Topological Quantum Materials",
@@ -12907,8 +13043,9 @@
     "journal": "Chemosphere",
     "abbreviation": "sd",
     "slug": "sd-the-11th-international-symposium-on-flame-retardants",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Graphene and related materials Photonics",
@@ -13007,8 +13144,9 @@
     "journal": "Bioelectrochemistry",
     "abbreviation": "sd",
     "slug": "sd-selected-papers-from-the-11th-international-workshop-on-surface-modification-for-chemical-and-biochemical-sensing-smcbs-2023",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Role of Network Pharmacology integrated with experimental approaches in Natural Products Drug Discovery",
@@ -13559,8 +13697,9 @@
     "journal": "Journal of Organometallic Chemistry",
     "abbreviation": "sd",
     "slug": "sd-organometallic-chemistry-of-co2",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Young Scientists in the Americas",
@@ -13600,8 +13739,9 @@
     "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
     "abbreviation": "sd",
     "slug": "sd-surface-enhanced-raman-spectroscopy-for-bio-analytical-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "A Special Issue for The 2nd International Congress on Separation and Purification Technology (ISPT 2024)",
@@ -13861,8 +14001,9 @@
     "journal": "Journal of Systems Architecture",
     "abbreviation": "sd",
     "slug": "sd-dependable-software-engineering-theories-tools-and-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Transforming the child welfare system",
@@ -14053,8 +14194,9 @@
     "journal": "DeCarbon",
     "abbreviation": "sd",
     "slug": "sd-towards-decarbonization-through-electrochemical-energy-conversion-and-storage",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Functional models of airway disease and repair",
@@ -14124,8 +14266,9 @@
     "journal": "Applied Computing and Geosciences",
     "abbreviation": "sd",
     "slug": "sd-machine-learning-approaches-in-climate-and-geohazards-predictions-and-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Applications of Artificial Intelligence in Sport, Physical Activity, and Health",
@@ -14144,8 +14287,9 @@
     "journal": "Journal of Vocational Behavior",
     "abbreviation": "sd",
     "slug": "sd-careers-of-the-vulnerable-workforce",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Fe-S Proteins",
@@ -14254,8 +14398,9 @@
     "journal": "Measurement: Energy",
     "abbreviation": "sd",
     "slug": "sd-advanced-measurements-of-batteries-fuel-cells-and-other-energy-storage-devices",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Oncologic Imaging",
@@ -14274,8 +14419,9 @@
     "journal": "Technovation",
     "abbreviation": "sd",
     "slug": "sd-smart-and-resilient-circular-supply-chain-innovations",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "New Horizons in Systematic Evidence Maps Practice for Environmental Health",
@@ -14304,8 +14450,9 @@
     "journal": "Advances in Applied Energy",
     "abbreviation": "sd",
     "slug": "sd-fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Cleaning up the oceans, blue economy, and blue circularity",
@@ -14334,8 +14481,9 @@
     "journal": "Applied Energy",
     "abbreviation": "sd",
     "slug": "sd-fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging Young Scientists of Latin America",
@@ -14474,8 +14622,9 @@
     "journal": "Computers & Graphics",
     "abbreviation": "sd",
     "slug": "sd-3dor2024-17th-eg-symposium-on-3d-object-retrieval",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The 2nd International Indian Ocean Expedition (IIOE-2): Motivating New Exploration in a Poorly Understood Basin (Volume 7)",
@@ -14880,7 +15029,7 @@
   {
     "title": "Reliability and Failure Physics: selected papers from the ESREF 2024 Conference",
     "url": "https://www.sciencedirect.com/special-issue/287679/reliability-and-failure-physics-selected-papers-from-the-esref-2024-conference",
-    "dueDate": 1731628800000,
+    "dueDate": 1733443200000,
     "journal": "Microelectronics Reliability",
     "abbreviation": "sd",
     "slug": "sd-reliability-and-failure-physics-selected-papers-from-the-esref-2024-conference",
@@ -14944,8 +15093,9 @@
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-emerging-practices-in-therapeutic-targeting-of-neurodegenerative-diseases-by-modulating-protein-kinases",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Mass spectrometry approaches to understand the pathophysiology of brain disorders",
@@ -15024,8 +15174,9 @@
     "journal": "Soil & Environmental Health",
     "abbreviation": "sd",
     "slug": "sd-impact-of-contaminants-of-emerging-concern-on-soil-and-environmental-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health",
@@ -15104,8 +15255,9 @@
     "journal": "Pharmacological Research - Modern Chinese Medicine",
     "abbreviation": "sd",
     "slug": "sd-the-cancer-prevention-effects-and-mechanism-of-traditional-chinese-medicines",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging Optical Fibres and Fibre Sensors: New Developments and Key Applications",
@@ -15200,7 +15352,7 @@
   {
     "title": "Membrane Transporters in Plants: Actions for Resilience And Adaptation under Challenging Environments",
     "url": "https://www.sciencedirect.com/special-issue/286598/membrane-transporters-in-plants-actions-for-resilience-and-adaptation-under-challenging-environments",
-    "dueDate": 1733184000000,
+    "dueDate": 1735603200000,
     "journal": "Plant Physiology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-membrane-transporters-in-plants-actions-for-resilience-and-adaptation-under-challenging-environments",
@@ -15244,8 +15396,9 @@
     "journal": "Entertainment Computing",
     "abbreviation": "sd",
     "slug": "sd-best-papers-of-the-sbgames-2023",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Recent insights into plant-pathogen interactions through omics approaches",
@@ -15254,8 +15407,9 @@
     "journal": "Physiological and Molecular Plant Pathology",
     "abbreviation": "sd",
     "slug": "sd-recent-insights-into-plant-pathogen-interactions-through-omics-approaches",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Membrane Separation Processes. A Tribute to Professor Maria Norberta de Pinho",
@@ -15274,8 +15428,9 @@
     "journal": "Behavioural Brain Research",
     "abbreviation": "sd",
     "slug": "sd-towards-new-therapeutic-approaches-for-anxiety-disorders",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Emerging technologies and innovations in disaster risk reduction",
@@ -15324,8 +15479,9 @@
     "journal": "Catalysis Today",
     "abbreviation": "sd",
     "slug": "sd-catalytic-processes-for-the-depolymerization-and-upcycling-of-polyethylene-terephthalate-pet",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The Monaco Explorations Indian Ocean Expedition 2022: advancing scientific interactions in the Mascarene region",
@@ -15454,8 +15610,9 @@
     "journal": "Internet of Things",
     "abbreviation": "sd",
     "slug": "sd-advances-in-security-countermeasures-for-medical-sensor-networks",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Nonstructural Elements in Buildings and Seismic Resilience",
@@ -15587,8 +15744,9 @@
     "journal": "Journal of South American Earth Sciences",
     "abbreviation": "sd",
     "slug": "sd-v-latin-american-symposium-on-ichnology-slic-2023",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Linking carbon and energy fluxes in soil - from resources to consumers and back again",
@@ -15607,8 +15765,9 @@
     "journal": "Journal of Plant Physiology",
     "abbreviation": "sd",
     "slug": "sd-plant-small-molecule-and-ion-signaling",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Structural and computational biology in virus-host interactions - Journal of Structural Biology: X",
@@ -16117,8 +16276,9 @@
     "journal": "Solid State Nuclear Magnetic Resonance",
     "abbreviation": "sd",
     "slug": "sd-solid-state-nmr-and-dnp-of-heterogeneous-biomaterials-and-cellular-systems",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "High-Energy-Density Batteries",
@@ -16127,8 +16287,9 @@
     "journal": "Energy Reports",
     "abbreviation": "sd",
     "slug": "sd-high-energy-density-batteries",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Global advancements in adapting, evaluating, and implementing Nurse-Family Partnership",
@@ -16187,8 +16348,9 @@
     "journal": "Neurobiology of Sleep and Circadian Rhythms",
     "abbreviation": "sd",
     "slug": "sd-festschrift-in-honor-of-terry-page",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Extracellular vesicles-based theranostics in human diseases; insights on the biology and translational applications",
@@ -16217,8 +16379,9 @@
     "journal": "Engineering Structures",
     "abbreviation": "sd",
     "slug": "sd-modularized-and-prefabricated-building-structures",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Special Issue in Memory of James Kincaid: Celebrating His Career and Contributions to Inorganic Biochemistry",
@@ -16267,8 +16430,9 @@
     "journal": "Fluid Phase Equilibria",
     "abbreviation": "sd",
     "slug": "sd-thermodynamics-transport-and-reactivity-of-nanoconfined-fluids",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Early Career Researchers on Educational Research",
@@ -16287,8 +16451,9 @@
     "journal": "Applied Thermal Engineering",
     "abbreviation": "sd",
     "slug": "sd-novel-solutions-in-components-and-configurations-of-heat-pumps-with-natural-working-fluids",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Environmental Frontiers for Water-Energy Nexus",
@@ -16327,8 +16492,9 @@
     "journal": "Mechanics of Materials",
     "abbreviation": "sd",
     "slug": "sd-stams-2023-semta-mecamat-colloquium-mechanics-across-the-scales",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Magnetocardiography Rediscovered: New Perspectives on a Novel Modality",
@@ -17058,8 +17224,9 @@
     "journal": "Journal of Visual Communication and Image Representation",
     "abbreviation": "sd",
     "slug": "sd-long-term-action-understanding",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Protein intrinsic disorder: Unstructural side of structural biology",
@@ -17299,8 +17466,9 @@
     "journal": "Computer Networks",
     "abbreviation": "sd",
     "slug": "sd-non-terrestrial-networks-for-ubiquitous-connectivity",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Highlighting tailored mental ill- health prevention and support programs for people exposed to traumatic events in the course of their work including veterans and first responders",
@@ -17349,8 +17517,9 @@
     "journal": "International Journal of Electrochemical Science",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-and-application-of-corrosion-inhibitors-in-new-and-emerging-industrial-technologies",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Sustainable minerals for the energy transition",
@@ -17489,8 +17658,9 @@
     "journal": "Research in Social Stratification and Mobility",
     "abbreviation": "sd",
     "slug": "sd-the-growing-gender-divide-in-educational-credentials-trends-causes-and-consequences",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Research Methods for Young Language Learners: New Perspectives",
@@ -17499,8 +17669,9 @@
     "journal": "Research Methods in Applied Linguistics",
     "abbreviation": "sd",
     "slug": "sd-research-methods-for-young-language-learners-new-perspectives",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Epitranscriptomic modifications in metabolic disease",
@@ -17509,8 +17680,9 @@
     "journal": "Molecular and Cellular Endocrinology",
     "abbreviation": "sd",
     "slug": "sd-epitranscriptomic-modifications-in-metabolic-disease",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Peptide Mimetics, Conjugates and Peptide Nucleic Acids -The 10th Bulgarian Peptide Symposium",
@@ -17696,8 +17868,9 @@
     "journal": "System",
     "abbreviation": "sd",
     "slug": "sd-language-teacher-motivation-in-an-unequal-world",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Multi-Vector Local Energy Communities",
@@ -17716,8 +17889,9 @@
     "journal": "JVS-Vascular Science",
     "abbreviation": "sd",
     "slug": "sd-novel-biomarkers-in-vascular-surgery",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Sustainable strategic materials recovery, what’s next?",
@@ -17842,7 +18016,7 @@
   {
     "title": "New molecular insights into biology and treatment of glioblastoma",
     "url": "https://www.sciencedirect.com/special-issue/277596/new-molecular-insights-into-biology-and-treatment-of-glioblastoma",
-    "dueDate": 1730332800000,
+    "dueDate": 1740700800000,
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-new-molecular-insights-into-biology-and-treatment-of-glioblastoma",
@@ -18027,8 +18201,9 @@
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-advances-in-risk-and-protective-factors-for-brain-health",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Environmental and ecological changes in deltaic and coastal regions and their implications for carbon sequestration",
@@ -18117,8 +18292,9 @@
     "journal": "Biomaterials Advances",
     "abbreviation": "sd",
     "slug": "sd-advanced-polymeric-materials-for-medical-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Jammed, amorphous, and glass-like states and behavior in physics and biology (VSI: Glassy biophys)",
@@ -18247,8 +18423,9 @@
     "journal": "Addiction Neuroscience",
     "abbreviation": "sd",
     "slug": "sd-dopamine-circuitry-and-heterogeneity-in-addiction",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "The invisible complement: using sedimentary ancient DNA (sedaDNA) to improve marine ecosystem reconstructions",
@@ -18297,8 +18474,9 @@
     "journal": "Control Engineering Practice",
     "abbreviation": "sd",
     "slug": "sd-new-trends-in-spacecraft-and-launch-vehicles-control",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Special issue of IJMS dedicated to Prof. Richard A. J. O’Hair celebrating his achievements in the field of gas-phase ion chemistry and on the occasion of his 60th birthday",
@@ -18527,8 +18705,9 @@
     "journal": "Computer Communications",
     "abbreviation": "sd",
     "slug": "sd-mswim-2023-special-issue",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Sustainable Approaches to Time Weighted Sampling",
@@ -18627,8 +18806,9 @@
     "journal": "Eco-Environment & Health",
     "abbreviation": "sd",
     "slug": "sd-microplastics-from-pollution-to-solution",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Decarbonized energy conversion systems with advanced thermodynamic cycles",
@@ -18837,8 +19017,9 @@
     "journal": "Epilepsy & Behavior Reports",
     "abbreviation": "sd",
     "slug": "sd-the-epileptic-heart-cardiac-comorbidities-and-complications-of-epilepsy",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Organometallic Chemistry of Metal Clusters and Nanoparticles",
@@ -18917,8 +19098,9 @@
     "journal": "Journal of the Academy of Nutrition and Dietetics",
     "abbreviation": "sd",
     "slug": "sd-topics-in-chrononutrition",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Recent Advances in Food Analysis",
@@ -18927,8 +19109,9 @@
     "journal": "Journal of Chromatography Open",
     "abbreviation": "sd",
     "slug": "sd-recent-advances-in-food-analysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Biology of sex differences in frailty and aging",
@@ -19158,8 +19341,9 @@
     "journal": "Addiction Neuroscience",
     "abbreviation": "sd",
     "slug": "sd-stress-less-greater-addiction",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Metal complexes with N-heterocyclic carbene ligands: synthesis and applications",
@@ -19228,8 +19412,9 @@
     "journal": "Chemical Engineering Journal Advances",
     "abbreviation": "sd",
     "slug": "sd-advances-on-analysis-and-removal-of-waterwastewater-pollutants-thoughts-from-the-11th-world-congress-of-chemical-engineering-and-the-2nd-iberoamerican-congress-of-chemical-engineering",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Ecosystem services towards planning healthy and resilient landscapes",
@@ -19373,8 +19558,9 @@
     "journal": "Industrial Marketing Management",
     "abbreviation": "sd",
     "slug": "sd-futures-of-interaction-relationships-and-networks-evolving-interdependencies",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Post-life evaluation, recycling, and reuse for sustainable lithium-ion batteries",
@@ -19643,8 +19829,9 @@
     "journal": "Current Research in Behavioral Sciences",
     "abbreviation": "sd",
     "slug": "sd-views-on-aging-across-the-lifespan",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Call for Special Issue Proposals - Computers in Human Behavior",
@@ -19703,8 +19890,9 @@
     "journal": "Journal of Aerosol Science",
     "abbreviation": "sd",
     "slug": "sd-aerosol-sampling-preserving-physical-chemical-and-biological-properties",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Next-generation materials for sustainably protecting and restoring water ecosystems",
@@ -19723,8 +19911,9 @@
     "journal": "Coordination Chemistry Reviews",
     "abbreviation": "sd",
     "slug": "sd-rising-stars-of-coordination-chemistry-for-catalysis-and-energy",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Eduruption: The disruptive potential of education for transforming consumerism",
@@ -19763,8 +19952,9 @@
     "journal": "Soil Biology and Biochemistry",
     "abbreviation": "sd",
     "slug": "sd-soil-virus-ecology-how-viral-infection-shapes-microbial-communities-and-biogeochemical-processes",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Metamaterials for Innovative Optical Applications, Renewable Energies and Eco-Technologies (H-Metamaterials)",
@@ -19954,8 +20144,9 @@
     "journal": "Journal of Radiation Research and Applied Sciences",
     "abbreviation": "sd",
     "slug": "sd-medical-linear-accelerators-recent-developments-vsi-medical-linac",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Negative Results in Oceanography",
@@ -20034,8 +20225,9 @@
     "journal": "Research Methods in Applied Linguistics",
     "abbreviation": "sd",
     "slug": "sd-decision-making-in-selecting-compiling-analysing-and-reporting-on-the-use-of-corpora-in-applied-linguistics-research",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Negative Results in Oceanography",
@@ -20074,8 +20266,9 @@
     "journal": "Journal of Luminescence",
     "abbreviation": "sd",
     "slug": "sd-luminescent-metal-halides",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Comparison of Radiation Effects on Products Sterilized Using Gamma-ray, E-beam, or X-ray Sources (VSI: Sterilization by EB/X-ray/Gamma)",
@@ -20294,8 +20487,9 @@
     "journal": "Brain Research Bulletin",
     "abbreviation": "sd",
     "slug": "sd-mechanisms-of-behavior-and-cognition",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Origins of variability in acquiring and using linguistic knowledge",
@@ -20304,8 +20498,9 @@
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-origins-of-variability-in-acquiring-and-using-linguistic-knowledge",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Mechanobiology in Cardiovascular Homeostasis and Remodeling",
@@ -20374,8 +20569,9 @@
     "journal": "Physica D: Nonlinear Phenomena",
     "abbreviation": "sd",
     "slug": "sd-nonlinear-phenomena-in-fluid-dynamics-vsi-nonlinear-fluid-dynamics",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Application of ferrofluid and magnetic field to improve the performance of heat transfer systems",
@@ -20696,8 +20892,9 @@
     "journal": "Electrochimica Acta",
     "abbreviation": "sd",
     "slug": "sd-electrochemical-small-molecules-activation",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "First Insights in Retailing: A new section in the Journal of Retailing",
@@ -21146,8 +21343,9 @@
     "journal": "Perspectives in Plant Ecology, Evolution and Systematics",
     "abbreviation": "sd",
     "slug": "sd-plants-benefits-to-people-in-urban-areas-assessing-the-importance-of-plant-diversity-in-cities",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Constraining nitrogen loss processes from agricultural intensification: implications for mitigation and management strategies",
@@ -21206,8 +21404,9 @@
     "journal": "Geochemistry",
     "abbreviation": "sd",
     "slug": "sd-special-issue-on-critical-minerals-current-perspectives",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Digital Finance for Technological Progress",
@@ -26162,8 +26361,9 @@
     "journal": "International Journal of Infectious Diseases",
     "abbreviation": "sd",
     "slug": "sd-elimination-of-neglected-tropical-diseases",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Global diversity and disparity in mental health and brain health",
@@ -27355,8 +27555,9 @@
     "journal": "Physical Communication",
     "abbreviation": "sd",
     "slug": "sd-emerging-innovations-in-sequential-active-and-reinforcement-learning-for-physical-layer-communications",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Explainability, Robustness and Fairness for User-centric Intelligent Systems",
@@ -27385,8 +27586,9 @@
     "journal": "Journal of Fluorine Chemistry",
     "abbreviation": "sd",
     "slug": "sd-23rd-international-symposium-on-fluorine-chemistry",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Climate changes and human occupation in the coastal (sub)Arctic North Atlantic",
@@ -27939,8 +28141,9 @@
     "journal": "Pacific-Basin Finance Journal",
     "abbreviation": "sd",
     "slug": "sd-2024-asian-finance-association-annual-conference-special-issue",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Advances in Analytical Methods for Imaging Mass Spectrometry",
@@ -28737,8 +28940,9 @@
     "journal": "Medical Image Analysis",
     "abbreviation": "sd",
     "slug": "sd-virtual-imaging-trials-in-medicine",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "the Occasion of the 45th Birthday of Elsevier Signal Processing",
@@ -29684,8 +29888,9 @@
     "journal": "Polymer Degradation and Stability",
     "abbreviation": "sd",
     "slug": "sd-modification-degradation-stabilisation-of-polymers",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Data Exploration & Visual Analytics in AI Era",
@@ -31435,7 +31640,7 @@
   {
     "title": "Economics of Computing Services",
     "url": "https://www.sciencedirect.com/special-issue/177196/special-issue-on-the-economics-of-computing-services",
-    "dueDate": 1732924800000,
+    "dueDate": 1737331200000,
     "journal": "Future Generation Computer Systems",
     "abbreviation": "sd",
     "slug": "sd-economics-of-computing-services",
@@ -32215,8 +32420,9 @@
     "journal": "International Journal of Impact Engineering",
     "abbreviation": "sd",
     "slug": "sd-select-papers-from-the-2024-hypervelocity-impact-symposium-hvis",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Advances in Processing and Bioprocessing of Alternative Proteins: Structural Transformations and Implications",
@@ -32612,8 +32818,9 @@
     "journal": "Journal of Information Security and Applications",
     "abbreviation": "sd",
     "slug": "sd-large-language-models-in-cybersecurity-attacks-defenses-and-applications",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "EuroSense 2024",
@@ -33183,8 +33390,9 @@
     "journal": "Solar Energy Advances",
     "abbreviation": "sd",
     "slug": "sd-net-zero-carbon-built-environment-solar-energy-advances",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735615149000
   },
   {
     "title": "Generative Media Processing, Computing, and Evaluation",
