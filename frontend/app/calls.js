@@ -1202,9 +1202,8 @@ export const papers = [
     "journal": "Ocean Modelling",
     "abbreviation": "sd",
     "slug": "sd-ocean-wave-modelling-and-climate-impacts-advances-and-future-directions-ocean-modelling",
-    "active": false,
-    "pubDate": 1731985383000,
-    "gracePeriod": 1735182273000
+    "active": true,
+    "pubDate": 1731985383000
   },
   {
     "title": "Special issue devoted to HPLC 2024 - Journal of Chromatography A",
@@ -3090,8 +3089,9 @@ export const papers = [
     "journal": "Applied Thermal Engineering",
     "abbreviation": "sd",
     "slug": "sd-9th-european-thermal-sciences-conference-eurotherm-2024",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Photoacoustic Digital and Physical Phantoms and their Quantitative Imaging (Photoacoustic Phantoms)",
@@ -3599,7 +3599,7 @@ export const papers = [
   {
     "title": "Recent Developments and Challenges in Real Options",
     "url": "https://www.sciencedirect.com/special-issue/311058/recent-developments-and-challenges-in-real-options",
-    "dueDate": 1730246400000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Economics and Business",
     "abbreviation": "sd",
     "slug": "sd-recent-developments-and-challenges-in-real-options",
@@ -6344,8 +6344,9 @@ export const papers = [
     "journal": "Energy Economics",
     "abbreviation": "sd",
     "slug": "sd-accelerating-the-net-zero-economy-transformation-new-challenges-for-sustainability",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Interactions of chemical components during  biomass pyrolysis",
@@ -9725,8 +9726,9 @@ export const papers = [
     "journal": "Surface and Coatings Technology",
     "abbreviation": "sd",
     "slug": "sd-special-issue-of-selected-papers-from-e-mrs-2024-spring-meeting-symposium-i-nano-engineered-coatings-and-thin-films-from-fundamentals-to-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "New Challenges in Isotopic Geochemistry and Water-Rock Interaction",
@@ -10870,8 +10872,9 @@ export const papers = [
     "journal": "Journal of Organometallic Chemistry",
     "abbreviation": "sd",
     "slug": "sd-organometallics-for-oxidation-catalysis",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Silanes and Catalytic Hydrosilylation and its Applications",
@@ -11211,8 +11214,9 @@ export const papers = [
     "journal": "Applied Thermal Engineering",
     "abbreviation": "sd",
     "slug": "sd-microscale-enabled-advanced-flow-and-heat-transfer-technologies-for-high-performance-and-low-power-consumption",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "The Financial Stability of Airlines: Turbulence or Tranquillity Ahead?",
@@ -11321,8 +11325,9 @@ export const papers = [
     "journal": "Journal of Process Control",
     "abbreviation": "sd",
     "slug": "sd-fault-tolerant-control-of-nonlinear-processes",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "50th Anniversary special issue",
@@ -13760,8 +13765,9 @@ export const papers = [
     "journal": "Brain Research",
     "abbreviation": "sd",
     "slug": "sd-30-years-visual-world-paradigm-the-state-of-the-art",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Emerging trends in Biological sciences in India",
@@ -15003,8 +15009,9 @@ export const papers = [
     "journal": "Engineering Applications of Artificial Intelligence",
     "abbreviation": "sd",
     "slug": "sd-advanced-methods-and-applications-of-explainable-artificial-intelligence-xai",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Epidemiology of Cancer in the Oldest Old",
@@ -15826,8 +15833,9 @@ export const papers = [
     "journal": "Ocean Engineering",
     "abbreviation": "sd",
     "slug": "sd-advanced-model-and-full-scale-measurement-technologies-for-maritime-industry",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Sarcopenic obesity and myosteatosis in older adults",
@@ -17164,8 +17172,9 @@ export const papers = [
     "journal": "Methods in Psychology",
     "abbreviation": "sd",
     "slug": "sd-mixed-methods-research-applying-transformative-frameworks",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Advancing and Integrating Value-Based Selling Research in Industrial Marketing: New Theories, Methods, and Perspectives",
@@ -19120,8 +19129,9 @@ export const papers = [
     "journal": "Experimental Gerontology",
     "abbreviation": "sd",
     "slug": "sd-biology-of-sex-differences-in-frailty-and-aging",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Multi-Energy Systems for Smart Cities",
@@ -19301,8 +19311,9 @@ export const papers = [
     "journal": "Chemical Physics Impact",
     "abbreviation": "sd",
     "slug": "sd-solid-oxide-fuel-cells-sofcs-from-design-to-applications",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Telemedicine Experiences in Family Medicine / General Practice / Primary care",
@@ -19759,8 +19770,9 @@ export const papers = [
     "journal": "Journal of the Mechanics and Physics of Solids",
     "abbreviation": "sd",
     "slug": "sd-the-nicolas-triantafyllidis-70th-anniversary-volume",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Advanced Thermoelectrics: What’s Next",
@@ -20519,8 +20531,9 @@ export const papers = [
     "journal": "Economic Modelling",
     "abbreviation": "sd",
     "slug": "sd-international-knowledge-flows-in-the-digitalized-world",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Reliability Assessment Under Partial Information",
@@ -21415,8 +21428,9 @@ export const papers = [
     "journal": "Global Finance Journal",
     "abbreviation": "sd",
     "slug": "sd-digital-finance-for-technological-progress",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Temporal and spatial flood patterns under the effect of global changes. How multi-archive evidences help to overcome our lack of imagination and identify the unknown unknowns",
@@ -26311,8 +26325,9 @@ export const papers = [
     "journal": "Labour Economics",
     "abbreviation": "sd",
     "slug": "sd-eale-conference-2024",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Physics of Estuaries and Coastal Seas",
@@ -26351,8 +26366,9 @@ export const papers = [
     "journal": "Journal of Monetary Economics",
     "abbreviation": "sd",
     "slug": "sd-the-consequences-of-ai-use-on-society-and-policy",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Elimination of Neglected Tropical Diseases",
@@ -26912,8 +26928,9 @@ export const papers = [
     "journal": "Computer Law & Security Review",
     "abbreviation": "sd",
     "slug": "sd-law-andversus-technology-trends-for-the-new-decade",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Euromicro Software Engineering and Advanced Applications: 50th Anniversary",
@@ -27395,8 +27412,9 @@ export const papers = [
     "journal": "Peptides",
     "abbreviation": "sd",
     "slug": "sd-xiv-vasoactive-peptides-meeting-special-issue",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Regenerative Medicine for Osteoarthritis and Joint Tissues",
@@ -30702,8 +30720,9 @@ export const papers = [
     "journal": "Biological Conservation",
     "abbreviation": "sd",
     "slug": "sd-old-forests-as-natural-climate-solutions-and-their-conservation",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Pharmacological Modulation of Steroidogenesis and of Steroid Effects in the Nervous System",
@@ -33461,8 +33480,9 @@ export const papers = [
     "journal": "Journal of Subatomic Particles and Cosmology",
     "abbreviation": "sd",
     "slug": "sd-hadron-interactions-with-strangeness-and-charm",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735701052000
   },
   {
     "title": "Innovative battery systems under harsh working conditions",
