@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 02 Dec 2024 03:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 03:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,6 +13,104 @@
             <url>http://localhost:3000/</url>
             <link>http://localhost:3000/</link>
         </image>
+        <item>
+            <title><![CDATA[Occupants’ Comfort in Automated Vehicles]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317242/occupants-comfort-in-automated-vehicles</link>
+            <guid>sd-occupants-comfort-in-automated-vehicles</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Applied Ergonomics (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Trends in Cultural Heritage Analysis]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317246/trends-in-cultural-heritage-analysis</link>
+            <guid>sd-trends-in-cultural-heritage-analysis</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Talanta (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Bioactive molecules - design, synthesis and biological studies]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317234/bioactive-molecules-design-synthesis-and-biological-studies</link>
+            <guid>sd-bioactive-molecules-design-synthesis-and-biological-studies</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Current Research in Biotechnology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Older Men’s Health]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317248/older-men-s-health</link>
+            <guid>sd-older-mens-health</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Maturitas (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[The Post-LLM Roadmap: Theory and Application]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317241/the-post-llm-roadmap-theory-and-application</link>
+            <guid>sd-the-post-llm-roadmap-theory-and-application</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Engineering (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Atomic scale characterization by 3D atom probe tomography]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317221/atomic-scale-characterization-by-3d-atom-probe-tomography</link>
+            <guid>sd-atomic-scale-characterization-by-3d-atom-probe-tomography</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Journal of Materials Science &amp; Technology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the potential of remote sensing technologies for advancing Soil Security]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317233/exploring-the-potential-of-remote-sensing-technologies-for-advancing-soil-security</link>
+            <guid>sd-exploring-the-potential-of-remote-sensing-technologies-for-advancing-soil-security</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Soil Security (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Stem cell-based in vitro models as tools in 3R research and for early drug tests]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317223/stem-cell-based-in-vitro-models-as-tools-in-3r-research-and-for-early-drug-tests</link>
+            <guid>sd-stem-cell-based-in-vitro-models-as-tools-in-3r-research-and-for-early-drug-tests</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Stem Cell Research (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Nanotoxicology in Metabolic Organs]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317224/nanotoxicology-in-metabolic-organs</link>
+            <guid>sd-nanotoxicology-in-metabolic-organs</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>NanoImpact (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Chromatin modifications, metabolism and diseases]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317222/chromatin-modifications-metabolism-and-diseases</link>
+            <guid>sd-chromatin-modifications-metabolism-and-diseases</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Dendrochronology and knowledge of the human past]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317235/dendrochronology-and-knowledge-of-the-human-past</link>
+            <guid>sd-dendrochronology-and-knowledge-of-the-human-past</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Dendrochronologia (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI Surgery in the New Era]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317225/ai-surgery-in-the-new-era</link>
+            <guid>sd-ai-surgery-in-the-new-era</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Clinical Surgical Oncology (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[Laser methods for controlling surface properties, structure, and interfacial chemistry: experimental protocols and demonstrations]]></title>
+            <link>https://www.sciencedirect.com/special-issue/317226/laser-methods-for-controlling-surface-properties-structure-and-interfacial-chemistry-experimental-protocols-and-demonstrations</link>
+            <guid>sd-laser-methods-for-controlling-surface-properties-structure-and-interfacial-chemistry-experimental-protocols-and-demonstrations</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Results in Surfaces and Interfaces (SD)</author>
+        </item>
+        <item>
+            <title><![CDATA[60 years of Surface Science: Achievements and Perspectives (SUSC60thAnniversary)]]></title>
+            <link>https://www.sciencedirect.com/special-issue/285343/60-years-of-surface-science-achievements-and-perspectives-susc60thanniversary</link>
+            <guid>sd-60-years-of-surface-science-achievements-and-perspectives-susc60thanniversary</guid>
+            <pubDate>Tue, 03 Dec 2024 03:11:17 GMT</pubDate>
+            <author>Surface Science (SD)</author>
+        </item>
         <item>
             <title><![CDATA[10th Conference on Experimental Heat Transfer, Fluid Mechanics and Thermodynamics]]></title>
             <link>https://www.sciencedirect.com/special-issue/317202/10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics</link>

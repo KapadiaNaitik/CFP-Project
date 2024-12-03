@@ -1,5 +1,145 @@
 export const papers = [
   {
+    "title": "Occupants’ Comfort in Automated Vehicles",
+    "url": "https://www.sciencedirect.com/special-issue/317242/occupants-comfort-in-automated-vehicles",
+    "dueDate": 1753920000000,
+    "journal": "Applied Ergonomics",
+    "abbreviation": "sd",
+    "slug": "sd-occupants-comfort-in-automated-vehicles",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Trends in Cultural Heritage Analysis",
+    "url": "https://www.sciencedirect.com/special-issue/317246/trends-in-cultural-heritage-analysis",
+    "dueDate": 1756771200000,
+    "journal": "Talanta",
+    "abbreviation": "sd",
+    "slug": "sd-trends-in-cultural-heritage-analysis",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Bioactive molecules - design, synthesis and biological studies",
+    "url": "https://www.sciencedirect.com/special-issue/317234/bioactive-molecules-design-synthesis-and-biological-studies",
+    "dueDate": 1759190400000,
+    "journal": "Current Research in Biotechnology",
+    "abbreviation": "sd",
+    "slug": "sd-bioactive-molecules-design-synthesis-and-biological-studies",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Older Men’s Health",
+    "url": "https://www.sciencedirect.com/special-issue/317248/older-men-s-health",
+    "dueDate": 1751241600000,
+    "journal": "Maturitas",
+    "abbreviation": "sd",
+    "slug": "sd-older-mens-health",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "The Post-LLM Roadmap: Theory and Application",
+    "url": "https://www.sciencedirect.com/special-issue/317241/the-post-llm-roadmap-theory-and-application",
+    "dueDate": 1743379200000,
+    "journal": "Engineering",
+    "abbreviation": "sd",
+    "slug": "sd-the-post-llm-roadmap-theory-and-application",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Atomic scale characterization by 3D atom probe tomography",
+    "url": "https://www.sciencedirect.com/special-issue/317221/atomic-scale-characterization-by-3d-atom-probe-tomography",
+    "dueDate": 1751241600000,
+    "journal": "Journal of Materials Science & Technology",
+    "abbreviation": "sd",
+    "slug": "sd-atomic-scale-characterization-by-3d-atom-probe-tomography",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Exploring the potential of remote sensing technologies for advancing Soil Security",
+    "url": "https://www.sciencedirect.com/special-issue/317233/exploring-the-potential-of-remote-sensing-technologies-for-advancing-soil-security",
+    "dueDate": 1764633600000,
+    "journal": "Soil Security",
+    "abbreviation": "sd",
+    "slug": "sd-exploring-the-potential-of-remote-sensing-technologies-for-advancing-soil-security",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Stem cell-based in vitro models as tools in 3R research and for early drug tests",
+    "url": "https://www.sciencedirect.com/special-issue/317223/stem-cell-based-in-vitro-models-as-tools-in-3r-research-and-for-early-drug-tests",
+    "dueDate": 1749945600000,
+    "journal": "Stem Cell Research",
+    "abbreviation": "sd",
+    "slug": "sd-stem-cell-based-in-vitro-models-as-tools-in-3r-research-and-for-early-drug-tests",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Nanotoxicology in Metabolic Organs",
+    "url": "https://www.sciencedirect.com/special-issue/317224/nanotoxicology-in-metabolic-organs",
+    "dueDate": 1751328000000,
+    "journal": "NanoImpact",
+    "abbreviation": "sd",
+    "slug": "sd-nanotoxicology-in-metabolic-organs",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Chromatin modifications, metabolism and diseases",
+    "url": "https://www.sciencedirect.com/special-issue/317222/chromatin-modifications-metabolism-and-diseases",
+    "dueDate": 1764460800000,
+    "journal": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms",
+    "abbreviation": "sd",
+    "slug": "sd-chromatin-modifications-metabolism-and-diseases",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Dendrochronology and knowledge of the human past",
+    "url": "https://www.sciencedirect.com/special-issue/317235/dendrochronology-and-knowledge-of-the-human-past",
+    "dueDate": 1757894400000,
+    "journal": "Dendrochronologia",
+    "abbreviation": "sd",
+    "slug": "sd-dendrochronology-and-knowledge-of-the-human-past",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "AI Surgery in the New Era",
+    "url": "https://www.sciencedirect.com/special-issue/317225/ai-surgery-in-the-new-era",
+    "dueDate": 1743379200000,
+    "journal": "Clinical Surgical Oncology",
+    "abbreviation": "sd",
+    "slug": "sd-ai-surgery-in-the-new-era",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "Laser methods for controlling surface properties, structure, and interfacial chemistry: experimental protocols and demonstrations",
+    "url": "https://www.sciencedirect.com/special-issue/317226/laser-methods-for-controlling-surface-properties-structure-and-interfacial-chemistry-experimental-protocols-and-demonstrations",
+    "dueDate": 1765756800000,
+    "journal": "Results in Surfaces and Interfaces",
+    "abbreviation": "sd",
+    "slug": "sd-laser-methods-for-controlling-surface-properties-structure-and-interfacial-chemistry-experimental-protocols-and-demonstrations",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
+    "title": "60 years of Surface Science: Achievements and Perspectives (SUSC60thAnniversary)",
+    "url": "https://www.sciencedirect.com/special-issue/285343/60-years-of-surface-science-achievements-and-perspectives-susc60thanniversary",
+    "dueDate": 1738281600000,
+    "journal": "Surface Science",
+    "abbreviation": "sd",
+    "slug": "sd-60-years-of-surface-science-achievements-and-perspectives-susc60thanniversary",
+    "active": true,
+    "pubDate": 1733195477000
+  },
+  {
     "title": "10th Conference on Experimental Heat Transfer, Fluid Mechanics and Thermodynamics",
     "url": "https://www.sciencedirect.com/special-issue/317202/10th-conference-on-experimental-heat-transfer-fluid-mechanics-and-thermodynamics",
     "dueDate": 1734739200000,
@@ -292,7 +432,7 @@ export const papers = [
   {
     "title": "Systemic Functional Semiotics: From theory to practice",
     "url": "https://www.sciencedirect.com/special-issue/317099/systemic-functional-semiotics-from-theory-to-practice",
-    "dueDate": 1759276800000,
+    "dueDate": 1771459200000,
     "journal": "Journal of English for Academic Purposes",
     "abbreviation": "sd",
     "slug": "sd-systemic-functional-semiotics-from-theory-to-practice",
@@ -1984,8 +2124,9 @@ export const papers = [
     "journal": "JHLT Open",
     "abbreviation": "sd",
     "slug": "sd-whats-new-in-cardiothoracic-surgery-within-each-of-the-four-interdisciplinary-networks-of-the-international-society-for-heart-and-lung-transplantation",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "SLIMP 2024",
@@ -2544,7 +2685,7 @@ export const papers = [
   {
     "title": "Advances in characterization of crystallographic textures and microstructures",
     "url": "https://www.sciencedirect.com/special-issue/312174/advances-in-characterization-of-crystallographic-textures-and-microstructures",
-    "dueDate": 1732924800000,
+    "dueDate": 1735603200000,
     "journal": "Materials Characterization",
     "abbreviation": "sd",
     "slug": "sd-advances-in-characterization-of-crystallographic-textures-and-microstructures",
@@ -4285,8 +4426,9 @@ export const papers = [
     "journal": "Personalized Medicine in Psychiatry",
     "abbreviation": "sd",
     "slug": "sd-augmented-reality-interfaces-for-surgical-training-using-computer-vision",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "Integrity, Health and Governance Issues in Esports and Virtual Sports",
@@ -8927,7 +9069,7 @@ export const papers = [
   {
     "title": "E-values and Multiple Testing",
     "url": "https://www.sciencedirect.com/special-issue/301799/e-values-and-multiple-testing",
-    "dueDate": 1733011200000,
+    "dueDate": 1738368000000,
     "journal": "Statistics & Probability Letters",
     "abbreviation": "sd",
     "slug": "sd-e-values-and-multiple-testing",
@@ -8957,7 +9099,7 @@ export const papers = [
   {
     "title": "Central and South America, Climate Change and Health: We must act",
     "url": "https://www.sciencedirect.com/special-issue/301798/central-and-south-america-climate-change-and-health-we-must-act",
-    "dueDate": 1738281600000,
+    "dueDate": 1739491200000,
     "journal": "The Journal of Climate Change and Health",
     "abbreviation": "sd",
     "slug": "sd-central-and-south-america-climate-change-and-health-we-must-act",
@@ -10164,7 +10306,7 @@ export const papers = [
   {
     "title": "ASIA, Climate Change and Health: We must act",
     "url": "https://www.sciencedirect.com/special-issue/299075/asia-climate-change-and-health-we-must-act",
-    "dueDate": 1738281600000,
+    "dueDate": 1739491200000,
     "journal": "The Journal of Climate Change and Health",
     "abbreviation": "sd",
     "slug": "sd-asia-climate-change-and-health-we-must-act",
@@ -10767,7 +10909,7 @@ export const papers = [
   {
     "title": "Small Island States, Climate Change and Health: We must act",
     "url": "https://www.sciencedirect.com/special-issue/298233/small-island-states-climate-change-and-health-we-must-act",
-    "dueDate": 1738281600000,
+    "dueDate": 1739491200000,
     "journal": "The Journal of Climate Change and Health",
     "abbreviation": "sd",
     "slug": "sd-small-island-states-climate-change-and-health-we-must-act",
@@ -10777,7 +10919,7 @@ export const papers = [
   {
     "title": "Africa, Climate Change and Health: We must act now",
     "url": "https://www.sciencedirect.com/special-issue/298208/africa-climate-change-and-health-we-must-act-now",
-    "dueDate": 1738281600000,
+    "dueDate": 1739491200000,
     "journal": "The Journal of Climate Change and Health",
     "abbreviation": "sd",
     "slug": "sd-africa-climate-change-and-health-we-must-act-now",
@@ -10827,7 +10969,7 @@ export const papers = [
   {
     "title": "Women in Separation Science",
     "url": "https://www.sciencedirect.com/special-issue/298235/women-in-separation-science",
-    "dueDate": 1732924800000,
+    "dueDate": 1738281600000,
     "journal": "Journal of Chromatography A",
     "abbreviation": "sd",
     "slug": "sd-women-in-separation-science",
@@ -11070,7 +11212,7 @@ export const papers = [
   {
     "title": "Queer futures - expanding the knowledge base of futures studies",
     "url": "https://www.sciencedirect.com/special-issue/297905/queer-futures-expanding-the-knowledge-base-of-futures-studies",
-    "dueDate": 1732924800000,
+    "dueDate": 1735603200000,
     "journal": "Futures",
     "abbreviation": "sd",
     "slug": "sd-queer-futures-expanding-the-knowledge-base-of-futures-studies",
@@ -12973,7 +13115,7 @@ export const papers = [
   {
     "title": "Future Energy Carriers - Measurements in Green H2, NH3 and e-Fuel Production, Storage, Conversion and Applications",
     "url": "https://www.sciencedirect.com/special-issue/293794/future-energy-carriers-measurements-in-green-h2-nh3-and-e-fuel-production-storage-conversion-and-applications",
-    "dueDate": 1732924800000,
+    "dueDate": 1740700800000,
     "journal": "Measurement: Energy",
     "abbreviation": "sd",
     "slug": "sd-future-energy-carriers-measurements-in-green-h2-nh3-and-e-fuel-production-storage-conversion-and-applications",
@@ -14999,8 +15141,9 @@ export const papers = [
     "journal": "Applied Ergonomics",
     "abbreviation": "sd",
     "slug": "sd-ehf-for-a-sustainable-resilient-human-centered-future",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "Advanced methods and applications of Explainable Artificial Intelligence (XAI)",
@@ -15690,8 +15833,9 @@ export const papers = [
     "journal": "Social Science & Medicine",
     "abbreviation": "sd",
     "slug": "sd-beyond-the-hidden-curriculum-justice-power-and-innovation-in-health-professions-training",
-    "active": true,
-    "pubDate": 1731796652000
+    "active": false,
+    "pubDate": 1731796652000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "Power in business relationships: a systems thinking perspective",
@@ -16828,7 +16972,7 @@ export const papers = [
   {
     "title": "Improving Supply Chain Resilience through the application of Metaverse and ChatGPT technologies",
     "url": "https://www.sciencedirect.com/special-issue/282508/improving-supply-chain-resilience-through-the-application-of-metaverse-and-chatgpt-technologies",
-    "dueDate": null,
+    "dueDate": 1753920000000,
     "journal": "Socio-Economic Planning Sciences",
     "abbreviation": "sd",
     "slug": "sd-improving-supply-chain-resilience-through-the-application-of-metaverse-and-chatgpt-technologies",
@@ -25029,7 +25173,7 @@ export const papers = [
   {
     "title": "New Trends in Catalysis for Clean Energy and Sustainable Chemistry",
     "url": "https://www.sciencedirect.com/special-issue/315814/new-trends-in-catalysis-for-clean-energy-and-sustainable-chemistry",
-    "dueDate": 1734220800000,
+    "dueDate": 1736467200000,
     "journal": "Catalysis Today",
     "abbreviation": "sd",
     "slug": "sd-new-trends-in-catalysis-for-clean-energy-and-sustainable-chemistry",
@@ -27282,8 +27426,9 @@ export const papers = [
     "journal": "Journal of Asian Earth Sciences",
     "abbreviation": "sd",
     "slug": "sd-fluid-geochemistry-in-tectonically-active-zones-origins-evolutions-and-relation-to-regional-tectonics",
-    "active": true,
-    "pubDate": 1731796573000
+    "active": false,
+    "pubDate": 1731796573000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "Twin transitions: concurrently rethinking decarbonization and social equity in transport and logistics systems",
@@ -31192,7 +31337,7 @@ export const papers = [
   {
     "title": "Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.",
     "url": "https://www.sciencedirect.com/special-issue/313589/designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
-    "dueDate": 1740700800000,
+    "dueDate": 1743379200000,
     "journal": "Information and Organization",
     "abbreviation": "sd",
     "slug": "sd-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr",
@@ -31568,7 +31713,7 @@ export const papers = [
   {
     "title": "Understanding Oceanographic and Ecosystem Characteristics of the Persian Gulf: A Poorly Understood system",
     "url": "https://www.sciencedirect.com/special-issue/313497/understanding-oceanographic-and-ecosystem-characteristics-of-the-persian-gulf-a-poorly-understood-system",
-    "dueDate": 1734825600000,
+    "dueDate": 1742428800000,
     "journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
     "abbreviation": "sd",
     "slug": "sd-understanding-oceanographic-and-ecosystem-characteristics-of-the-persian-gulf-a-poorly-understood-system",
@@ -33204,8 +33349,9 @@ export const papers = [
     "journal": "Nuclear Engineering and Design",
     "abbreviation": "sd",
     "slug": "sd-26th-international-conference-on-structural-mechanics-in-reactor-technology",
-    "active": true,
-    "pubDate": 1727211111000
+    "active": false,
+    "pubDate": 1727211111000,
+    "gracePeriod": 1735787477000
   },
   {
     "title": "Aquaculture-aided enhancement for conservation and sustainable fisheries",
