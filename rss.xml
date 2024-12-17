@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 16 Dec 2024 03:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 03:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -19481,67 +19481,11 @@
             <author>Journal of the Association for Information Systems (JAIS)</author>
         </item>
         <item>
-            <title><![CDATA[Addressing Refugees and Migration Issues through Critical Information Systems]]></title>
-            <link>https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ%20SI%20CPF%20Addressing%20Refugees%20and%20Migration%20Issues%20through%20Critical%20Information%20Systems-1720533590387.pdf</link>
-            <guid>isj-addressing-refugees-and-migration-issues-through-critical-information-systems</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Information Systems Journal (ISJ)</author>
-        </item>
-        <item>
             <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
             <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
             <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Information Systems Research (ISR)</author>
-        </item>
-        <item>
-            <title><![CDATA[Regulation in the Age of Digitalization]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Regulation%20and%20IT%202020-03-08%20DS.pdf</link>
-            <guid>jit-regulation-in-the-age-of-digitalization</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Emerging Technologies and IS Sourcing]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/jin/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20rev07%20updated.pdf</link>
-            <guid>jit-emerging-technologies-and-is-sourcing</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Ethical Issues and Unintended Consequences of Digitalization and Platformization]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf</link>
-            <guid>jit-ethical-issues-and-unintended-consequences-of-digitalization-and-platformization</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Products of Theorizing: Towards Native Theories of Emerging IT]]></title>
-            <link>https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Theory%20IS%20Research%202022-1644917375120.pdf</link>
-            <guid>jit-products-of-theorizing-towards-native-theories-of-emerging-it</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Transformation as Geo-Political, Organizational and Technological Nexus]]></title>
-            <link>https://journals.sagepub.com/pb-assets/2022%20JIT%20CFP%20SI%20Digital%20Transformation-1646127723173.pdf</link>
-            <guid>jit-digital-transformation-as-geo-political-organizational-and-technological-nexus</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Next-Generation Information Systems Research Methods]]></title>
-            <link>https://journals.sagepub.com/pb-assets/2023%20JIT%20CFP%20SI%20Next%20Generation%20Research%20Methods-1666786463717.pdf</link>
-            <guid>jit-next-generation-information-systems-research-methods</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
-        </item>
-        <item>
-            <title><![CDATA[Decentralised Information Systems: New Thinking and New Paradigms]]></title>
-            <link>https://journals.sagepub.com/pb-assets/cmscontent/JIN/Decentralised%20Information%20Systems%20New%20Thinking%20and%20New%20Paradigms%20PDF-1703224919.pdf</link>
-            <guid>jit-decentralised-information-systems-new-thinking-and-new-paradigms</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Technology (JIT)</author>
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
@@ -19563,41 +19507,6 @@
             <guid>jmis-generative-ai-and-its-transformative-value-for-digital-platforms</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Management Information Systems (JMIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special Issue]]></title>
-            <link>https://misq.umn.edu/call_for_papers/institutional-press</link>
-            <guid>misq-special-issue</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>MIS Quarterly (MISQ)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Theory and Practice of Informational Transitions]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Transitions%20071823-1694541470927.pdf</link>
-            <guid>jasist-the-theory-and-practice-of-informational-transitions</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Re-orientating Search Engine Research in Information Science]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/JASIST-CFP-Re-orientating%20Search%20Engine%20Nov%2030-1668445566030.pdf</link>
-            <guid>jasist-re-orientating-search-engine-research-in-information-science</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Healthier Information Ecosystems]]></title>
-            <link>https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23301643/CFP%20JASIST%20Special%20Issue%20Healthier%20Information%20Ecosystems%20050323-1683134692717.pdf</link>
-            <guid>jasist-healthier-information-ecosystems</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of the Association for Information Science and Technology (JASIST)</author>
-        </item>
-        <item>
-            <title><![CDATA[Topological Materials for thermoelectric energy conversion]]></title>
-            <link>https://www.sciencedirect.com/journal/solid-state-sciences/about/call-for-papers#topological-materials-for-thermoelectric-energy-conversion</link>
-            <guid>sd-topological-materials-for-thermoelectric-energy-conversion</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Solid State Sciences (SD)</author>
         </item>
         <item>
             <title><![CDATA[Clinical Health Psychology Research in Cancer: Psychological Adaptation, Biobehavioral Processes, and Health Outcomes]]></title>
@@ -19684,25 +19593,11 @@
             <author>Pacific-Basin Finance Journal (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advances in Analytical Methods for Imaging Mass Spectrometry]]></title>
-            <link>https://www.sciencedirect.com/journal/analytica-chimica-acta/about/call-for-papers#advances-in-analytical-methods-for-imaging-mass-spectrometry</link>
-            <guid>sd-advances-in-analytical-methods-for-imaging-mass-spectrometry</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Analytica Chimica Acta (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Focus Issue dedicated to the EU-funded project SINFONIA and the EURADOS collaboration]]></title>
             <link>https://www.sciencedirect.com/special-issue/314867/focus-issue-dedicated-to-the-eu-funded-project-sinfonia-and-the-eurados-collaboration</link>
             <guid>sd-focus-issue-dedicated-to-the-eu-funded-project-sinfonia-and-the-eurados-collaboration</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Physica Medica (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent Advances in Thermoplastic and Thermosetting Polymer Composites for Additive Manufacturing and Modern Industry Applications]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-science-and-engineering-progress/about/call-for-papers#recent-advances-in-thermoplastic-and-thermosetting-polymer-composites-for-additive-manufacturing-and-modern-industry-applications</link>
-            <guid>sd-recent-advances-in-thermoplastic-and-thermosetting-polymer-composites-for-additive-manufacturing-and-modern-industry-applications</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Science and Engineering Progress (SD)</author>
         </item>
         <item>
             <title><![CDATA[Invertebrate Parasites Involved in Biological Invasions]]></title>
@@ -19831,13 +19726,6 @@
             <author>The Journal of Economic Asymmetries (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Implementing Science-Based Solutions and Strategies for Coastal Resilience]]></title>
-            <link>https://www.sciencedirect.com/journal/ocean-and-coastal-management/about/call-for-papers#implementing-science-based-solutions-and-strategies-for-coastal-resilience</link>
-            <guid>sd-implementing-science-based-solutions-and-strategies-for-coastal-resilience</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Ocean &amp; Coastal Management (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Artificial intelligence and Emerging Infections (AIEI)]]></title>
             <link>https://www.sciencedirect.com/special-issue/314706/artificial-intelligence-and-emerging-infections-aiei</link>
             <guid>sd-artificial-intelligence-and-emerging-infections-aiei</guid>
@@ -19892,13 +19780,6 @@
             <guid>sd-plant-diseases-associated-with-insect-transmitted-phloem-limited-bacteria</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Physiological and Molecular Plant Pathology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Implementing Science-Based Solutions and Strategies for Coastal Resilience]]></title>
-            <link>https://www.sciencedirect.com/journal/estuarine-coastal-and-shelf-science/about/call-for-papers#implementing-science-based-solutions-and-strategies-for-coastal-resilience</link>
-            <guid>sd-implementing-science-based-solutions-and-strategies-for-coastal-resilience</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Estuarine, Coastal and Shelf Science (SD)</author>
         </item>
         <item>
             <title><![CDATA[Illuminating the invisible - the role of data in child protection research and practice: Special issue by the ISPCAN Working Group on Child Maltreatment Data Collection]]></title>
@@ -19985,13 +19866,6 @@
             <author>European Journal of Pharmaceutics and Biopharmaceutics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[The governance of children’s care systems in low and middle-income countries]]></title>
-            <link>https://www.sciencedirect.com/journal/children-and-youth-services-review/about/call-for-papers#the-governance-of-children-s-care-systems-in-low-and-middle-income-countries</link>
-            <guid>sd-the-governance-of-childrens-care-systems-in-low-and-middle-income-countries</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Children and Youth Services Review (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[15th International Meeting on Cholinesterases and 9th Conference of Paraoxonases]]></title>
             <link>https://www.sciencedirect.com/special-issue/314620/15th-international-meeting-on-cholinesterases-and-9th-conference-of-paraoxonases</link>
             <guid>sd-15th-international-meeting-on-cholinesterases-and-9th-conference-of-paraoxonases</guid>
@@ -20004,20 +19878,6 @@
             <guid>sd-animal-and-plant-models-for-virus-pathogenesis-studies</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Virological Methods (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Drivers of the transition in EMT: From mechanisms to biomarkers (1)]]></title>
-            <link>https://www.sciencedirect.com/journal/advances-in-cancer-biology-metastasis/about/call-for-papers#drivers-of-the-transition-in-emt-from-mechanisms-to-biomarkers-1</link>
-            <guid>sd-drivers-of-the-transition-in-emt-from-mechanisms-to-biomarkers-1</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Advances in Cancer Biology - Metastasis (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Reactive: oxygen species in skeletal muscle injury, fatigue, regeneration, and ageing: In memory of John Faulkner]]></title>
-            <link>https://www.sciencedirect.com/journal/free-radical-biology-and-medicine/about/call-for-papers#reactive:-oxygen-species-in-skeletal-muscle-injury-fatigue-regeneration-and-ageing-in-memory-of-john-faulkner</link>
-            <guid>sd-reactive:-oxygen-species-in-skeletal-muscle-injury-fatigue-regeneration-and-ageing-in-memory-of-john-faulkner</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Free Radical Biology and Medicine (SD)</author>
         </item>
         <item>
             <title><![CDATA[Redox medicine: Translation of Basic science to the Clinic]]></title>
@@ -20123,13 +19983,6 @@
             <guid>sd-emerging-societal-relevance-of-african-higher-education</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>International Journal of Educational Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Transcriptomic and Epigenomic Profiling in Osteoarthritis]]></title>
-            <link>https://www.sciencedirect.com/journal/osteoarthritis-and-cartilage/about/call-for-papers#transcriptomic-and-epigenomic-profiling-in-osteoarthritis</link>
-            <guid>sd-transcriptomic-and-epigenomic-profiling-in-osteoarthritis</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Osteoarthritis and Cartilage (SD)</author>
         </item>
         <item>
             <title><![CDATA[Low dimensional materials for bioanalytical applications]]></title>
@@ -20368,13 +20221,6 @@
             <guid>sd-sustainable-development-in-filtration-and-separation</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Separation and Purification Technology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Corporate Crime and Society: Impact, Harm and Enforcement]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-economic-criminology/about/call-for-papers#corporate-crime-and-society-impact-harm-and-enforcement</link>
-            <guid>sd-corporate-crime-and-society-impact-harm-and-enforcement</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Economic Criminology (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sustainable Finance for Asia’s Net Zero Transition]]></title>
@@ -20629,13 +20475,6 @@
             <author>Food Hydrocolloids for Health (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advanced Learning-Based Planning and Control in E-Mobility]]></title>
-            <link>https://www.sciencedirect.com/journal/control-engineering-practice/about/call-for-papers#advanced-learning-based-planning-and-control-in-e-mobility</link>
-            <guid>sd-advanced-learning-based-planning-and-control-in-e-mobility</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Control Engineering Practice (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Poisson Geometry in Mathematics and Physics]]></title>
             <link>https://www.sciencedirect.com/special-issue/314240/poisson-geometry-in-mathematics-and-physics</link>
             <guid>sd-poisson-geometry-in-mathematics-and-physics</guid>
@@ -20720,20 +20559,6 @@
             <author>BioSystems (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Understanding, Designing, and Teaching the Curriculum to Incorporate the Cultivation of Thinking Skills]]></title>
-            <link>https://www.sciencedirect.com/journal/thinking-skills-and-creativity/about/call-for-papers#understanding-designing-and-teaching-the-curriculum-to-incorporate-the-cultivation-of-thinking-skills</link>
-            <guid>sd-understanding-designing-and-teaching-the-curriculum-to-incorporate-the-cultivation-of-thinking-skills</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thinking Skills and Creativity (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Editor-in-Chief of Learning in Context]]></title>
-            <link>https://www.sciencedirect.com/journal/learning-in-context/about/call-for-papers#meet-the-editor-in-chief-of-learning-in-context</link>
-            <guid>sd-meet-the-editor-in-chief-of-learning-in-context</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Learning in Context (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[2023 the BAR Annual & Global Conferences]]></title>
             <link>https://www.sciencedirect.com/special-issue/314198/2023-the-bar-annual-global-conferences</link>
             <guid>sd-2023-the-bar-annual-and-global-conferences</guid>
@@ -20783,25 +20608,11 @@
             <author>Biomaterials (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Opening the geographical black box of the influencer economy]]></title>
-            <link>https://www.sciencedirect.com/journal/geoforum/about/call-for-papers#opening-the-geographical-black-box-of-the-influencer-economy</link>
-            <guid>sd-opening-the-geographical-black-box-of-the-influencer-economy</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Geoforum (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Smart Medicine: The Integration of Artificial Intelligence into Healthcare]]></title>
             <link>https://www.sciencedirect.com/special-issue/314197/smart-medicine-the-integration-of-artificial-intelligence-into-healthcare</link>
             <guid>sd-smart-medicine-the-integration-of-artificial-intelligence-into-healthcare</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>AACE Clinical Case Reports (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Economics of Climate Change and Environmental Policy]]></title>
-            <link>https://www.sciencedirect.com/journal/energy-economics/about/call-for-papers#economics-of-climate-change-and-environmental-policy</link>
-            <guid>sd-economics-of-climate-change-and-environmental-policy</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Energy Economics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sulfur Mustard-Induced Clinical Complications]]></title>
@@ -20816,13 +20627,6 @@
             <guid>sd-transgenic-chickens-as-a-tool-for-protein-production-past-current-and-future</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Protein Expression and Purification (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Heterogeneity and Macroeconomics of Labor Markets]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control/about/call-for-papers#heterogeneity-and-macroeconomics-of-labor-markets</link>
-            <guid>sd-heterogeneity-and-macroeconomics-of-labor-markets</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Economic Dynamics and Control (SD)</author>
         </item>
         <item>
             <title><![CDATA[Special issue for the conference MEGA 2024: Effective Methods in Algebraic Geometry]]></title>
@@ -21112,13 +20916,6 @@
             <author>Renewable Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Special Issue for The 10th International Conference on Technological Advances of Thin Films & Surface Coatings]]></title>
-            <link>https://www.sciencedirect.com/journal/surface-and-coatings-technology/about/call-for-papers#special-issue-for-the-10th-international-conference-on-technological-advances-of-thin-films-surface-coatings</link>
-            <guid>sd-special-issue-for-the-10th-international-conference-on-technological-advances-of-thin-films-and-surface-coatings</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Surface and Coatings Technology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Coatings and Surface Engineering for Sustainable Tribological Applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/314044/coatings-and-surface-engineering-for-sustainable-tribological-applications</link>
             <guid>sd-coatings-and-surface-engineering-for-sustainable-tribological-applications</guid>
@@ -21399,13 +21196,6 @@
             <author>IIMB Management Review (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Quantitative Research in Tourism - Theoretical and Methodological Innovations]]></title>
-            <link>https://www.sciencedirect.com/journal/tourism-management/about/call-for-papers#quantitative-research-in-tourism-theoretical-and-methodological-innovations</link>
-            <guid>sd-quantitative-research-in-tourism-theoretical-and-methodological-innovations</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Tourism Management (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Big Data and Multi-omics in Advancing Cancer Research]]></title>
             <link>https://www.sciencedirect.com/special-issue/313856/big-data-and-multi-omics-in-advancing-cancer-research</link>
             <guid>sd-big-data-and-multi-omics-in-advancing-cancer-research</guid>
@@ -21539,20 +21329,6 @@
             <author>Engineering (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Cellular plasticity in cancer drug resistance: mechanisms and new strategies]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-pharmaceutical-analysis/about/call-for-papers#cellular-plasticity-in-cancer-drug-resistance-mechanisms-and-new-strategies</link>
-            <guid>sd-cellular-plasticity-in-cancer-drug-resistance-mechanisms-and-new-strategies</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Pharmaceutical Analysis (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[ICSAS 2024 - 10th International Conference on Steel and Aluminium Structures]]></title>
-            <link>https://www.sciencedirect.com/journal/thin-walled-structures/about/call-for-papers#special-issue-on-icsas-2024-10th-international-conference-on-steel-and-aluminium-structures</link>
-            <guid>sd-icsas-2024-10th-international-conference-on-steel-and-aluminium-structures</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thin-Walled Structures (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Sustaining sandy beach ecosystem functionality with quality data, integrated research, and multi-targeted communication]]></title>
             <link>https://www.sciencedirect.com/special-issue/313818/sustaining-sandy-beach-ecosystem-functionality-with-quality-data-integrated-research-and-multi-targeted-communication</link>
             <guid>sd-sustaining-sandy-beach-ecosystem-functionality-with-quality-data-integrated-research-and-multi-targeted-communication</guid>
@@ -21593,13 +21369,6 @@
             <guid>sd-security-and-privacy-in-aiot-enabled-smart-society</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Systems Architecture (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Current Topics in Flavins and Flavoproteins (Proceedings of the 21st International Symposium on Flavins and Flavoproteins)]]></title>
-            <link>https://www.sciencedirect.com/journal/archives-of-biochemistry-and-biophysics/about/call-for-papers#current-topics-in-flavins-and-flavoproteins-proceedings-of-the-21st-international-symposium-on-flavins-and-flavoproteins</link>
-            <guid>sd-current-topics-in-flavins-and-flavoproteins-proceedings-of-the-21st-international-symposium-on-flavins-and-flavoproteins</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Archives of Biochemistry and Biophysics (SD)</author>
         </item>
         <item>
             <title><![CDATA[American Society for Matrix Biology Honors Key Investigators (invited only)]]></title>
@@ -21882,13 +21651,6 @@
             <author>Journal of Asian Economics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[2025 JCAE Annual Symposium]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-contemporary-accounting-and-economics/about/call-for-papers#2025-jcae-annual-symposium</link>
-            <guid>sd-2025-jcae-annual-symposium</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Contemporary Accounting &amp; Economics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Integrated PV applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/313570/integrated-pv-applications</link>
             <guid>sd-integrated-pv-applications</guid>
@@ -21929,13 +21691,6 @@
             <guid>sd-special-issue-for-the-24th-international-conference-on-solid-state-ionics-solid-state-ionics-24-london</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Solid State Ionics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Psychology and Public Health: A Special Issue]]></title>
-            <link>https://www.sciencedirect.com/journal/public-health/about/call-for-papers#psychology-and-public-health-a-special-issue</link>
-            <guid>sd-psychology-and-public-health-a-special-issue</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Public Health (SD)</author>
         </item>
         <item>
             <title><![CDATA[Novel potential pharmacological approaches for the treatment of eating disorders and their comorbidities]]></title>
@@ -21980,13 +21735,6 @@
             <author>Ore Geology Reviews (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advanced Technologies and Sustainable Practices in the Oil and Gas Industry: Integrating Digital Innovations, Decarbonization, and Renewable Energy Solutions]]></title>
-            <link>https://www.sciencedirect.com/journal/geoenergy-science-and-engineering/about/call-for-papers#advanced-technologies-and-sustainable-practices-in-the-oil-and-gas-industry-integrating-digital-innovations-decarbonization-and-renewable-energy-solutions</link>
-            <guid>sd-advanced-technologies-and-sustainable-practices-in-the-oil-and-gas-industry-integrating-digital-innovations-decarbonization-and-renewable-energy-solutions</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Geoenergy Science and Engineering (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[New advances and challenges on palynological theory, methodology, and applications in Asia]]></title>
             <link>https://www.sciencedirect.com/special-issue/313540/new-advances-and-challenges-on-palynological-theory-methodology-and-applications-in-asia</link>
             <guid>sd-new-advances-and-challenges-on-palynological-theory-methodology-and-applications-in-asia</guid>
@@ -22013,13 +21761,6 @@
             <guid>sd-the-psychobiology-of-dyadic-and-interpersonal-processes-across-adulthood</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Biological Psychology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Acetabulum]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-clinical-orthopaedics-and-trauma/about/call-for-papers#acetabulum</link>
-            <guid>sd-acetabulum</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Clinical Orthopaedics and Trauma (SD)</author>
         </item>
         <item>
             <title><![CDATA[Myeloma bone disease]]></title>
@@ -22330,25 +22071,11 @@
             <author>International Journal of Hydrogen Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advancing Racial Equity & Inclusion in Clinical Research]]></title>
-            <link>https://www.sciencedirect.com/journal/clinical-therapeutics/about/call-for-papers#advancing-racial-equity-inclusion-in-clinical-research</link>
-            <guid>sd-advancing-racial-equity-and-inclusion-in-clinical-research</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Clinical Therapeutics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Advances in Applied and Computational Mathematics - Best papers of YAMC 2024 Special Issue]]></title>
             <link>https://www.sciencedirect.com/special-issue/313277/advances-in-applied-and-computational-mathematics-best-papers-of-yamc-2024-special-issue</link>
             <guid>sd-advances-in-applied-and-computational-mathematics-best-papers-of-yamc-2024-special-issue</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Computational and Applied Mathematics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[ITS 2024 Seoul Conference - Digital Business]]></title>
-            <link>https://www.sciencedirect.com/journal/digital-business/about/call-for-papers#its-2024-seoul-conference-digital-business</link>
-            <guid>sd-its-2024-seoul-conference-digital-business</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Digital Business (SD)</author>
         </item>
         <item>
             <title><![CDATA[Future direction of animal alternative/microphysiological systems in drug discovery and development]]></title>
@@ -22363,13 +22090,6 @@
             <guid>sd-characterisation-of-cracknotch-tip-fields-7</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>International Journal of Fatigue (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[23rd International Conference on Ion Beam Modification of Materials]]></title>
-            <link>https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-b-beam-interactions-with-materials-and-atoms/about/call-for-papers#23rd-international-conference-on-ion-beam-modification-of-materials</link>
-            <guid>sd-23rd-international-conference-on-ion-beam-modification-of-materials</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms (SD)</author>
         </item>
         <item>
             <title><![CDATA[37th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems]]></title>
@@ -22470,13 +22190,6 @@
             <author>Solid State Nuclear Magnetic Resonance (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Next-Gen Energy Efficient Building Equipment for Achieving Net-Zero Emissions by 2050]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-science-and-engineering-progress/about/call-for-papers#next-gen-energy-efficient-building-equipment-for-achieving-net-zero-emissions-by-2050</link>
-            <guid>sd-next-gen-energy-efficient-building-equipment-for-achieving-net-zero-emissions-by-2050</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Science and Engineering Progress (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Functionalized materials for a sustainable world]]></title>
             <link>https://www.sciencedirect.com/special-issue/313244/functionalized-materials-for-a-sustainable-world</link>
             <guid>sd-functionalized-materials-for-a-sustainable-world</guid>
@@ -22552,13 +22265,6 @@
             <guid>sd-new-advances-in-gas-solids-fluidized-bed-for-novel-thermal-reaction-process-and-energy-storage</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Applied Thermal Engineering (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Thermal analysis and calorimetry for the characterization of natural and bio-based materials (TAC-NBBM)]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-advances/about/call-for-papers#thermal-analysis-and-calorimetry-for-the-characterization-of-natural-and-bio-based-materials-tac-nbbm</link>
-            <guid>sd-thermal-analysis-and-calorimetry-for-the-characterization-of-natural-and-bio-based-materials-tac-nbbm</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Advances (SD)</author>
         </item>
         <item>
             <title><![CDATA[Opportunities and Challenges of New Mobility Technologies]]></title>
@@ -22729,27 +22435,6 @@
             <author>Computers &amp; Graphics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Thermal Analysis in Assessing the Stability of Energetic Materials and Chemical Industry Feedstock (TA-SEMCIF)]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-advances/about/call-for-papers#thermal-analysis-in-assessing-the-stability-of-energetic-materials-and-chemical-industry-feedstock-ta-semcif</link>
-            <guid>sd-thermal-analysis-in-assessing-the-stability-of-energetic-materials-and-chemical-industry-feedstock-ta-semcif</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Advances (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Frontiers in Thermal Analysis of New Functional Nanomaterials prepared by combinations of physical and chemical syntheses (FTA-NFNM)]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-advances/about/call-for-papers#frontiers-in-thermal-analysis-of-new-functional-nanomaterials-prepared-by-combinations-of-physical-and-chemical-syntheses-fta-nfnm</link>
-            <guid>sd-frontiers-in-thermal-analysis-of-new-functional-nanomaterials-prepared-by-combinations-of-physical-and-chemical-syntheses-fta-nfnm</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Advances (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Phase Change Materials in Energy Harvesting and Storage (EHS-PCMs)]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-advances/about/call-for-papers#phase-change-materials-in-energy-harvesting-and-storage-ehs-pcms</link>
-            <guid>sd-phase-change-materials-in-energy-harvesting-and-storage-ehs-pcms</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Advances (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Novel Technologies to Minimize Industrial Carbon Footprint - Journal of Environmental Chemical Engineering]]></title>
             <link>https://www.sciencedirect.com/special-issue/313169/novel-technologies-to-minimize-industrial-carbon-footprint-journal-of-environmental-chemical-engineering</link>
             <guid>sd-novel-technologies-to-minimize-industrial-carbon-footprint-journal-of-environmental-chemical-engineering</guid>
@@ -22820,25 +22505,11 @@
             <author>NanoImpact (SD)</author>
         </item>
         <item>
-            <title><![CDATA[ITS 2024 Seoul Conference - Telecommunications Policy]]></title>
-            <link>https://www.sciencedirect.com/journal/telecommunications-policy/about/call-for-papers#its-2024-seoul-conference-telecommunications-policy</link>
-            <guid>sd-its-2024-seoul-conference-telecommunications-policy</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Telecommunications Policy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Coded Ethics: Decision-Making and the Responsible Development of Automated Digital Technologies]]></title>
             <link>https://www.sciencedirect.com/special-issue/313100/coded-ethics-decision-making-and-the-responsible-development-of-automated-digital-technologies</link>
             <guid>sd-coded-ethics-decision-making-and-the-responsible-development-of-automated-digital-technologies</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Responsible Technology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Thermal Modeling and Thermal Effects in Biological Systems for Tissue Engineering and Regenerative Medicine]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-science-and-engineering-progress/about/call-for-papers#thermal-modeling-and-thermal-effects-in-biological-systems-for-tissue-engineering-and-regenerative-medicine</link>
-            <guid>sd-thermal-modeling-and-thermal-effects-in-biological-systems-for-tissue-engineering-and-regenerative-medicine</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Science and Engineering Progress (SD)</author>
         </item>
         <item>
             <title><![CDATA[Foundation models for Earth observations]]></title>
@@ -22874,13 +22545,6 @@
             <guid>sd-element-biogeochemistry-and-environmental-ecology-in-the-coastal-areas</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Marine Environmental Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Functional Composites based on Polymers and Inorganic Nanoparticles: Thermal Characterization and Thermal Properties (FCPIN-TCTP )]]></title>
-            <link>https://www.sciencedirect.com/journal/thermal-advances/about/call-for-papers#functional-composites-based-on-polymers-and-inorganic-nanoparticles-thermal-characterization-and-thermal-properties-fcpin-tctp</link>
-            <guid>sd-functional-composites-based-on-polymers-and-inorganic-nanoparticles-thermal-characterization-and-thermal-properties-fcpin-tctp</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Thermal Advances (SD)</author>
         </item>
         <item>
             <title><![CDATA[Addressing plastic pollution through circular economy approaches]]></title>
@@ -22967,13 +22631,6 @@
             <author>Materials Science in Semiconductor Processing (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Edge Intelligence for Green and Sustainable 6G IIoT Applications]]></title>
-            <link>https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/about/call-for-papers#edge-intelligence-for-green-and-sustainable-6g-iiot-applications</link>
-            <guid>sd-edge-intelligence-for-green-and-sustainable-6g-iiot-applications</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Sustainable Computing: Informatics and Systems (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Theory and Key Technologies in Space Internet Networking]]></title>
             <link>https://www.sciencedirect.com/special-issue/313016/theory-and-key-technologies-in-space-internet-networking</link>
             <guid>sd-theory-and-key-technologies-in-space-internet-networking</guid>
@@ -22988,30 +22645,9 @@
             <author>International Review of Financial Analysis (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Beyond ESG]]></title>
-            <link>https://www.sciencedirect.com/journal/finance-research-letters/about/call-for-papers#beyond-esg</link>
-            <guid>sd-beyond-esg</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Finance Research Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Fourth International Congress on Male Contraception]]></title>
-            <link>https://www.sciencedirect.com/journal/contraception/about/call-for-papers#fourth-international-congress-on-male-contraception</link>
-            <guid>sd-fourth-international-congress-on-male-contraception</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Contraception (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Herbal Remedies for Oral and Dental Health]]></title>
             <link>https://www.sciencedirect.com/special-issue/313015/herbal-remedies-for-oral-and-dental-health</link>
             <guid>sd-herbal-remedies-for-oral-and-dental-health</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Herbal Medicine (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Exploration of the Therapeutic Potential of Natural Products on Cancer]]></title>
-            <link>https://www.sciencedirect.com/journal/journal-of-herbal-medicine/about/call-for-papers#exploration-of-the-therapeutic-potential-of-natural-products-on-cancer</link>
-            <guid>sd-exploration-of-the-therapeutic-potential-of-natural-products-on-cancer</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Herbal Medicine (SD)</author>
         </item>
@@ -23142,13 +22778,6 @@
             <author>Current Opinion in Pharmacology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Food bioactive:s: roles in modulating inflammation, gut microbiota and metabolic syndrome]]></title>
-            <link>https://www.sciencedirect.com/journal/food-bioscience/about/call-for-papers#food-bioactive:s-roles-in-modulating-inflammation-gut-microbiota-and-metabolic-syndrome</link>
-            <guid>sd-food-bioactive:s-roles-in-modulating-inflammation-gut-microbiota-and-metabolic-syndrome</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Food Bioscience (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Engineered materials for sustainable development in environmental and healthcare applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/312924/engineered-materials-for-sustainable-development-in-environmental-and-healthcare-applications</link>
             <guid>sd-engineered-materials-for-sustainable-development-in-environmental-and-healthcare-applications</guid>
@@ -23184,13 +22813,6 @@
             <author>Fisheries Research (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Biologics Combining Injectables and Meniscal Transplants]]></title>
-            <link>https://www.sciencedirect.com/journal/the-knee/about/call-for-papers#biologics-combining-injectables-and-meniscal-transplants</link>
-            <guid>sd-biologics-combining-injectables-and-meniscal-transplants</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>The Knee (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Novel insights in pathological and pharmacological alterations of consciousness]]></title>
             <link>https://www.sciencedirect.com/special-issue/312773/novel-insights-in-pathological-and-pharmacological-alterations-of-consciousness</link>
             <guid>sd-novel-insights-in-pathological-and-pharmacological-alterations-of-consciousness</guid>
@@ -23212,25 +22834,11 @@
             <author>System (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Tissue Engineering and Regenerative Medicine Applications]]></title>
-            <link>https://www.sciencedirect.com/journal/seminars-in-pediatric-surgery/about/call-for-papers#tissue-engineering-and-regenerative-medicine-applications</link>
-            <guid>sd-tissue-engineering-and-regenerative-medicine-applications</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Seminars in Pediatric Surgery (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Wound Care]]></title>
             <link>https://www.sciencedirect.com/special-issue/312793/wound-care</link>
             <guid>sd-wound-care</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Vascular Nursing (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The public relations-imperative for sustainability: Roles for public relations in advancing the 2030 Agenda (1)]]></title>
-            <link>https://www.sciencedirect.com/journal/public-relations-review/about/call-for-papers#the-public-relations-imperative-for-sustainability-roles-for-public-relations-in-advancing-the-2030-agenda-1</link>
-            <guid>sd-the-public-relations-imperative-for-sustainability-roles-for-public-relations-in-advancing-the-2030-agenda-1</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Public Relations Review (SD)</author>
         </item>
         <item>
             <title><![CDATA[14th Technical Meeting on Control Systems, Data Acquisition, Data Management and Remote Participation in Fusion Research]]></title>
@@ -23259,13 +22867,6 @@
             <guid>sd-exploring-the-human-dimensions-of-ecosystem-conservation-in-arid-environments</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Arid Environments (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Advanced Bioactive: Nanomaterials for Treatment of Major Chronic Diseases]]></title>
-            <link>https://www.sciencedirect.com/journal/results-in-chemistry/about/call-for-papers#advanced-bioactive:-nanomaterials-for-treatment-of-major-chronic-diseases</link>
-            <guid>sd-advanced-bioactive:-nanomaterials-for-treatment-of-major-chronic-diseases</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Results in Chemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Enzymes as Catalysts in Green Chemistry: From Discovery to Application]]></title>
