@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Wed, 18 Dec 2024 03:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 03:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -5082,13 +5082,6 @@
             <author>Current Research in Ecological and Social Psychology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Diversity in Neurodegenerative Disease Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/303886/diversity-in-neurodegenerative-disease-research</link>
-            <guid>sd-diversity-in-neurodegenerative-disease-research</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[The Evolution of Retail Careers]]></title>
             <link>https://www.sciencedirect.com/special-issue/303802/the-evolution-of-retail-careers</link>
             <guid>sd-the-evolution-of-retail-careers</guid>
@@ -9849,13 +9842,6 @@
             <author>European Journal of Pharmacology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[On the Move to Better Health: Integrating Movement Therapies for Immune Enhancement in Chronic Disease]]></title>
-            <link>https://www.sciencedirect.com/special-issue/291281/on-the-move-to-better-health-integrating-movement-therapies-for-immune-enhancement-in-chronic-disease</link>
-            <guid>sd-on-the-move-to-better-health-integrating-movement-therapies-for-immune-enhancement-in-chronic-disease</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Behavior and Immunity Integrative (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Dependable Software Engineering: Theories, Tools and Applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/291269/dependable-software-engineering-theories-tools-and-applications</link>
             <guid>sd-dependable-software-engineering-theories-tools-and-applications</guid>
@@ -9975,13 +9961,6 @@
             <author>Appetite (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Perinatal stress, inflammation, and maternal-child mental health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/290945/perinatal-stress-inflammation-and-maternal-child-mental-health</link>
-            <guid>sd-perinatal-stress-inflammation-and-maternal-child-mental-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Behavior and Immunity Integrative (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Current and Future Trends in Big Data-based Smart Mobility]]></title>
             <link>https://www.sciencedirect.com/special-issue/290931/current-and-future-trends-in-big-data-based-smart-mobility</link>
             <guid>sd-current-and-future-trends-in-big-data-based-smart-mobility</guid>
@@ -10015,13 +9994,6 @@
             <guid>sd-health-literacy</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Public Health (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Clinical Evidence & Advances in Traditional Chinese Medicine for Depression]]></title>
-            <link>https://www.sciencedirect.com/special-issue/290851/clinical-evidence-advances-in-traditional-chinese-medicine-for-depression</link>
-            <guid>sd-clinical-evidence-and-advances-in-traditional-chinese-medicine-for-depression</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Behavior and Immunity Integrative (SD)</author>
         </item>
         <item>
             <title><![CDATA[Electrochemistry: Opportunities and Challenges in the 21st Century (SIBAE 2024)]]></title>
@@ -10981,13 +10953,6 @@
             <guid>sd-nonstructural-elements-in-buildings-and-seismic-resilience</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Engineering Structures (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Current Issues in Emerging Markets]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286093/current-issues-in-emerging-markets</link>
-            <guid>sd-current-issues-in-emerging-markets</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Pacific-Basin Finance Journal (SD)</author>
         </item>
         <item>
             <title><![CDATA[Interdisciplinary Perspectives on Future Technologies, Technoculture, and Posthumanity]]></title>
@@ -12649,13 +12614,6 @@
             <author>Next Materials (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Recent Advancements in Monitoring Biological Indicators for Freshwater Monitoring for Public Health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/277258/recent-advancements-in-monitoring-biological-indicators-for-freshwater-monitoring-for-public-health</link>
-            <guid>sd-recent-advancements-in-monitoring-biological-indicators-for-freshwater-monitoring-for-public-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Microbiological Methods (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Hyperspectral Remote Sensing: new missions and novel applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/277247/hyperspectral-remote-sensing-new-missions-and-novel-applications</link>
             <guid>sd-hyperspectral-remote-sensing-new-missions-and-novel-applications</guid>
@@ -13636,20 +13594,6 @@
             <author>Next Nanotechnology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Crossing-Mechanics Driven by Big Data]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269690/crossing-mechanics-driven-by-big-data</link>
-            <guid>sd-crossing-mechanics-driven-by-big-data</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Theoretical and Applied Mechanics Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Machine learning in the fluid mechanics research of wind energy]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269693/machine-learning-in-the-fluid-mechanics-research-of-wind-energy</link>
-            <guid>sd-machine-learning-in-the-fluid-mechanics-research-of-wind-energy</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Theoretical and Applied Mechanics Letters (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Microplastics in freshwater systems: occurrence and effects]]></title>
             <link>https://www.sciencedirect.com/special-issue/269637/microplastics-in-freshwater-systems-occurrence-and-effects</link>
             <guid>sd-microplastics-in-freshwater-systems-occurrence-and-effects</guid>
@@ -13676,27 +13620,6 @@
             <guid>sd-signaling-mechanisms-for-controlling-plants-responses-under-changing-environment</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Biochimica et Biophysica Acta (BBA) - General Subjects (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Mechanics of Origami/Kirigami structures and metamaterials]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269369/mechanics-of-origami-kirigami-structures-and-metamaterials</link>
-            <guid>sd-mechanics-of-origamikirigami-structures-and-metamaterials</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Theoretical and Applied Mechanics Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[New insights and perspectives on impact biomechanics for human tissues: from injury prevention, protection to protective equipment]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269442/new-insights-and-perspectives-on-impact-biomechanics-for-human-tissues-from-injury-prevention-protection-to-protective-equipment</link>
-            <guid>sd-new-insights-and-perspectives-on-impact-biomechanics-for-human-tissues-from-injury-prevention-protection-to-protective-equipment</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Theoretical and Applied Mechanics Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Environmental Mechanics for Extreme Natural Events]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269340/environmental-mechanics-for-extreme-natural-events</link>
-            <guid>sd-environmental-mechanics-for-extreme-natural-events</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Theoretical and Applied Mechanics Letters (SD)</author>
         </item>
         <item>
             <title><![CDATA[Futures of Interaction, Relationships and Networks; Evolving Interdependencies]]></title>
@@ -14460,13 +14383,6 @@
             <guid>sd-marine-resource-management-for-carbon-neutrality</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Ocean &amp; Coastal Management (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Contemporary Challenges in Photochemistry and Photophysics of Coordination Compounds]]></title>
-            <link>https://www.sciencedirect.com/special-issue/261431/contemporary-challenges-in-photochemistry-and-photophysics-of-coordination-compounds</link>
-            <guid>sd-contemporary-challenges-in-photochemistry-and-photophysics-of-coordination-compounds</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Coordination Chemistry Reviews (SD)</author>
         </item>
         <item>
             <title><![CDATA[Marine Resource Management for Carbon Neutrality]]></title>
@@ -18396,13 +18312,6 @@
             <author>Process Safety and Environmental Protection (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Sociocultural and situated perspectives on learning (with) computational thinking]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315278/sociocultural-and-situated-perspectives-on-learning-with-computational-thinking</link>
-            <guid>sd-sociocultural-and-situated-perspectives-on-learning-with-computational-thinking</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Learning, Culture and Social Interaction (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Polycondensation 2024 - In honour of Jim McGrath]]></title>
             <link>https://www.sciencedirect.com/special-issue/315265/polycondensation-2024-in-honour-of-jim-mcgrath</link>
             <guid>sd-polycondensation-2024-in-honour-of-jim-mcgrath</guid>
@@ -21196,13 +21105,6 @@
             <author>IIMB Management Review (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Big Data and Multi-omics in Advancing Cancer Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313856/big-data-and-multi-omics-in-advancing-cancer-research</link>
-            <guid>sd-big-data-and-multi-omics-in-advancing-cancer-research</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>The International Journal of Biochemistry &amp; Cell Biology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Urban Nature and Human Health]]></title>
             <link>https://www.sciencedirect.com/special-issue/313862/urban-nature-and-human-health</link>
             <guid>sd-urban-nature-and-human-health</guid>
@@ -23014,13 +22916,6 @@
             <guid>sd-neuroimmunology-of-addiction</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Neuroimmunology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special issue devoted to HPLC 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312662/special-issue-devoted-to-hplc-2024</link>
-            <guid>sd-special-issue-devoted-to-hplc-2024</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Chromatography B (SD)</author>
         </item>
         <item>
             <title><![CDATA[Aging Research, Technology and Artificial Intelligence]]></title>
