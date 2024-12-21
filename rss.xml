@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Fri, 20 Dec 2024 02:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 02:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -8944,13 +8944,6 @@
             <guid>sd-magmatism-and-mineralization-in-southeast-asia</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Asian Earth Sciences (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Melioidosis in South Asia]]></title>
-            <link>https://www.sciencedirect.com/special-issue/294284/melioidosis-in-south-asia</link>
-            <guid>sd-melioidosis-in-south-asia</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Current Research in Microbial Sciences (SD)</author>
         </item>
         <item>
             <title><![CDATA[Renewable Energy Impact on Urban Transportation Systems]]></title>
@@ -22328,13 +22321,6 @@
             <guid>sd-microfluidics-and-point-of-care-testing</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Sensors and Actuators Reports (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Atención Domiciliaria: Presente y futuro]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313109/atencion-domiciliaria-presente-y-futuro</link>
-            <guid>sd-atencion-domiciliaria-presente-y-futuro</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Atención Primaria Práctica (SD)</author>
         </item>
         <item>
             <title><![CDATA[Computer Graphics & Visual Computing Conference 2024 Special Issue]]></title>
