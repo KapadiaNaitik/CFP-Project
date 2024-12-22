@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Sat, 21 Dec 2024 02:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -5873,13 +5873,6 @@
             <author>Corrosion Communications (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Topological Photonics]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302687/topological-photonics</link>
-            <guid>sd-topological-photonics</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Reviews in Physics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Embodied Artificial Intelligence for Robotic Vision and Navigation]]></title>
             <link>https://www.sciencedirect.com/special-issue/302487/embodied-artificial-intelligence-for-robotic-vision-and-navigation</link>
             <guid>sd-embodied-artificial-intelligence-for-robotic-vision-and-navigation</guid>
@@ -9583,13 +9576,6 @@
             <author>Long Range Planning (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Water-Energy-Food-Ecosystem Nexus adaptive governance: Enhancing resilience to a complex world]]></title>
-            <link>https://www.sciencedirect.com/special-issue/292451/water-energy-food-ecosystem-nexus-adaptive-governance-enhancing-resilience-to-a-complex-world</link>
-            <guid>sd-water-energy-food-ecosystem-nexus-adaptive-governance-enhancing-resilience-to-a-complex-world</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Current Research in Environmental Sustainability (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[3D Printed Micro and Nano Sensors for Healthcare applications 2023 (3DPMNS-2023)]]></title>
             <link>https://www.sciencedirect.com/special-issue/292443/3d-printed-micro-and-nano-sensors-for-healthcare-applications-2023-3dpmns-2023</link>
             <guid>sd-3d-printed-micro-and-nano-sensors-for-healthcare-applications-2023-3dpmns-2023</guid>
@@ -9903,13 +9889,6 @@
             <guid>sd-non-pharmacological-interventions-on-age-related-neurodegenerative-diseases-from-molecular-mechanisms-to-interventions-and-therapies</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Experimental Gerontology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Hyperpolarized Magnetic Resonance]]></title>
-            <link>https://www.sciencedirect.com/special-issue/291137/hyperpolarized-magnetic-resonance</link>
-            <guid>sd-hyperpolarized-magnetic-resonance</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Magnetic Resonance Open (SD)</author>
         </item>
         <item>
             <title><![CDATA[Application of Large Language Models in Materials Science]]></title>
@@ -22720,13 +22699,6 @@
             <guid>sd-special-issue-with-extended-versions-of-selected-papers-from-the-25th-ieee-international-symposium-on-a-world-of-wireless-mobile-and-multimedia-networks-2024-wowmom24</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Pervasive and Mobile Computing (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Generative Artificial Intelligence for Language Learning and Teaching: Opportunities, Challenges, and Ethical Considerations]]></title>
-            <link>https://www.sciencedirect.com/special-issue/297538/generative-artificial-intelligence-for-language-learning-and-teaching-opportunities-challenges-and-ethical-considerations</link>
-            <guid>sd-generative-artificial-intelligence-for-language-learning-and-teaching-opportunities-challenges-and-ethical-considerations</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>System (SD)</author>
         </item>
         <item>
             <title><![CDATA[Wound Care]]></title>
