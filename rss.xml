@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Sun, 22 Dec 2024 03:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 02:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -9639,13 +9639,6 @@
             <author>Biosensors and Bioelectronics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Novel catalytic processes and wastewater treatment]]></title>
-            <link>https://www.sciencedirect.com/special-issue/292069/novel-catalytic-processes-and-wastewater-treatment</link>
-            <guid>sd-novel-catalytic-processes-and-wastewater-treatment</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Chemosphere (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Parameter estimation and sensitivity analysis of dynamic crop models]]></title>
             <link>https://www.sciencedirect.com/special-issue/291989/parameter-estimation-and-sensitivity-analysis-of-dynamic-crop-models</link>
             <guid>sd-parameter-estimation-and-sensitivity-analysis-of-dynamic-crop-models</guid>
@@ -10953,13 +10946,6 @@
             <guid>sd-vi-polish-lithuanian-ukrainian-meeting-on-physics-of-ferroelectrics-september-11-to-15-2023-vsi-plu23-czestochowa</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Optical Materials (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Calls for Upcoming Special Issues]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286136/calls-for-upcoming-special-issues</link>
-            <guid>sd-calls-for-upcoming-special-issues</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Seminars in Oncology Nursing (SD)</author>
         </item>
         <item>
             <title><![CDATA[Beyond the Hidden Curriculum: Justice, Power, and Innovation in Health Professions Training]]></title>
