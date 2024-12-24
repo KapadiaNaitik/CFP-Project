@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 23 Dec 2024 02:58:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 02:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -10953,13 +10953,6 @@
             <guid>sd-beyond-the-hidden-curriculum-justice-power-and-innovation-in-health-professions-training</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Social Science &amp; Medicine (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Power in business relationships: a systems thinking perspective]]></title>
-            <link>https://www.sciencedirect.com/special-issue/285834/power-in-business-relationships-a-systems-thinking-perspective</link>
-            <guid>sd-power-in-business-relationships-a-systems-thinking-perspective</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Industrial Marketing Management (SD)</author>
         </item>
         <item>
             <title><![CDATA[Multicomponent High Entropy Metallic Alloys: Structural and Functional Properties]]></title>
