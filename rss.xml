@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Tue, 24 Dec 2024 02:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 02:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -1610,13 +1610,6 @@
             <author>Digital Engineering (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Green Bio- and Chemo-Catalysis for Environmental Sustainability]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312281/green-bio-and-chemo-catalysis-for-environmental-sustainability</link>
-            <guid>sd-green-bio-and-chemo-catalysis-for-environmental-sustainability</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Fermentation and Precision Fermentation]]></title>
             <link>https://www.sciencedirect.com/special-issue/312285/special-issue-on-fermentation-and-precision-fermentation</link>
             <guid>sd-fermentation-and-precision-fermentation</guid>
@@ -1650,13 +1643,6 @@
             <guid>sd-boosting-nano-insight-synthesis-of-nanostructured-electrocatalysts-for-sustainable-energy-applications</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Alloys and Compounds Communications (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Non-traditional activation]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312251/non-traditional-activation</link>
-            <guid>sd-non-traditional-activation</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
         </item>
         <item>
             <title><![CDATA[Metal-Binding Peptides]]></title>
@@ -4324,13 +4310,6 @@
             <guid>sd-a-special-issue-honouring-professor-keith-attenboroughs-50-years-in-acoustics</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Applied Acoustics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Molecular Heterogeneous Catalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/305465/molecular-heterogeneous-catalysis</link>
-            <guid>sd-molecular-heterogeneous-catalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
         </item>
         <item>
             <title><![CDATA[Large-span steel structures]]></title>
@@ -9301,13 +9280,6 @@
             <guid>sd-exploring-a-decade-of-actor-centred-power-acp-in-forestry-past-milestones-and-future-horizons</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Forest Policy and Economics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Human Genetics and Genomics]]></title>
-            <link>https://www.sciencedirect.com/special-issue/293042/human-genetics-and-genomics</link>
-            <guid>sd-human-genetics-and-genomics</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Genetics and Genomics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Generative AI in Finance]]></title>
@@ -14378,13 +14350,6 @@
             <author>Journal of Economic Behavior &amp; Organization (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Women in Green Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/259887/women-in-green-chemistry</link>
-            <guid>sd-women-in-green-chemistry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Multiscale engineering of crystal lattice towards high performance electron-correlated materials]]></title>
             <link>https://www.sciencedirect.com/special-issue/260274/multiscale-engineering-of-crystal-lattice-towards-high-performance-electron-correlated-materials</link>
             <guid>sd-multiscale-engineering-of-crystal-lattice-towards-high-performance-electron-correlated-materials</guid>
@@ -14917,13 +14882,6 @@
             <author>Geomorphology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Catalysis for Biomass and Renewables Valorization]]></title>
-            <link>https://www.sciencedirect.com/special-issue/242874/catalysis-for-biomass-and-renewables-valorization</link>
-            <guid>sd-catalysis-for-biomass-and-renewables-valorization</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Self-Healing, Multifunctional and Advanced Repair Technologies in Cementitious Systems]]></title>
             <link>https://www.sciencedirect.com/special-issue/242962/self-healing-multifunctional-and-advanced-repair-technologies-in-cementitious-systems</link>
             <guid>sd-self-healing-multifunctional-and-advanced-repair-technologies-in-cementitious-systems</guid>
@@ -14936,13 +14894,6 @@
             <guid>sd-agepop-oral-absorption-in-geriatric-patients-and-older-people</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>European Journal of Pharmaceutical Sciences (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[New Developments in Flow Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/242569/new-developments-in-flow-chemistry</link>
-            <guid>sd-new-developments-in-flow-chemistry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Green Chem (SD)</author>
         </item>
         <item>
             <title><![CDATA[Submarine Geomorphology and Processes: from coast to deep abyssal plains (1)]]></title>
