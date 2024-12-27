@@ -30614,9 +30614,8 @@ export const papers = [
     "journal": "Information Systems Research",
     "abbreviation": "isr",
     "slug": "isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters",
-    "active": false,
-    "pubDate": 1727211111000,
-    "gracePeriod": 1735182273000
+    "active": true,
+    "pubDate": 1727211111000
   },
   {
     "title": "Regulation in the Age of Digitalization",

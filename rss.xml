@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Thu, 26 Dec 2024 02:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 02:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -539,13 +539,6 @@
             <author>New Biotechnology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Modelling of origin, evolution and functioning of the genetic code (2)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/317032/modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2</link>
-            <guid>sd-modelling-of-origin-evolution-and-functioning-of-the-genetic-code-2</guid>
-            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
-            <author>BioSystems (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[DNA Damage and Repair in Disease and Therapy]]></title>
             <link>https://www.sciencedirect.com/special-issue/317019/dna-damage-and-repair-in-disease-and-therapy</link>
             <guid>sd-dna-damage-and-repair-in-disease-and-therapy</guid>
@@ -733,13 +726,6 @@
             <guid>sd-jean-futrell</guid>
             <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
             <author>International Journal of Mass Spectrometry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unraveling the Universe: Recent Advances in Particle Physics, Nuclear Physics, Cosmology and Astronomy (1)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316897/unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1</link>
-            <guid>sd-unraveling-the-universe-recent-advances-in-particle-physics-nuclear-physics-cosmology-and-astronomy-1</guid>
-            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
-            <author>Journal of Subatomic Particles and Cosmology (SD)</author>
         </item>
         <item>
             <title><![CDATA[VSI: Pediatric oncology]]></title>
@@ -5465,13 +5451,6 @@
             <guid>sd-33rd-european-symposium-on-applied-thermodynamics-esat-2024</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Fluid Phase Equilibria (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Adsorption for Water Purification and Wastewater Treatment - Technical Issues and Troubleshooting]]></title>
-            <link>https://www.sciencedirect.com/special-issue/303279/adsorption-for-water-purification-and-wastewater-treatment-technical-issues-and-troubleshooting</link>
-            <guid>sd-adsorption-for-water-purification-and-wastewater-treatment-technical-issues-and-troubleshooting</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Chemical Engineering Research and Design (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sex Crime]]></title>
@@ -13314,13 +13293,6 @@
             <author>Next Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Tunnel Fire Safety - Selected Papers from the 10th International Symposium on Tunnel Safety and Security]]></title>
-            <link>https://www.sciencedirect.com/special-issue/271630/tunnel-fire-safety-selected-papers-from-the-10th-international-symposium-on-tunnel-safety-and-security</link>
-            <guid>sd-tunnel-fire-safety-selected-papers-from-the-10th-international-symposium-on-tunnel-safety-and-security</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Fire Safety Journal (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Machine Learning and Artificial Intelligence in Solid State Chemistry]]></title>
             <link>https://www.sciencedirect.com/special-issue/271900/machine-learning-and-artificial-intelligence-in-solid-state-chemistry</link>
             <guid>sd-machine-learning-and-artificial-intelligence-in-solid-state-chemistry</guid>
@@ -15526,13 +15498,6 @@
             <author>Nuclear Engineering and Design (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Computational Physics Symposium at CPS Fall Meeting 2025]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316764/computational-physics-symposium-at-cps-fall-meeting-2025</link>
-            <guid>sd-computational-physics-symposium-at-cps-fall-meeting-2025</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Solid State Sciences (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Arts Therapies and Adverse Experiences in Childhood and Adolescence]]></title>
             <link>https://www.sciencedirect.com/special-issue/316777/arts-therapies-and-adverse-experiences-in-childhood-and-adolescence</link>
             <guid>sd-arts-therapies-and-adverse-experiences-in-childhood-and-adolescence</guid>
@@ -15762,13 +15727,6 @@
             <guid>sd-interfaces-and-fluids-in-porous-media</guid>
             <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
             <author>Advances in Colloid and Interface Science (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Role of non-neuronal cells in the control of energy homeostasis - Glial Health Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316704/role-of-non-neuronal-cells-in-the-control-of-energy-homeostasis-glial-health-research</link>
-            <guid>sd-role-of-non-neuronal-cells-in-the-control-of-energy-homeostasis-glial-health-research</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Glial Health Research (SD)</author>
         </item>
         <item>
             <title><![CDATA[Reirradiation: Pushing Boundaries in Radiation Oncology - Physics and Imaging in Radiation Oncology]]></title>
