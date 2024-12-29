@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Sat, 28 Dec 2024 02:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 03:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -852,13 +852,6 @@
             <guid>sd-enhancing-digital-manufacturing-via-ai-llm</guid>
             <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
             <author>International Journal of Production Economics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The geological evolution of the India-Asia collision and the Tibetan Platea]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316818/the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea</link>
-            <guid>sd-the-geological-evolution-of-the-india-asia-collision-and-the-tibetan-platea</guid>
-            <pubDate>Tue, 19 Nov 2024 03:03:03 GMT</pubDate>
-            <author>Tectonophysics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Proceedings of the Eleven International Workshop on Modeling in Crystal Growth]]></title>
@@ -2373,13 +2366,6 @@
             <author>Neuropharmacology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Biological Mechanisms Linking Physical Activity and Substance Use: Implications for Prevention and Treatment]]></title>
-            <link>https://www.sciencedirect.com/special-issue/285240/biological-mechanisms-linking-physical-activity-and-substance-use-implications-for-prevention-and-treatment</link>
-            <guid>sd-biological-mechanisms-linking-physical-activity-and-substance-use-implications-for-prevention-and-treatment</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Mental Health and Physical Activity (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Metabolic Crossroads: Navigating Aging, Obesity, and Energy Balance]]></title>
             <link>https://www.sciencedirect.com/special-issue/311614/metabolic-crossroads-navigating-aging-obesity-and-energy-balance</link>
             <guid>sd-metabolic-crossroads-navigating-aging-obesity-and-energy-balance</guid>
@@ -3234,13 +3220,6 @@
             <author>International Journal of Gastronomy and Food Science (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Recent Advances in Transition-Metal-Catalyzed Reactions]]></title>
-            <link>https://www.sciencedirect.com/special-issue/308057/recent-advances-in-transition-metal-catalyzed-reactions</link>
-            <guid>sd-recent-advances-in-transition-metal-catalyzed-reactions</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[New Frontiers of Business Model, and Open Innovation for the Sustainability of World Economy]]></title>
             <link>https://www.sciencedirect.com/special-issue/308043/new-frontiers-of-business-model-and-open-innovation-for-the-sustainability-of-world-economy</link>
             <guid>sd-new-frontiers-of-business-model-and-open-innovation-for-the-sustainability-of-world-economy</guid>
@@ -3267,13 +3246,6 @@
             <guid>sd-mental-health-war-trauma-and-migration-computers-in-human-behavior</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Computers in Human Behavior (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent Advances in Transition-Metal-Catalyzed Reactions]]></title>
-            <link>https://www.sciencedirect.com/special-issue/308057/recent-advances-in-transition-metal-catalyzed-reactions</link>
-            <guid>sd-recent-advances-in-transition-metal-catalyzed-reactions</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Letters (SD)</author>
         </item>
         <item>
             <title><![CDATA[Remote Sensing of Wildfires]]></title>
@@ -3507,13 +3479,6 @@
             <author>Experimental Neurology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Four-Membered Heterocycles and Products Derived From Them]]></title>
-            <link>https://www.sciencedirect.com/special-issue/307061/four-membered-heterocycles-and-products-derived-from-them</link>
-            <guid>sd-four-membered-heterocycles-and-products-derived-from-them</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Decoding Prostate Cancer Therapy Resistance and Novel Therapeutic Strategies]]></title>
             <link>https://www.sciencedirect.com/special-issue/307067/decoding-prostate-cancer-therapy-resistance-and-novel-therapeutic-strategies</link>
             <guid>sd-decoding-prostate-cancer-therapy-resistance-and-novel-therapeutic-strategies</guid>
@@ -3533,13 +3498,6 @@
             <guid>sd-multi-speaker-multi-microphone-and-multi-modal-distant-speech-recognition</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Computer Speech &amp; Language (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Four-Membered Heterocycles and Products Derived From Them]]></title>
-            <link>https://www.sciencedirect.com/special-issue/307061/four-membered-heterocycles-and-products-derived-from-them</link>
-            <guid>sd-four-membered-heterocycles-and-products-derived-from-them</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Letters (SD)</author>
         </item>
         <item>
             <title><![CDATA[Electrochemical reactor design and implementation: connecting different innovative technologies]]></title>
@@ -8876,13 +8834,6 @@
             <author>Computers and Electrical Engineering (SD)</author>
         </item>
         <item>
-            <title><![CDATA[The Role of Physical Activity in Psychological Health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/294389/the-role-of-physical-activity-in-psychological-health</link>
-            <guid>sd-the-role-of-physical-activity-in-psychological-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Physiology &amp; Behavior (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Payments for Ecosystem Services and Motivations: exploring the driving conditions for success or failure.]]></title>
             <link>https://www.sciencedirect.com/special-issue/294390/payments-for-ecosystem-services-and-motivations-exploring-the-driving-conditions-for-success-or-failure</link>
             <guid>sd-payments-for-ecosystem-services-and-motivations-exploring-the-driving-conditions-for-success-or-failure</guid>
@@ -12313,55 +12264,6 @@
             <author>Intelligent Medicine (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Supramolecular chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278854/supramolecular-chemistry</link>
-            <guid>sd-supramolecular-chemistry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Organocatalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278850/organocatalysis</link>
-            <guid>sd-organocatalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Biomolecule Synthesis and Modification]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278860/biomolecule-synthesis-and-modification</link>
-            <guid>sd-biomolecule-synthesis-and-modification</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Total Synthesis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278853/total-synthesis</link>
-            <guid>sd-total-synthesis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Biocatalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278856/biocatalysis</link>
-            <guid>sd-biocatalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Electrochemistry and Synthesis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278857/electrochemistry-and-synthesis</link>
-            <guid>sd-electrochemistry-and-synthesis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Photocatalysis in Organic Synthesis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278848/photocatalysis-in-organic-synthesis</link>
-            <guid>sd-photocatalysis-in-organic-synthesis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Interactions between agroecosystems and the environment: field observations, modelling and data-model integration]]></title>
             <link>https://www.sciencedirect.com/special-issue/277778/interactions-between-agroecosystems-and-the-environment-field-observations-modelling-and-data-model-integration</link>
             <guid>sd-interactions-between-agroecosystems-and-the-environment-field-observations-modelling-and-data-model-integration</guid>
@@ -13823,13 +13725,6 @@
             <guid>sd-nanomaterials-for-drug-delivery-whats-next</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Next Materials (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Virtual reality in cognitive and affective neuroscience]]></title>
-            <link>https://www.sciencedirect.com/special-issue/266647/virtual-reality-in-cognitive-and-affective-neuroscience</link>
-            <guid>sd-virtual-reality-in-cognitive-and-affective-neuroscience</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Behavioural Brain Research (SD)</author>
         </item>
         <item>
             <title><![CDATA[Safety Technologies for New Energy Vehicles]]></title>
@@ -18627,27 +18522,6 @@
             <author>Integration (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Chemo-selective Transformation of Peptides and Proteins]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314914/chemo-selective-transformation-of-peptides-and-proteins</link>
-            <guid>sd-chemo-selective-transformation-of-peptides-and-proteins</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent Progress in Iron, Cobalt, and Nickel Catalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314912/recent-progress-in-iron-cobalt-and-nickel-catalysis</link>
-            <guid>sd-recent-progress-in-iron-cobalt-and-nickel-catalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Palladium and Copper Catalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314913/palladium-and-copper-catalysis</link>
-            <guid>sd-palladium-and-copper-catalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Tetrahedron Chem (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Advances in Analytical Methods for Mass Spectrometry Imaging]]></title>
             <link>https://www.sciencedirect.com/special-issue/314823/advances-in-analytical-methods-for-mass-spectrometry-imaging</link>
             <guid>sd-advances-in-analytical-methods-for-mass-spectrometry-imaging</guid>
@@ -21301,20 +21175,6 @@
             <author>Journal of Quantitative Spectroscopy and Radiative Transfer (SD)</author>
         </item>
         <item>
-            <title><![CDATA[In honor of Professor Eric Jacobsen; 2024 Tetrahedron Prize for Creativity in Organic Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313610/in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry</link>
-            <guid>sd-in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Tetrahedron (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[In honor of Professor Song Lin for the 2025 Tetrahedron Young Investigator Award For Organic Synthesis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313611/in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis</link>
-            <guid>sd-in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Tetrahedron (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Designing for Digital Futures: Celebrating the Career and Intellectual Legacy of Professor Richard Boland Jr.]]></title>
             <link>https://www.sciencedirect.com/special-issue/313589/designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</link>
             <guid>sd-designing-for-digital-futures-celebrating-the-career-and-intellectual-legacy-of-professor-richard-boland-jr</guid>
@@ -21355,20 +21215,6 @@
             <guid>sd-proceedings-of-the-2024-advanced-accelerator-concepts-workshop</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[In honor of Professor Eric Jacobsen; 2024 Tetrahedron Prize for Creativity in Organic Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313610/in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry</link>
-            <guid>sd-in-honor-of-professor-eric-jacobsen-2024-tetrahedron-prize-for-creativity-in-organic-chemistry</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Tetrahedron Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[In honor of Professor Song Lin for the 2025 Tetrahedron Young Investigator Award For Organic Synthesis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313611/in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis</link>
-            <guid>sd-in-honor-of-professor-song-lin-for-the-2025-tetrahedron-young-investigator-award-for-organic-synthesis</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Tetrahedron Letters (SD)</author>
         </item>
         <item>
             <title><![CDATA[Recycling and Sustainability of Strategic Metals Resource]]></title>
