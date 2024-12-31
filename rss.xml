@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Mon, 30 Dec 2024 02:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 02:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2569,13 +2569,6 @@
             <author>Computers &amp; Education: X Reality (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Building Resilience in Telecommunications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/311415/building-resilience-in-telecommunications</link>
-            <guid>sd-building-resilience-in-telecommunications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Telecommunications Policy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Modeling and Numerical Simulations in Renewable Energy Systems]]></title>
             <link>https://www.sciencedirect.com/special-issue/311065/modeling-and-numerical-simulations-in-renewable-energy-systems</link>
             <guid>sd-modeling-and-numerical-simulations-in-renewable-energy-systems</guid>
@@ -3484,13 +3477,6 @@
             <guid>sd-decoding-prostate-cancer-therapy-resistance-and-novel-therapeutic-strategies</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of the National Cancer Center (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Shaping the Future: When AI Meets Design]]></title>
-            <link>https://www.sciencedirect.com/special-issue/307063/shaping-the-future-when-ai-meets-design</link>
-            <guid>sd-shaping-the-future-when-ai-meets-design</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Telematics and Informatics Reports (SD)</author>
         </item>
         <item>
             <title><![CDATA[Multi-Speaker, Multi-Microphone, and Multi-Modal Distant Speech Recognition]]></title>
@@ -4856,13 +4842,6 @@
             <guid>sd-green-mobility-and-tourism-advancing-sustainable-development-goals</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Systems and Soft Computing (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Learning from Multiple Data Sources for Decision Making in Health Care]]></title>
-            <link>https://www.sciencedirect.com/special-issue/304124/learning-from-multiple-data-sources-for-decision-making-in-health-care</link>
-            <guid>sd-learning-from-multiple-data-sources-for-decision-making-in-health-care</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Biomedical Informatics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Health Digital Twins in Precision and Personalized Medicine]]></title>
@@ -7166,13 +7145,6 @@
             <guid>sd-application-of-ai-in-oral-and-craniofacial-care</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Oral Biology and Craniofacial Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Computational Communication: Fusion Media and Praxeology in Big Data]]></title>
-            <link>https://www.sciencedirect.com/special-issue/299034/computational-communication-fusion-media-and-praxeology-in-big-data</link>
-            <guid>sd-computational-communication-fusion-media-and-praxeology-in-big-data</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Telematics and Informatics Reports (SD)</author>
         </item>
         <item>
             <title><![CDATA[Navigating Uncertainties towards Just Energy Transitions]]></title>
@@ -17388,13 +17360,6 @@
             <author>Solar Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Selected papers from the European Symposium on Analytical Spectrometry (ESAS), 24th - 28th of June, 2024, Warsaw, Poland]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315732/selected-papers-from-the-european-symposium-on-analytical-spectrometry-esas-24th-28th-of-june-2024-warsaw-poland</link>
-            <guid>sd-selected-papers-from-the-european-symposium-on-analytical-spectrometry-esas-24th-28th-of-june-2024-warsaw-poland</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Spectrochimica Acta Part B: Atomic Spectroscopy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Energy, Wellbeing, and Environmental Sustainability in Building Communities in a Changing Climate]]></title>
             <link>https://www.sciencedirect.com/special-issue/315690/energy-wellbeing-and-environmental-sustainability-in-building-communities-in-a-changing-climate</link>
             <guid>sd-energy-wellbeing-and-environmental-sustainability-in-building-communities-in-a-changing-climate</guid>
@@ -21406,13 +21371,6 @@
             <author>Journal of Economic Behavior &amp; Organization (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Beyond network public opinion: computational communication in the era of intelligent communication]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313503/beyond-network-public-opinion-computational-communication-in-the-era-of-intelligent-communication</link>
-            <guid>sd-beyond-network-public-opinion-computational-communication-in-the-era-of-intelligent-communication</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Telematics and Informatics Reports (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Geothermal Energy Research and development in China]]></title>
             <link>https://www.sciencedirect.com/special-issue/313504/geothermal-energy-research-and-development-in-china</link>
             <guid>sd-geothermal-energy-research-and-development-in-china</guid>
@@ -21530,13 +21488,6 @@
             <guid>sd-corporate-foresight-driving-value-and-impact-in-transitions-and-transformations</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Technological Forecasting and Social Change (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Artificial intelligence and digital media ecosystems]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313454/artificial-intelligence-and-digital-media-ecosystems</link>
-            <guid>sd-artificial-intelligence-and-digital-media-ecosystems</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Telecommunications Policy (SD)</author>
         </item>
         <item>
             <title><![CDATA[New Energy Nexus for Emerging Technologies, Environmental and Economic Impacts, and Social Adjustment]]></title>
@@ -22244,13 +22195,6 @@
             <guid>sd-herbal-remedies-for-oral-and-dental-health</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of Herbal Medicine (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Government Communication in the Age of Social Media]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313013/government-communication-in-the-age-of-social-media</link>
-            <guid>sd-government-communication-in-the-age-of-social-media</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Telematics and Informatics Reports (SD)</author>
         </item>
         <item>
             <title><![CDATA[Circular Economy Models for Sustainable Production and Consumption]]></title>
