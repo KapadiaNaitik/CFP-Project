@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Tue, 31 Dec 2024 02:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 03:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -525,13 +525,6 @@
             <author>BioSystems (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Reclaiming the Dark Sky: Challenges and Opportunities]]></title>
-            <link>https://www.sciencedirect.com/special-issue/317031/reclaiming-the-dark-sky-challenges-and-opportunities</link>
-            <guid>sd-reclaiming-the-dark-sky-challenges-and-opportunities</guid>
-            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
-            <author>Journal of Urban Management (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Circular Bioeconomy: Recovery of Valuable Products and Green Deal Biotechnology (1)]]></title>
             <link>https://www.sciencedirect.com/special-issue/317025/circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1</link>
             <guid>sd-circular-bioeconomy-recovery-of-valuable-products-and-green-deal-biotechnology-1</guid>
@@ -572,13 +565,6 @@
             <guid>sd-near-patient-precision-oncology-models-in-genitourinary-cancers</guid>
             <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
             <author>Gene (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Resilience Through Innovation, Renovation and Adaptation Strategies for Buildings and Outdoor Spaces]]></title>
-            <link>https://www.sciencedirect.com/special-issue/316976/rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces</link>
-            <guid>sd-rethinking-resilience-through-innovation-renovation-and-adaptation-strategies-for-buildings-and-outdoor-spaces</guid>
-            <pubDate>Sat, 23 Nov 2024 03:01:21 GMT</pubDate>
-            <author>Energy and Buildings (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health (1)]]></title>
@@ -740,13 +726,6 @@
             <guid>sd-innovations-and-advances-in-multifunctional-nanocomposites-for-energy-harvesting-and-sensing-applications</guid>
             <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
             <author>Chemical Physics Impact (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Nonthermal technologies to process foods for a sustainable supply chain]]></title>
-            <link>https://www.sciencedirect.com/special-issue/292450/nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain</link>
-            <guid>sd-nonthermal-technologies-to-process-foods-for-a-sustainable-supply-chain</guid>
-            <pubDate>Thu, 21 Nov 2024 03:02:16 GMT</pubDate>
-            <author>LWT (SD)</author>
         </item>
         <item>
             <title><![CDATA[Diet-mediated effects on the gut-brain axis in health and disease]]></title>
@@ -1190,13 +1169,6 @@
             <author>Pacific-Basin Finance Journal (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Beyond conventional use of nuclear for new energy needs and net-zero emission]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312541/beyond-conventional-use-of-nuclear-for-new-energy-needs-and-net-zero-emission</link>
-            <guid>sd-beyond-conventional-use-of-nuclear-for-new-energy-needs-and-net-zero-emission</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Sustainable Energy Technologies and Assessments (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Resource-Efficient and Sustainable Future Indoor Agriculture]]></title>
             <link>https://www.sciencedirect.com/special-issue/312566/resource-efficient-and-sustainable-future-indoor-agriculture</link>
             <guid>sd-resource-efficient-and-sustainable-future-indoor-agriculture</guid>
@@ -1265,13 +1237,6 @@
             <guid>sd-nitrogen-cycles-process-effect-and-management</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Earth Critical Zone (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Climate Change, Climate Risk and the international corporate debt market]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312500/climate-change-climate-risk-and-the-international-corporate-debt-market</link>
-            <guid>sd-climate-change-climate-risk-and-the-international-corporate-debt-market</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of International Money and Finance (SD)</author>
         </item>
         <item>
             <title><![CDATA[Intracellular signaling pathways in invertebrates and their role in immunity]]></title>
@@ -1575,13 +1540,6 @@
             <author>Pacific-Basin Finance Journal (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Emerging Targets and Drug Discovery for Antiviral]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312282/emerging-targets-and-drug-discovery-for-antiviral</link>
-            <guid>sd-emerging-targets-and-drug-discovery-for-antiviral</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Bioorganic &amp; Medicinal Chemistry Letters (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Advancements in Human-Robot Collaboration and its Applications in Human-Centric Smart Manufacturing]]></title>
             <link>https://www.sciencedirect.com/special-issue/312276/advancements-in-human-robot-collaboration-and-its-applications-in-human-centric-smart-manufacturing</link>
             <guid>sd-advancements-in-human-robot-collaboration-and-its-applications-in-human-centric-smart-manufacturing</guid>
@@ -1650,13 +1608,6 @@
             <guid>sd-invited-papers-for-the-50th-anniversary-of-the-journal-electrostatics-journal-50th-anniversary</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Electrostatics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Review Papers 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312235/review-papers-2024</link>
-            <guid>sd-review-papers-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Pharmaceutical and Biomedical Analysis (SD)</author>
         </item>
         <item>
             <title><![CDATA[Multiomics in modern bioanalytics]]></title>
@@ -2086,13 +2037,6 @@
             <author>Science Talks (SD)</author>
         </item>
         <item>
-            <title><![CDATA[20th anniversary SI for Physics of Life Reviews]]></title>
-            <link>https://www.sciencedirect.com/special-issue/311975/20th-anniversary-si-for-physics-of-life-reviews</link>
-            <guid>sd-20th-anniversary-si-for-physics-of-life-reviews</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Physics of Life Reviews (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[ICTAM 2024]]></title>
             <link>https://www.sciencedirect.com/special-issue/312036/ictam-2024</link>
             <guid>sd-ictam-2024</guid>
@@ -2464,13 +2408,6 @@
             <author>Sustainable Chemistry for the Environment (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Agricultural Transformation and Planetary Health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/311355/agricultural-transformation-and-planetary-health</link>
-            <guid>sd-agricultural-transformation-and-planetary-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Earth Critical Zone (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Immunotherapy for cancer after liver transplantation]]></title>
             <link>https://www.sciencedirect.com/special-issue/311412/immunotherapy-for-cancer-after-liver-transplantation</link>
             <guid>sd-immunotherapy-for-cancer-after-liver-transplantation</guid>
@@ -2786,13 +2723,6 @@
             <author>Cretaceous Research (SD)</author>
         </item>
         <item>
-            <title><![CDATA[15th International Symposium on Hazards, Prevention, and Mitigation of Industrial Explosions]]></title>
-            <link>https://www.sciencedirect.com/special-issue/310937/15th-international-symposium-on-hazards-prevention-and-mitigation-of-industrial-explosions</link>
-            <guid>sd-15th-international-symposium-on-hazards-prevention-and-mitigation-of-industrial-explosions</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Loss Prevention in the Process Industries (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Recent Advances in High Temperature Polymer Electrolyte Membrane Fuel Cells]]></title>
             <link>https://www.sciencedirect.com/special-issue/310906/recent-advances-in-high-temperature-polymer-electrolyte-membrane-fuel-cells</link>
             <guid>sd-recent-advances-in-high-temperature-polymer-electrolyte-membrane-fuel-cells</guid>
@@ -3029,13 +2959,6 @@
             <guid>sd-quantum-and-nano-materials-for-microelectronics</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Materials Today Quantum (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI Approaches to Architectural Design]]></title>
-            <link>https://www.sciencedirect.com/special-issue/308682/special-issue-on-ai-approaches-to-architectural-design</link>
-            <guid>sd-ai-approaches-to-architectural-design</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Frontiers of Architectural Research (SD)</author>
         </item>
         <item>
             <title><![CDATA[EuroMicro: 50 years of an amazing microprocessors and microsystems evolution]]></title>
@@ -3547,20 +3470,6 @@
             <guid>sd-psychology-driven-and-human-centered-approaches-to-interaction-design-research</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Advanced Design Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Exercise and the Autonomic Nervous System: New Insights and Future Directions]]></title>
-            <link>https://www.sciencedirect.com/special-issue/306860/exercise-and-the-autonomic-nervous-system-new-insights-and-future-directions</link>
-            <guid>sd-exercise-and-the-autonomic-nervous-system-new-insights-and-future-directions</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Autonomic Neuroscience (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The World Understandings for Thumb Hypoplasia]]></title>
-            <link>https://www.sciencedirect.com/special-issue/306934/the-world-understandings-for-thumb-hypoplasia</link>
-            <guid>sd-the-world-understandings-for-thumb-hypoplasia</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Hand and Microsurgery (SD)</author>
         </item>
         <item>
             <title><![CDATA[Climate Economics]]></title>
@@ -4088,13 +3997,6 @@
             <author>Renewable Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[International Conference on Bio-Sensing Technology 2024 - Sensing and Bio-Sensing Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/305547/international-conference-on-bio-sensing-technology-2024-sensing-and-bio-sensing-research</link>
-            <guid>sd-international-conference-on-bio-sensing-technology-2024-sensing-and-bio-sensing-research</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Sensing and Bio-Sensing Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Electric Mobility in Developing Countries: Feasibility, Challenges and Sustainability]]></title>
             <link>https://www.sciencedirect.com/special-issue/305513/electric-mobility-in-developing-countries-feasibility-challenges-and-sustainability</link>
             <guid>sd-electric-mobility-in-developing-countries-feasibility-challenges-and-sustainability</guid>
@@ -4550,25 +4452,11 @@
             <author>Computer Communications (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Special Issue of Chinagraph 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/304633/special-issue-of-chinagraph-2024</link>
-            <guid>sd-special-issue-of-chinagraph-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Graphical Models (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Inclusion and Equity in Multigrade Classrooms]]></title>
             <link>https://www.sciencedirect.com/special-issue/304605/inclusion-and-equity-in-multigrade-classrooms</link>
             <guid>sd-inclusion-and-equity-in-multigrade-classrooms</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>International Journal of Educational Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning Algorithms for Quantitative Optoacoustic Tomography]]></title>
-            <link>https://www.sciencedirect.com/special-issue/304492/deep-learning-algorithms-for-quantitative-optoacoustic-tomography</link>
-            <guid>sd-deep-learning-algorithms-for-quantitative-optoacoustic-tomography</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Photoacoustics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Advancements in Wearable Biosensors and Computational Intelligence for Biomedical Applications]]></title>
@@ -5075,13 +4963,6 @@
             <author>Environmental Innovation and Societal Transitions (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Composite Interface]]></title>
-            <link>https://www.sciencedirect.com/special-issue/303698/composite-interface</link>
-            <guid>sd-composite-interface</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Composites Communications (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Physical Aging of Glassy Hybrid Materials (Glass Physical Aging)]]></title>
             <link>https://www.sciencedirect.com/special-issue/303689/physical-aging-of-glassy-hybrid-materials-glass-physical-aging</link>
             <guid>sd-physical-aging-of-glassy-hybrid-materials-glass-physical-aging</guid>
@@ -5467,13 +5348,6 @@
             <author>Journal of Economic Behavior &amp; Organization (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Celebrating the 30th anniversary of the Uruguayan Society for Neuroscience: Emergent topics from South America to global neuroscience]]></title>
-            <link>https://www.sciencedirect.com/special-issue/303093/celebrating-the-30th-anniversary-of-the-uruguayan-society-for-neuroscience-emergent-topics-from-south-america-to-global-neuroscience</link>
-            <guid>sd-celebrating-the-30th-anniversary-of-the-uruguayan-society-for-neuroscience-emergent-topics-from-south-america-to-global-neuroscience</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Neuroscience (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Emerging trends to connect Biotechnology and Environmental Sustainability]]></title>
             <link>https://www.sciencedirect.com/special-issue/303122/emerging-trends-to-connect-biotechnology-and-environmental-sustainability</link>
             <guid>sd-emerging-trends-to-connect-biotechnology-and-environmental-sustainability</guid>
@@ -5530,13 +5404,6 @@
             <author>Regional Science Policy &amp; Practice (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Cost Benefit Analysis for Regional Sustainable Development Projects]]></title>
-            <link>https://www.sciencedirect.com/special-issue/303105/cost-benefit-analysis-for-regional-sustainable-development-projects</link>
-            <guid>sd-cost-benefit-analysis-for-regional-sustainable-development-projects</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Regional Science Policy &amp; Practice (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Biotechnology and Innovation in Dentistry - Exploring A New Frontier]]></title>
             <link>https://www.sciencedirect.com/special-issue/303044/biotechnology-and-innovation-in-dentistry-exploring-a-new-frontier</link>
             <guid>sd-biotechnology-and-innovation-in-dentistry-exploring-a-new-frontier</guid>
@@ -5549,13 +5416,6 @@
             <guid>sd-automation-and-artificial-intelligence-in-clinical-microbiology-and-virology</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Diagnostic Microbiology and Infectious Disease (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Closed-loop and adaptive Deep Brain Stimulation: from theory to clinical practice]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302975/closed-loop-and-adaptive-deep-brain-stimulation-from-theory-to-clinical-practice</link>
-            <guid>sd-closed-loop-and-adaptive-deep-brain-stimulation-from-theory-to-clinical-practice</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Deep Brain Stimulation (SD)</author>
         </item>
         <item>
             <title><![CDATA[Digital Twins for Virtual-real Integration in Industrial Internet of Things]]></title>
@@ -5873,13 +5733,6 @@
             <author>Hybrid Advances (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Special issues for the 30th Korean Conference on Semiconductors 2024 (KCS 2024)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302466/special-issues-for-the-30th-korean-conference-on-semiconductors-2024-kcs-2024</link>
-            <guid>sd-special-issues-for-the-30th-korean-conference-on-semiconductors-2024-kcs-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Solid-State Electronics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Learning Assisted Intelligent Optimization and Scheduling: Theory, Algorithms and Applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/302398/learning-assisted-intelligent-optimization-and-scheduling-theory-algorithms-and-applications</link>
             <guid>sd-learning-assisted-intelligent-optimization-and-scheduling-theory-algorithms-and-applications</guid>
@@ -5943,13 +5796,6 @@
             <author>International Business Review (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Recent Advances in Graphics and Interaction 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302348/recent-advances-in-graphics-and-interaction-2024</link>
-            <guid>sd-recent-advances-in-graphics-and-interaction-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Computers &amp; Graphics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[New Horizons at the Intersections of Machine Learning, Dynamical Systems, and Algorithmic Information Theory]]></title>
             <link>https://www.sciencedirect.com/special-issue/302295/new-horizons-at-the-intersections-of-machine-learning-dynamical-systems-and-algorithmic-information-theory</link>
             <guid>sd-new-horizons-at-the-intersections-of-machine-learning-dynamical-systems-and-algorithmic-information-theory</guid>
@@ -5969,20 +5815,6 @@
             <guid>sd-special-issue-in-coordination-chemistry-reviews-celebrating-young-inorganic-chemists-creative-work-in-inorganic-chemistry</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Coordination Chemistry Reviews (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special issue for 13NGCS: Catalysis for Sustainable C1 Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302275/special-issue-for-13ngcs-catalysis-for-sustainable-c1-chemistry</link>
-            <guid>sd-special-issue-for-13ngcs-catalysis-for-sustainable-c1-chemistry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Catalysis B: Environment and Energy (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent Advances in Photovoltaic Science and Technologies: A Special Issue of Papers Presented at the 4th International Conference on Photovoltaic Science and Technologies]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302276/recent-advances-in-photovoltaic-science-and-technologies-a-special-issue-of-papers-presented-at-the-4th-international-conference-on-photovoltaic-science-and-technologies</link>
-            <guid>sd-recent-advances-in-photovoltaic-science-and-technologies-a-special-issue-of-papers-presented-at-the-4th-international-conference-on-photovoltaic-science-and-technologies</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Renewable Energy (SD)</author>
         </item>
         <item>
             <title><![CDATA[Submarine Fluid Venting: Shaping Seafloor Morphology and Biology]]></title>
@@ -6032,13 +5864,6 @@
             <guid>sd-design-and-performance-of-mass-timber-structural-systems</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Engineering Structures (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[27th High-Energy Physics International in Quantum Chromodynamics (QCD24)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/302289/27th-high-energy-physics-international-in-quantum-chromodynamics-qcd24</link>
-            <guid>sd-27th-high-energy-physics-international-in-quantum-chromodynamics-qcd24</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Nuclear and Particle Physics Proceedings (SD)</author>
         </item>
         <item>
             <title><![CDATA[Special issue focused on substance use disorders and pain]]></title>
@@ -6151,13 +5976,6 @@
             <guid>sd-terrestrial-magnetism-insights-from-ten-years-of-the-swarm-satellite-constellation</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Physics of the Earth and Planetary Interiors (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Molecularly imprinted polymers for pharmaceutical and biomedical analysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/301939/molecularly-imprinted-polymers-for-pharmaceutical-and-biomedical-analysis</link>
-            <guid>sd-molecularly-imprinted-polymers-for-pharmaceutical-and-biomedical-analysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Pharmaceutical and Biomedical Analysis Open (SD)</author>
         </item>
         <item>
             <title><![CDATA[VSI: Cancer, Inflammation and Metabolism]]></title>
@@ -6321,13 +6139,6 @@
             <author>Pharmacology Biochemistry and Behavior (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Future Making]]></title>
-            <link>https://www.sciencedirect.com/special-issue/301703/future-making</link>
-            <guid>sd-future-making</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>She Ji: The Journal of Design, Economics, and Innovation (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[The Use of Psychedelics in Cognitive Behavioral Therapy and Practice]]></title>
             <link>https://www.sciencedirect.com/special-issue/301697/the-use-of-psychedelics-in-cognitive-behavioral-therapy-and-practice</link>
             <guid>sd-the-use-of-psychedelics-in-cognitive-behavioral-therapy-and-practice</guid>
@@ -6354,13 +6165,6 @@
             <guid>sd-mental-health-and-socioeconomic-outcomes</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Development Economics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Enriching Urban Residents Low-Carbon Lifestyle Choices Through Interdisciplinary Approaches]]></title>
-            <link>https://www.sciencedirect.com/special-issue/301680/enriching-urban-residents-low-carbon-lifestyle-choices-through-interdisciplinary-approaches</link>
-            <guid>sd-enriching-urban-residents-low-carbon-lifestyle-choices-through-interdisciplinary-approaches</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Cities (SD)</author>
         </item>
         <item>
             <title><![CDATA[Special issue for the 9th International Conference on Metal-Organic Frameworks and Open Framework Compounds (MOF2024)]]></title>
@@ -6424,20 +6228,6 @@
             <guid>sd-sustainable-fruit-packaging</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Food Packaging and Shelf Life (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI in Online Social Networks: opportunities and challenges]]></title>
-            <link>https://www.sciencedirect.com/special-issue/301639/ai-in-online-social-networks-opportunities-and-challenges</link>
-            <guid>sd-ai-in-online-social-networks-opportunities-and-challenges</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Online Social Networks and Media (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Hydrogen Energy in Chemical, Energy and Environmental Engineering (HECEEE-2023)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/301644/hydrogen-energy-in-chemical-energy-and-environmental-engineering-heceee-2023</link>
-            <guid>sd-hydrogen-energy-in-chemical-energy-and-environmental-engineering-heceee-2023</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>International Journal of Hydrogen Energy (SD)</author>
         </item>
         <item>
             <title><![CDATA[Low dimensional carbon materials: from theory to device integration]]></title>
@@ -6664,13 +6454,6 @@
             <author>Results in Chemistry (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Fuzzy Financial Models and Applications: Emerging Trends]]></title>
-            <link>https://www.sciencedirect.com/special-issue/300101/fuzzy-financial-models-and-applications-emerging-trends</link>
-            <guid>sd-fuzzy-financial-models-and-applications-emerging-trends</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Decision Analytics Journal (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Iterative Algorithms for Solving Unconstrained Optimization Problems and System Nonlinear Equations with Applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/300200/iterative-algorithms-for-solving-unconstrained-optimization-problems-and-system-nonlinear-equations-with-applications</link>
             <guid>sd-iterative-algorithms-for-solving-unconstrained-optimization-problems-and-system-nonlinear-equations-with-applications</guid>
@@ -6795,13 +6578,6 @@
             <guid>sd-transforming-business-models-across-digital-platforms-exploring-the-role-of-artificial-intelligence</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Engineering and Technology Management (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Are Social Sciences Special? The Past and Present of Exceptionalism.]]></title>
-            <link>https://www.sciencedirect.com/special-issue/300009/are-social-sciences-special-the-past-and-present-of-exceptionalism</link>
-            <guid>sd-are-social-sciences-special-the-past-and-present-of-exceptionalism</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Studies in History and Philosophy of Science (SD)</author>
         </item>
         <item>
             <title><![CDATA[New trends and opportunities in Green Chemistry (Special issue in memory of Prof. Pietro Tundo)]]></title>
@@ -7182,13 +6958,6 @@
             <author>Electrochimica Acta (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Complications in Arthroscopic Surgery: Challenges and Solutions]]></title>
-            <link>https://www.sciencedirect.com/special-issue/299030/complications-in-arthroscopic-surgery-challenges-and-solutions</link>
-            <guid>sd-complications-in-arthroscopic-surgery-challenges-and-solutions</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Clinical Orthopaedics and Trauma (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Intelligent Situation Awareness]]></title>
             <link>https://www.sciencedirect.com/special-issue/298864/intelligent-situation-awareness</link>
             <guid>sd-intelligent-situation-awareness</guid>
@@ -7483,13 +7252,6 @@
             <author>European Economic Review (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Conversion of Molecules into Valuable Products]]></title>
-            <link>https://www.sciencedirect.com/special-issue/298286/conversion-of-molecules-into-valuable-products</link>
-            <guid>sd-conversion-of-molecules-into-valuable-products</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>International Journal of Electrochemical Science (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Small Island States, Climate Change and Health: We must act]]></title>
             <link>https://www.sciencedirect.com/special-issue/298233/small-island-states-climate-change-and-health-we-must-act</link>
             <guid>sd-small-island-states-climate-change-and-health-we-must-act</guid>
@@ -7551,13 +7313,6 @@
             <guid>sd-the-january-2024-noto-peninsula-tsunami-japan-and-other-recent-tsunamis-modeling-field-surveys-warnings-cascading-impacts-and-resilience</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Ocean Engineering (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special Issue for Nanoscience Summer School at Yachay Tech 2024 (NSSY 2024)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/298377/special-issue-for-nanoscience-summer-school-at-yachay-tech-2024-nssy-2024</link>
-            <guid>sd-special-issue-for-nanoscience-summer-school-at-yachay-tech-2024-nssy-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Carbon Trends (SD)</author>
         </item>
         <item>
             <title><![CDATA[Organometallics for Oxidation Catalysis]]></title>
@@ -7649,13 +7404,6 @@
             <guid>sd-advancements-in-psychedelic-research-effects-mechanisms-and-therapeutic-potential</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Progress in Neuro-Psychopharmacology and Biological Psychiatry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Measuring Behavior: Conference contributions to the 2024 meeting in Aberdeen UK]]></title>
-            <link>https://www.sciencedirect.com/special-issue/298205/measuring-behavior-conference-contributions-to-the-2024-meeting-in-aberdeen-uk</link>
-            <guid>sd-measuring-behavior-conference-contributions-to-the-2024-meeting-in-aberdeen-uk</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Current Research in Behavioral Sciences (SD)</author>
         </item>
         <item>
             <title><![CDATA[Artificial Intelligence in Dental and Oral Health]]></title>
@@ -7903,13 +7651,6 @@
             <author>Hormones and Behavior (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Research and Development in Power Engineering]]></title>
-            <link>https://www.sciencedirect.com/special-issue/297451/research-and-development-in-power-engineering</link>
-            <guid>sd-research-and-development-in-power-engineering</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Renewable Energy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Optimization of Energy Generation and Storage for Carbon Neutrality]]></title>
             <link>https://www.sciencedirect.com/special-issue/297457/optimization-of-energy-generation-and-storage-for-carbon-neutrality</link>
             <guid>sd-optimization-of-energy-generation-and-storage-for-carbon-neutrality</guid>
@@ -8029,13 +7770,6 @@
             <author>Desalination and Water Treatment (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Emerging Stars in Digital Chemical Engineering II]]></title>
-            <link>https://www.sciencedirect.com/special-issue/297182/emerging-stars-in-digital-chemical-engineering-ii</link>
-            <guid>sd-emerging-stars-in-digital-chemical-engineering-ii</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Digital Chemical Engineering (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Emerging Techniques for Studying Molecular Structure of Pollutant Degradation in the Environment with Energy Recovery via Biological and Chemical Processes]]></title>
             <link>https://www.sciencedirect.com/special-issue/297106/emerging-techniques-for-studying-molecular-structure-of-pollutant-degradation-in-the-environment-with-energy-recovery-via-biological-and-chemical-processes</link>
             <guid>sd-emerging-techniques-for-studying-molecular-structure-of-pollutant-degradation-in-the-environment-with-energy-recovery-via-biological-and-chemical-processes</guid>
@@ -8153,13 +7887,6 @@
             <guid>sd-the-implications-of-circular-economy-for-the-tourism-sector</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Resources, Conservation and Recycling (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[of Chinagraph 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/296865/special-section-of-chinagraph-2024</link>
-            <guid>sd-of-chinagraph-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Computers &amp; Graphics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Upzoning]]></title>
@@ -8286,13 +8013,6 @@
             <guid>sd-net-zero-transition-and-sustainable-development-of-developing-nations</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Energy for Sustainable Development (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Strassner 60th Birthday Anniversary]]></title>
-            <link>https://www.sciencedirect.com/special-issue/296679/thomas-strassner-60th-birthday-anniversary</link>
-            <guid>sd-thomas-strassner-60th-birthday-anniversary</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Organometallic Chemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Disease Microenvironment Modulation Nanomedicines]]></title>
@@ -8512,13 +8232,6 @@
             <author>MethodsX (SD)</author>
         </item>
         <item>
-            <title><![CDATA[The use of automated dispensing cabinets in hospitals]]></title>
-            <link>https://www.sciencedirect.com/special-issue/295090/the-use-of-automated-dispensing-cabinets-in-hospitals</link>
-            <guid>sd-the-use-of-automated-dispensing-cabinets-in-hospitals</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Exploratory Research in Clinical and Social Pharmacy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[The origin and evolution of arthropod appendages]]></title>
             <link>https://www.sciencedirect.com/special-issue/294967/the-origin-and-evolution-of-arthropod-appendages</link>
             <guid>sd-the-origin-and-evolution-of-arthropod-appendages</guid>
@@ -8608,13 +8321,6 @@
             <guid>sd-understanding-infectious-disease-dynamics-from-a-wastewater-lens</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Epidemics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Chemistry Low- and High-Valent Organometallic Compounds of the Main Group Elements]]></title>
-            <link>https://www.sciencedirect.com/special-issue/294742/the-chemistry-low-and-high-valent-organometallic-compounds-of-the-main-group-elements</link>
-            <guid>sd-the-chemistry-low-and-high-valent-organometallic-compounds-of-the-main-group-elements</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Organometallic Chemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Emerging roles of nanoparticles in sustainable agriculture]]></title>
@@ -8827,13 +8533,6 @@
             <author>Renewable Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Innovative Utilization of CO2 in Civil Engineering]]></title>
-            <link>https://www.sciencedirect.com/special-issue/294363/innovative-utilization-of-co2-in-civil-engineering</link>
-            <guid>sd-innovative-utilization-of-co2-in-civil-engineering</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of CO2 Utilization (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Agile and Lean: How far did we come and what’s next?]]></title>
             <link>https://www.sciencedirect.com/special-issue/294362/agile-and-lean-how-far-did-we-come-and-what-s-next</link>
             <guid>sd-agile-and-lean-how-far-did-we-come-and-whats-next</guid>
@@ -8874,13 +8573,6 @@
             <guid>sd-agriculture-cluster-trade-and-supply-chain-resilience-and-food-security-in-china</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>China Economic Review (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crust formation from subduction to collision]]></title>
-            <link>https://www.sciencedirect.com/special-issue/294063/crust-formation-from-subduction-to-collision</link>
-            <guid>sd-crust-formation-from-subduction-to-collision</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Lithos (SD)</author>
         </item>
         <item>
             <title><![CDATA[Quality of Life in Developmental Disabilities]]></title>
@@ -8944,13 +8636,6 @@
             <guid>sd-jcis-open-thoughts</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>JCIS Open (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Avian model systems - current advances in research, technology and biomedical applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/293714/avian-model-systems-current-advances-in-research-technology-and-biomedical-applications</link>
-            <guid>sd-avian-model-systems-current-advances-in-research-technology-and-biomedical-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Developmental Biology (SD)</author>
         </item>
         <item>
             <title><![CDATA[Application of sulfur compounds and isotopes to paleoenvironment and petroleum geology studies]]></title>
@@ -9044,25 +8729,11 @@
             <author>Case Studies in Construction Materials (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Spintronics and Topological Magnetism]]></title>
-            <link>https://www.sciencedirect.com/special-issue/293617/spintronics-and-topological-magnetism</link>
-            <guid>sd-spintronics-and-topological-magnetism</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Materials Today Quantum (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Topological Quantum Materials]]></title>
             <link>https://www.sciencedirect.com/special-issue/293621/topological-quantum-materials</link>
             <guid>sd-topological-quantum-materials</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Materials Today Quantum (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The 11th International Symposium on Flame Retardants]]></title>
-            <link>https://www.sciencedirect.com/special-issue/293605/the-11th-international-symposium-on-flame-retardants</link>
-            <guid>sd-the-11th-international-symposium-on-flame-retardants</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Chemosphere (SD)</author>
         </item>
         <item>
             <title><![CDATA[Graphene and related materials Photonics]]></title>
@@ -9126,13 +8797,6 @@
             <guid>sd-new-frontiers-in-malaria</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>New Microbes and New Infections (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Selected Papers from the 11th International Workshop on Surface Modification for Chemical and Biochemical Sensing, SMCBS 2023]]></title>
-            <link>https://www.sciencedirect.com/special-issue/293502/selected-papers-from-the-11th-international-workshop-on-surface-modification-for-chemical-and-biochemical-sensing-smcbs-2023</link>
-            <guid>sd-selected-papers-from-the-11th-international-workshop-on-surface-modification-for-chemical-and-biochemical-sensing-smcbs-2023</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Bioelectrochemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Role of Network Pharmacology integrated with experimental approaches in Natural Products Drug Discovery]]></title>
@@ -9499,13 +9163,6 @@
             <author>European Journal of Operational Research (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Organometallic Chemistry of CO2]]></title>
-            <link>https://www.sciencedirect.com/special-issue/292061/organometallic-chemistry-of-co2</link>
-            <guid>sd-organometallic-chemistry-of-co2</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Organometallic Chemistry (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Young Scientists in the Americas]]></title>
             <link>https://www.sciencedirect.com/special-issue/292081/young-scientists-in-the-americas</link>
             <guid>sd-young-scientists-in-the-americas</guid>
@@ -9518,13 +9175,6 @@
             <guid>sd-parameter-estimation-and-sensitivity-analysis-of-dynamic-crop-models</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>European Journal of Agronomy (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Surface-enhanced Raman spectroscopy for bio-analytical applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/292002/surface-enhanced-raman-spectroscopy-for-bio-analytical-applications</link>
-            <guid>sd-surface-enhanced-raman-spectroscopy-for-bio-analytical-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy (SD)</author>
         </item>
         <item>
             <title><![CDATA[A Special Issue for The 2nd International Congress on Separation and Purification Technology (ISPT 2024)]]></title>
@@ -9695,13 +9345,6 @@
             <author>European Journal of Pharmacology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Dependable Software Engineering: Theories, Tools and Applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/291269/dependable-software-engineering-theories-tools-and-applications</link>
-            <guid>sd-dependable-software-engineering-theories-tools-and-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Systems Architecture (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Transforming the child welfare system]]></title>
             <link>https://www.sciencedirect.com/special-issue/291282/transforming-the-child-welfare-system</link>
             <guid>sd-transforming-the-child-welfare-system</guid>
@@ -9814,13 +9457,6 @@
             <author>Big Data Research (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Towards Decarbonization through Electrochemical Energy Conversion and Storage]]></title>
-            <link>https://www.sciencedirect.com/special-issue/290683/towards-decarbonization-through-electrochemical-energy-conversion-and-storage</link>
-            <guid>sd-towards-decarbonization-through-electrochemical-energy-conversion-and-storage</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>DeCarbon (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Functional models of airway disease and repair]]></title>
             <link>https://www.sciencedirect.com/special-issue/290713/functional-models-of-airway-disease-and-repair</link>
             <guid>sd-functional-models-of-airway-disease-and-repair</guid>
@@ -9856,25 +9492,11 @@
             <author>Energy Reports (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Machine Learning Approaches in Climate and Geohazards Predictions and Applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/290656/machine-learning-approaches-in-climate-and-geohazards-predictions-and-applications</link>
-            <guid>sd-machine-learning-approaches-in-climate-and-geohazards-predictions-and-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Computing and Geosciences (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Applications of Artificial Intelligence in Sport, Physical Activity, and Health]]></title>
             <link>https://www.sciencedirect.com/special-issue/290674/applications-of-artificial-intelligence-in-sport-physical-activity-and-health</link>
             <guid>sd-applications-of-artificial-intelligence-in-sport-physical-activity-and-health</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Sport and Health Science (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Careers of the Vulnerable Workforce]]></title>
-            <link>https://www.sciencedirect.com/special-issue/290669/careers-of-the-vulnerable-workforce</link>
-            <guid>sd-careers-of-the-vulnerable-workforce</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Vocational Behavior (SD)</author>
         </item>
         <item>
             <title><![CDATA[Fe-S Proteins]]></title>
@@ -9947,25 +9569,11 @@
             <author>European Economic Review (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advanced Measurements of Batteries, Fuel Cells and Other Energy Storage Devices]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289851/advanced-measurements-of-batteries-fuel-cells-and-other-energy-storage-devices</link>
-            <guid>sd-advanced-measurements-of-batteries-fuel-cells-and-other-energy-storage-devices</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Measurement: Energy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Oncologic Imaging]]></title>
             <link>https://www.sciencedirect.com/special-issue/289710/oncologic-imaging</link>
             <guid>sd-oncologic-imaging</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>European Journal of Radiology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Smart and Resilient Circular Supply Chain Innovations]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289704/smart-and-resilient-circular-supply-chain-innovations</link>
-            <guid>sd-smart-and-resilient-circular-supply-chain-innovations</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Technovation (SD)</author>
         </item>
         <item>
             <title><![CDATA[New Horizons in Systematic Evidence Maps Practice for Environmental Health]]></title>
@@ -9982,13 +9590,6 @@
             <author>Applied Computing and Geosciences (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Fostering Synergies between Transportation and Electricity Networks for a Net-Zero Energy System]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289438/fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system</link>
-            <guid>sd-fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Advances in Applied Energy (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Cleaning up the oceans, blue economy, and blue circularity]]></title>
             <link>https://www.sciencedirect.com/special-issue/289561/cleaning-up-the-oceans-blue-economy-and-blue-circularity</link>
             <guid>sd-cleaning-up-the-oceans-blue-economy-and-blue-circularity</guid>
@@ -10001,13 +9602,6 @@
             <guid>sd-household-finance-and-socioeconomic-development</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Emerging Markets Review (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Fostering Synergies between Transportation and Electricity Networks for a Net-Zero Energy System]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289438/fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system</link>
-            <guid>sd-fostering-synergies-between-transportation-and-electricity-networks-for-a-net-zero-energy-system</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Energy (SD)</author>
         </item>
         <item>
             <title><![CDATA[Emerging Young Scientists of Latin America]]></title>
@@ -10099,13 +9693,6 @@
             <guid>sd-polychlorinated-alkanes-pcas-new-perspectives-on-human-and-environmental-exposure</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Chemosphere (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[3DOR2024 - 17th EG Symposium on 3D Object Retrieval]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289358/special-section-3dor2024-17th-eg-symposium-on-3d-object-retrieval</link>
-            <guid>sd-3dor2024-17th-eg-symposium-on-3d-object-retrieval</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Computers &amp; Graphics (SD)</author>
         </item>
         <item>
             <title><![CDATA[The 2nd International Indian Ocean Expedition (IIOE-2): Motivating New Exploration in a Poorly Understood Basin (Volume 7)]]></title>
@@ -10430,13 +10017,6 @@
             <author>Biomaterials and Biosystems (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Emerging practices in therapeutic targeting of neurodegenerative diseases by modulating protein kinases]]></title>
-            <link>https://www.sciencedirect.com/special-issue/287449/emerging-practices-in-therapeutic-targeting-of-neurodegenerative-diseases-by-modulating-protein-kinases</link>
-            <guid>sd-emerging-practices-in-therapeutic-targeting-of-neurodegenerative-diseases-by-modulating-protein-kinases</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Mass spectrometry approaches to understand the pathophysiology of brain disorders]]></title>
             <link>https://www.sciencedirect.com/special-issue/304460/mass-spectrometry-approaches-to-understand-the-pathophysiology-of-brain-disorders</link>
             <guid>sd-mass-spectrometry-approaches-to-understand-the-pathophysiology-of-brain-disorders</guid>
@@ -10486,13 +10066,6 @@
             <author>Energy Reports (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Impact of contaminants of emerging concern on soil and environmental health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/287218/impact-of-contaminants-of-emerging-concern-on-soil-and-environmental-health</link>
-            <guid>sd-impact-of-contaminants-of-emerging-concern-on-soil-and-environmental-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Soil &amp; Environmental Health (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Sphingolipid metabolism and signaling in the central nervous system: Effects on brain health]]></title>
             <link>https://www.sciencedirect.com/special-issue/287222/sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health</link>
             <guid>sd-sphingolipid-metabolism-and-signaling-in-the-central-nervous-system-effects-on-brain-health</guid>
@@ -10540,13 +10113,6 @@
             <guid>sd-marine-science-and-technology-research-in-viet-nam</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Regional Studies in Marine Science (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The cancer prevention effects and mechanism of traditional Chinese medicines]]></title>
-            <link>https://www.sciencedirect.com/special-issue/233364/the-cancer-prevention-effects-and-mechanism-of-traditional-chinese-medicines</link>
-            <guid>sd-the-cancer-prevention-effects-and-mechanism-of-traditional-chinese-medicines</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Pharmacological Research - Modern Chinese Medicine (SD)</author>
         </item>
         <item>
             <title><![CDATA[Emerging Optical Fibres and Fibre Sensors: New Developments and Key Applications]]></title>
@@ -10640,32 +10206,11 @@
             <author>Next Energy (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Best Papers of the SBGames 2023]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286467/special-issue-on-best-papers-of-the-sbgames-2023</link>
-            <guid>sd-best-papers-of-the-sbgames-2023</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Entertainment Computing (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent insights into plant-pathogen interactions through omics approaches]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286480/recent-insights-into-plant-pathogen-interactions-through-omics-approaches</link>
-            <guid>sd-recent-insights-into-plant-pathogen-interactions-through-omics-approaches</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Physiological and Molecular Plant Pathology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Membrane Separation Processes. A Tribute to Professor Maria Norberta de Pinho]]></title>
             <link>https://www.sciencedirect.com/special-issue/286503/membrane-separation-processes-a-tribute-to-professor-maria-norberta-de-pinho</link>
             <guid>sd-membrane-separation-processes-a-tribute-to-professor-maria-norberta-de-pinho</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Separation and Purification Technology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Towards new therapeutic approaches for anxiety disorders]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286514/towards-new-therapeutic-approaches-for-anxiety-disorders</link>
-            <guid>sd-towards-new-therapeutic-approaches-for-anxiety-disorders</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Behavioural Brain Research (SD)</author>
         </item>
         <item>
             <title><![CDATA[Emerging technologies and innovations in disaster risk reduction]]></title>
@@ -10694,13 +10239,6 @@
             <guid>sd-disaster-and-shelter-management-strategies-for-shelter-emergency-recovery-and-resilience</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Progress in Disaster Science (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Catalytic Processes for the Depolymerization and Upcycling of Polyethylene Terephthalate (PET)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286370/catalytic-processes-for-the-depolymerization-and-upcycling-of-polyethylene-terephthalate-pet</link>
-            <guid>sd-catalytic-processes-for-the-depolymerization-and-upcycling-of-polyethylene-terephthalate-pet</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Catalysis Today (SD)</author>
         </item>
         <item>
             <title><![CDATA[The Monaco Explorations Indian Ocean Expedition 2022: advancing scientific interactions in the Mascarene region]]></title>
@@ -10787,13 +10325,6 @@
             <author>Hybrid Advances (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advances in Security Countermeasures for Medical Sensor Networks]]></title>
-            <link>https://www.sciencedirect.com/special-issue/286091/advances-in-security-countermeasures-for-medical-sensor-networks</link>
-            <guid>sd-advances-in-security-countermeasures-for-medical-sensor-networks</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Internet of Things (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Nonstructural Elements in Buildings and Seismic Resilience]]></title>
             <link>https://www.sciencedirect.com/special-issue/286277/nonstructural-elements-in-buildings-and-seismic-resilience</link>
             <guid>sd-nonstructural-elements-in-buildings-and-seismic-resilience</guid>
@@ -10857,25 +10388,11 @@
             <author>Chinese Journal of Aeronautics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[V Latin American Symposium on Ichnology, SLIC 2023]]></title>
-            <link>https://www.sciencedirect.com/special-issue/285897/v-latin-american-symposium-on-ichnology-slic-2023</link>
-            <guid>sd-v-latin-american-symposium-on-ichnology-slic-2023</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of South American Earth Sciences (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Linking carbon and energy fluxes in soil - from resources to consumers and back again]]></title>
             <link>https://www.sciencedirect.com/special-issue/285798/linking-carbon-and-energy-fluxes-in-soil-from-resources-to-consumers-and-back-again</link>
             <guid>sd-linking-carbon-and-energy-fluxes-in-soil-from-resources-to-consumers-and-back-again</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Soil Biology and Biochemistry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Plant Small Molecule & Ion Signaling]]></title>
-            <link>https://www.sciencedirect.com/special-issue/285177/plant-small-molecule-ion-signaling</link>
-            <guid>sd-plant-small-molecule-and-ion-signaling</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Plant Physiology (SD)</author>
         </item>
         <item>
             <title><![CDATA[Structural and computational biology in virus-host interactions - Journal of Structural Biology: X]]></title>
@@ -11228,20 +10745,6 @@
             <author>Biosafety and Health (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Solid-State NMR and DNP of Heterogeneous Biomaterials and Cellular Systems]]></title>
-            <link>https://www.sciencedirect.com/special-issue/284001/solid-state-nmr-and-dnp-of-heterogeneous-biomaterials-and-cellular-systems</link>
-            <guid>sd-solid-state-nmr-and-dnp-of-heterogeneous-biomaterials-and-cellular-systems</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Solid State Nuclear Magnetic Resonance (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[High-Energy-Density Batteries]]></title>
-            <link>https://www.sciencedirect.com/special-issue/284002/high-energy-density-batteries</link>
-            <guid>sd-high-energy-density-batteries</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Energy Reports (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Global advancements in adapting, evaluating, and implementing Nurse-Family Partnership]]></title>
             <link>https://www.sciencedirect.com/special-issue/284045/global-advancements-in-adapting-evaluating-and-implementing-nurse-family-partnership</link>
             <guid>sd-global-advancements-in-adapting-evaluating-and-implementing-nurse-family-partnership</guid>
@@ -11277,13 +10780,6 @@
             <author>Colloid and Interface Science Communications (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Festschrift in Honor of Terry Page]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283951/festschrift-in-honor-of-terry-page</link>
-            <guid>sd-festschrift-in-honor-of-terry-page</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Neurobiology of Sleep and Circadian Rhythms (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Extracellular vesicles-based theranostics in human diseases; insights on the biology and translational applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/283950/extracellular-vesicles-based-theranostics-in-human-diseases-insights-on-the-biology-and-translational-applications</link>
             <guid>sd-extracellular-vesicles-based-theranostics-in-human-diseases-insights-on-the-biology-and-translational-applications</guid>
@@ -11296,13 +10792,6 @@
             <guid>sd-15th-tihany-symposium-on-radiation-chemistry-vsi-15th-tihany</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Radiation Physics and Chemistry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Modularized and prefabricated building structures]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283892/modularized-and-prefabricated-building-structures</link>
-            <guid>sd-modularized-and-prefabricated-building-structures</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Engineering Structures (SD)</author>
         </item>
         <item>
             <title><![CDATA[Special Issue in Memory of James Kincaid: Celebrating His Career and Contributions to Inorganic Biochemistry]]></title>
@@ -11333,25 +10822,11 @@
             <author>Digital Business (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Thermodynamics, Transport, and Reactivity of Nanoconfined Fluids]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283795/thermodynamics-transport-and-reactivity-of-nanoconfined-fluids</link>
-            <guid>sd-thermodynamics-transport-and-reactivity-of-nanoconfined-fluids</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Fluid Phase Equilibria (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Early Career Researchers on Educational Research]]></title>
             <link>https://www.sciencedirect.com/special-issue/283805/early-career-researchers-on-educational-research</link>
             <guid>sd-early-career-researchers-on-educational-research</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>International Journal of Educational Research Open (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Novel Solutions in Components and Configurations of Heat Pumps with Natural Working Fluids]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283541/novel-solutions-in-components-and-configurations-of-heat-pumps-with-natural-working-fluids</link>
-            <guid>sd-novel-solutions-in-components-and-configurations-of-heat-pumps-with-natural-working-fluids</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Thermal Engineering (SD)</author>
         </item>
         <item>
             <title><![CDATA[Environmental Frontiers for Water-Energy Nexus]]></title>
@@ -11373,13 +10848,6 @@
             <guid>sd-honoring-a-legend-in-the-field-of-food-science-and-technology-professor-theodore-p-labuza</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>LWT (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[STAMS 2023 / SEMTA-MECAMAT COLLOQUIUM - Mechanics Across the Scales]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283693/stams-2023-semta-mecamat-colloquium-mechanics-across-the-scales</link>
-            <guid>sd-stams-2023-semta-mecamat-colloquium-mechanics-across-the-scales</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Mechanics of Materials (SD)</author>
         </item>
         <item>
             <title><![CDATA[Magnetocardiography Rediscovered: New Perspectives on a Novel Modality]]></title>
@@ -11879,13 +11347,6 @@
             <author>Journal of Chromatography Open (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Long-Term Action Understanding]]></title>
-            <link>https://www.sciencedirect.com/special-issue/273237/long-term-action-understanding</link>
-            <guid>sd-long-term-action-understanding</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Visual Communication and Image Representation (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Protein intrinsic disorder: Unstructural side of structural biology]]></title>
             <link>https://www.sciencedirect.com/special-issue/280934/protein-intrinsic-disorder-unstructural-side-of-structural-biology</link>
             <guid>sd-protein-intrinsic-disorder-unstructural-side-of-structural-biology</guid>
@@ -12040,13 +11501,6 @@
             <author>Journal of Asian Earth Sciences (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Non-Terrestrial Networks for Ubiquitous Connectivity]]></title>
-            <link>https://www.sciencedirect.com/special-issue/280520/non-terrestrial-networks-for-ubiquitous-connectivity</link>
-            <guid>sd-non-terrestrial-networks-for-ubiquitous-connectivity</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Computer Networks (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Highlighting tailored mental ill- health prevention and support programs for people exposed to traumatic events in the course of their work including veterans and first responders]]></title>
             <link>https://www.sciencedirect.com/special-issue/280564/highlighting-tailored-mental-ill-health-prevention-and-support-programs-for-people-exposed-to-traumatic-events-in-the-course-of-their-work-including-veterans-and-first-responders</link>
             <guid>sd-highlighting-tailored-mental-ill-health-prevention-and-support-programs-for-people-exposed-to-traumatic-events-in-the-course-of-their-work-including-veterans-and-first-responders</guid>
@@ -12073,13 +11527,6 @@
             <guid>sd-waste-carbon-value</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Cleaner Waste Systems (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent advances and application of corrosion inhibitors in new and emerging industrial technologies]]></title>
-            <link>https://www.sciencedirect.com/special-issue/280389/recent-advances-and-application-of-corrosion-inhibitors-in-new-and-emerging-industrial-technologies</link>
-            <guid>sd-recent-advances-and-application-of-corrosion-inhibitors-in-new-and-emerging-industrial-technologies</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>International Journal of Electrochemical Science (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sustainable minerals for the energy transition]]></title>
@@ -12173,27 +11620,6 @@
             <author>Biosensors and Bioelectronics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[The Growing Gender Divide in Educational Credentials: Trends, Causes and Consequences]]></title>
-            <link>https://www.sciencedirect.com/special-issue/279709/the-growing-gender-divide-in-educational-credentials-trends-causes-and-consequences</link>
-            <guid>sd-the-growing-gender-divide-in-educational-credentials-trends-causes-and-consequences</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Research in Social Stratification and Mobility (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Research Methods for Young Language Learners: New Perspectives]]></title>
-            <link>https://www.sciencedirect.com/special-issue/279504/research-methods-for-young-language-learners-new-perspectives</link>
-            <guid>sd-research-methods-for-young-language-learners-new-perspectives</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Research Methods in Applied Linguistics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Epitranscriptomic modifications in metabolic disease]]></title>
-            <link>https://www.sciencedirect.com/special-issue/279248/epitranscriptomic-modifications-in-metabolic-disease</link>
-            <guid>sd-epitranscriptomic-modifications-in-metabolic-disease</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Molecular and Cellular Endocrinology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Peptide Mimetics, Conjugates and Peptide Nucleic Acids -The 10th Bulgarian Peptide Symposium]]></title>
             <link>https://www.sciencedirect.com/special-issue/279142/peptide-mimetics-conjugates-and-peptide-nucleic-acids-the-10th-bulgarian-peptide-symposium</link>
             <guid>sd-peptide-mimetics-conjugates-and-peptide-nucleic-acids-the-10th-bulgarian-peptide-symposium</guid>
@@ -12264,25 +11690,11 @@
             <author>Powder Technology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Language Teacher Motivation in an Unequal World]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278446/language-teacher-motivation-in-an-unequal-world</link>
-            <guid>sd-language-teacher-motivation-in-an-unequal-world</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>System (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Multi-Vector Local Energy Communities]]></title>
             <link>https://www.sciencedirect.com/special-issue/278353/multi-vector-local-energy-communities</link>
             <guid>sd-multi-vector-local-energy-communities</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Applied Energy (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Novel Biomarkers in Vascular Surgery]]></title>
-            <link>https://www.sciencedirect.com/special-issue/278442/novel-biomarkers-in-vascular-surgery</link>
-            <guid>sd-novel-biomarkers-in-vascular-surgery</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>JVS-Vascular Science (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sustainable strategic materials recovery, what’s next?]]></title>
@@ -12488,13 +11900,6 @@
             <author>IFAC Journal of Systems and Control (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advances in Risk and Protective Factors for Brain Health]]></title>
-            <link>https://www.sciencedirect.com/special-issue/276233/advances-in-risk-and-protective-factors-for-brain-health</link>
-            <guid>sd-advances-in-risk-and-protective-factors-for-brain-health</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Environmental and ecological changes in deltaic and coastal regions and their implications for carbon sequestration]]></title>
             <link>https://www.sciencedirect.com/special-issue/276176/environmental-and-ecological-changes-in-deltaic-and-coastal-regions-and-their-implications-for-carbon-sequestration</link>
             <guid>sd-environmental-and-ecological-changes-in-deltaic-and-coastal-regions-and-their-implications-for-carbon-sequestration</guid>
@@ -12549,13 +11954,6 @@
             <guid>sd-artificial-intelligence-meeting-green-edge-cloud-computing</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Computer Communications (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Advanced polymeric materials for medical applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/275902/advanced-polymeric-materials-for-medical-applications</link>
-            <guid>sd-advanced-polymeric-materials-for-medical-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Biomaterials Advances (SD)</author>
         </item>
         <item>
             <title><![CDATA[Jammed, amorphous, and glass-like states and behavior in physics and biology (VSI: Glassy biophys)]]></title>
@@ -12642,13 +12040,6 @@
             <author>Addiction Neuroscience (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Dopamine circuitry and heterogeneity in addiction]]></title>
-            <link>https://www.sciencedirect.com/special-issue/275476/dopamine-circuitry-and-heterogeneity-in-addiction</link>
-            <guid>sd-dopamine-circuitry-and-heterogeneity-in-addiction</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Addiction Neuroscience (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[The invisible complement: using sedimentary ancient DNA (sedaDNA) to improve marine ecosystem reconstructions]]></title>
             <link>https://www.sciencedirect.com/special-issue/275339/the-invisible-complement-using-sedimentary-ancient-dna-sedadna-to-improve-marine-ecosystem-reconstructions</link>
             <guid>sd-the-invisible-complement-using-sedimentary-ancient-dna-sedadna-to-improve-marine-ecosystem-reconstructions</guid>
@@ -12675,13 +12066,6 @@
             <guid>sd-best-practices-for-stakeholder-engagement-in-food-energy-water-systems-science</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Environmental Science &amp; Policy (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[New Trends in Spacecraft and Launch Vehicles Control]]></title>
-            <link>https://www.sciencedirect.com/special-issue/275092/new-trends-in-spacecraft-and-launch-vehicles-control</link>
-            <guid>sd-new-trends-in-spacecraft-and-launch-vehicles-control</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Control Engineering Practice (SD)</author>
         </item>
         <item>
             <title><![CDATA[Special issue of IJMS dedicated to Prof. Richard A. J. O’Hair celebrating his achievements in the field of gas-phase ion chemistry and on the occasion of his 60th birthday]]></title>
@@ -12838,13 +12222,6 @@
             <author>European Journal of Integrative Medicine (SD)</author>
         </item>
         <item>
-            <title><![CDATA[MSWiM 2023 Special Issue]]></title>
-            <link>https://www.sciencedirect.com/special-issue/273657/mswim-2023-special-issue</link>
-            <guid>sd-mswim-2023-special-issue</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Computer Communications (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Sustainable Approaches to Time Weighted Sampling]]></title>
             <link>https://www.sciencedirect.com/special-issue/273645/sustainable-approaches-to-time-weighted-sampling</link>
             <guid>sd-sustainable-approaches-to-time-weighted-sampling</guid>
@@ -12906,13 +12283,6 @@
             <guid>sd-language-models-and-psycholinguistics-what-can-one-black-box-tell-us-about-the-other</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Memory and Language (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Microplastics: from pollution to solution]]></title>
-            <link>https://www.sciencedirect.com/special-issue/272935/microplastics-from-pollution-to-solution</link>
-            <guid>sd-microplastics-from-pollution-to-solution</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Eco-Environment &amp; Health (SD)</author>
         </item>
         <item>
             <title><![CDATA[Decarbonized energy conversion systems with advanced thermodynamic cycles]]></title>
@@ -13055,13 +12425,6 @@
             <author>Journal of the National Cancer Center (SD)</author>
         </item>
         <item>
-            <title><![CDATA[The Epileptic Heart: Cardiac Comorbidities and Complications of Epilepsy]]></title>
-            <link>https://www.sciencedirect.com/special-issue/272394/the-epileptic-heart-cardiac-comorbidities-and-complications-of-epilepsy</link>
-            <guid>sd-the-epileptic-heart-cardiac-comorbidities-and-complications-of-epilepsy</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Epilepsy &amp; Behavior Reports (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Organometallic Chemistry of Metal Clusters and Nanoparticles]]></title>
             <link>https://www.sciencedirect.com/special-issue/272400/organometallic-chemistry-of-metal-clusters-and-nanoparticles</link>
             <guid>sd-organometallic-chemistry-of-metal-clusters-and-nanoparticles</guid>
@@ -13109,20 +12472,6 @@
             <guid>sd-call-for-papers-and-most-read-article-collection</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Biomarkers in Neuropsychiatry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Topics in Chrononutrition]]></title>
-            <link>https://www.sciencedirect.com/special-issue/271767/topics-in-chrononutrition</link>
-            <guid>sd-topics-in-chrononutrition</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of the Academy of Nutrition and Dietetics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Recent Advances in Food Analysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/271709/recent-advances-in-food-analysis</link>
-            <guid>sd-recent-advances-in-food-analysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Chromatography Open (SD)</author>
         </item>
         <item>
             <title><![CDATA[Biology of sex differences in frailty and aging]]></title>
@@ -13272,13 +12621,6 @@
             <author>Forest Policy and Economics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Stress <--> Addiction]]></title>
-            <link>https://www.sciencedirect.com/special-issue/270288/stress-addiction</link>
-            <guid>sd-stress-less-greater-addiction</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Addiction Neuroscience (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Metal complexes with N-heterocyclic carbene ligands: synthesis and applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/270152/metal-complexes-with-n-heterocyclic-carbene-ligands-synthesis-and-applications</link>
             <guid>sd-metal-complexes-with-n-heterocyclic-carbene-ligands-synthesis-and-applications</guid>
@@ -13319,13 +12661,6 @@
             <guid>sd-novel-therapeutic-targets-for-major-depressive-disorders</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Brain Research Bulletin (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Advances on analysis and removal of water/wastewater pollutants: Thoughts from the 11th World Congress of Chemical Engineering and the 2nd Iberoamerican Congress of Chemical Engineering]]></title>
-            <link>https://www.sciencedirect.com/special-issue/270064/advances-on-analysis-and-removal-of-water-wastewater-pollutants-thoughts-from-the-11th-world-congress-of-chemical-engineering-and-the-2nd-iberoamerican-congress-of-chemical-engineering</link>
-            <guid>sd-advances-on-analysis-and-removal-of-waterwastewater-pollutants-thoughts-from-the-11th-world-congress-of-chemical-engineering-and-the-2nd-iberoamerican-congress-of-chemical-engineering</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Chemical Engineering Journal Advances (SD)</author>
         </item>
         <item>
             <title><![CDATA[Ecosystem services towards planning healthy and resilient landscapes]]></title>
@@ -13382,13 +12717,6 @@
             <guid>sd-signaling-mechanisms-for-controlling-plants-responses-under-changing-environment</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Biochimica et Biophysica Acta (BBA) - General Subjects (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Futures of Interaction, Relationships and Networks; Evolving Interdependencies]]></title>
-            <link>https://www.sciencedirect.com/special-issue/269446/futures-of-interaction-relationships-and-networks-evolving-interdependencies</link>
-            <guid>sd-futures-of-interaction-relationships-and-networks-evolving-interdependencies</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Industrial Marketing Management (SD)</author>
         </item>
         <item>
             <title><![CDATA[Post-life evaluation, recycling, and reuse for sustainable lithium-ion batteries]]></title>
@@ -13573,13 +12901,6 @@
             <author>Energy and Climate Change (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Views on aging across the lifespan]]></title>
-            <link>https://www.sciencedirect.com/special-issue/267614/views-on-aging-across-the-lifespan</link>
-            <guid>sd-views-on-aging-across-the-lifespan</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Current Research in Behavioral Sciences (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Call for Special Issue Proposals - Computers in Human Behavior]]></title>
             <link>https://www.sciencedirect.com/special-issue/257740/call-for-special-issue-proposals-computers-in-human-behavior</link>
             <guid>sd-call-for-special-issue-proposals-computers-in-human-behavior</guid>
@@ -13615,25 +12936,11 @@
             <author>Engineering Structures (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Aerosol Sampling: Preserving Physical, Chemical, and Biological Properties]]></title>
-            <link>https://www.sciencedirect.com/special-issue/267063/aerosol-sampling-preserving-physical-chemical-and-biological-properties</link>
-            <guid>sd-aerosol-sampling-preserving-physical-chemical-and-biological-properties</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Aerosol Science (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Next-generation materials for sustainably protecting and restoring water ecosystems]]></title>
             <link>https://www.sciencedirect.com/special-issue/266938/next-generation-materials-for-sustainably-protecting-and-restoring-water-ecosystems</link>
             <guid>sd-next-generation-materials-for-sustainably-protecting-and-restoring-water-ecosystems</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Next Materials (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Rising stars of coordination chemistry for catalysis and energy]]></title>
-            <link>https://www.sciencedirect.com/special-issue/266956/rising-stars-of-coordination-chemistry-for-catalysis-and-energy</link>
-            <guid>sd-rising-stars-of-coordination-chemistry-for-catalysis-and-energy</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Coordination Chemistry Reviews (SD)</author>
         </item>
         <item>
             <title><![CDATA[Eduruption: The disruptive potential of education for transforming consumerism]]></title>
@@ -13655,13 +12962,6 @@
             <guid>sd-innovative-and-meaningful-knowledge-towards-a-sustainable-world</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Technological Forecasting and Social Change (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Soil virus ecology: how viral infection shapes microbial communities and biogeochemical processes]]></title>
-            <link>https://www.sciencedirect.com/special-issue/266844/soil-virus-ecology-how-viral-infection-shapes-microbial-communities-and-biogeochemical-processes</link>
-            <guid>sd-soil-virus-ecology-how-viral-infection-shapes-microbial-communities-and-biogeochemical-processes</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Soil Biology and Biochemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Metamaterials for Innovative Optical Applications, Renewable Energies and Eco-Technologies (H-Metamaterials)]]></title>
@@ -13783,13 +13083,6 @@
             <author>Next Materials (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Medical linear Accelerators : Recent developments (VSI: Medical LINAC)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/265744/medical-linear-accelerators-recent-developments-vsi-medical-linac</link>
-            <guid>sd-medical-linear-accelerators-recent-developments-vsi-medical-linac</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Radiation Research and Applied Sciences (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Negative Results in Oceanography]]></title>
             <link>https://www.sciencedirect.com/special-issue/265572/negative-results-in-oceanography</link>
             <guid>sd-negative-results-in-oceanography</guid>
@@ -13839,13 +13132,6 @@
             <author>Deep Sea Research Part I: Oceanographic Research Papers (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Decision-Making in Selecting, Compiling, Analysing and Reporting on the Use of Corpora in Applied Linguistics Research]]></title>
-            <link>https://www.sciencedirect.com/special-issue/265389/decision-making-in-selecting-compiling-analysing-and-reporting-on-the-use-of-corpora-in-applied-linguistics-research</link>
-            <guid>sd-decision-making-in-selecting-compiling-analysing-and-reporting-on-the-use-of-corpora-in-applied-linguistics-research</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Research Methods in Applied Linguistics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Negative Results in Oceanography]]></title>
             <link>https://www.sciencedirect.com/special-issue/265572/negative-results-in-oceanography</link>
             <guid>sd-negative-results-in-oceanography</guid>
@@ -13865,13 +13151,6 @@
             <guid>sd-methodological-innovation-in-applied-linguistics</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Research Methods in Applied Linguistics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Luminescent metal halides]]></title>
-            <link>https://www.sciencedirect.com/special-issue/265349/luminescent-metal-halides</link>
-            <guid>sd-luminescent-metal-halides</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Luminescence (SD)</author>
         </item>
         <item>
             <title><![CDATA[Comparison of Radiation Effects on Products Sterilized Using Gamma-ray, E-beam, or X-ray Sources (VSI: Sterilization by EB/X-ray/Gamma)]]></title>
@@ -14021,20 +13300,6 @@
             <author>International Journal of Project Management (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Mechanisms of Behavior & Cognition]]></title>
-            <link>https://www.sciencedirect.com/special-issue/262809/mechanisms-of-behavior-cognition</link>
-            <guid>sd-mechanisms-of-behavior-and-cognition</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research Bulletin (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Origins of variability in acquiring and using linguistic knowledge]]></title>
-            <link>https://www.sciencedirect.com/special-issue/262645/origins-of-variability-in-acquiring-and-using-linguistic-knowledge</link>
-            <guid>sd-origins-of-variability-in-acquiring-and-using-linguistic-knowledge</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Mechanobiology in Cardiovascular Homeostasis and Remodeling]]></title>
             <link>https://www.sciencedirect.com/special-issue/262290/mechanobiology-in-cardiovascular-homeostasis-and-remodeling</link>
             <guid>sd-mechanobiology-in-cardiovascular-homeostasis-and-remodeling</guid>
@@ -14075,13 +13340,6 @@
             <guid>sd-a-special-collection-devoted-to-diversity-equity-and-inclusion-dei-in-imaging</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Clinical Imaging (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Nonlinear Phenomena in Fluid Dynamics (VSI: Nonlinear Fluid Dynamics)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/261514/nonlinear-phenomena-in-fluid-dynamics-vsi-nonlinear-fluid-dynamics</link>
-            <guid>sd-nonlinear-phenomena-in-fluid-dynamics-vsi-nonlinear-fluid-dynamics</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Physica D: Nonlinear Phenomena (SD)</author>
         </item>
         <item>
             <title><![CDATA[Application of ferrofluid and magnetic field to improve the performance of heat transfer systems]]></title>
@@ -14285,13 +13543,6 @@
             <guid>sd-prof-renee-zhao-of-stanford-university-has-received-the-eshelby-mechanics-award-for-young-faculty-member</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Extreme Mechanics Letters (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Electrochemical Small Molecules Activation]]></title>
-            <link>https://www.sciencedirect.com/special-issue/289368/electrochemical-small-molecules-activation</link>
-            <guid>sd-electrochemical-small-molecules-activation</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Electrochimica Acta (SD)</author>
         </item>
         <item>
             <title><![CDATA[First Insights in Retailing: A new section in the Journal of Retailing]]></title>
@@ -14602,13 +13853,6 @@
             <author>Marine Geology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Plant’s benefits to people in urban areas: assessing the importance of plant diversity in cities]]></title>
-            <link>https://www.sciencedirect.com/special-issue/245757/plant-s-benefits-to-people-in-urban-areas-assessing-the-importance-of-plant-diversity-in-cities</link>
-            <guid>sd-plants-benefits-to-people-in-urban-areas-assessing-the-importance-of-plant-diversity-in-cities</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Perspectives in Plant Ecology, Evolution and Systematics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Constraining nitrogen loss processes from agricultural intensification: implications for mitigation and management strategies]]></title>
             <link>https://www.sciencedirect.com/special-issue/245859/constraining-nitrogen-loss-processes-from-agricultural-intensification-implications-for-mitigation-and-management-strategies</link>
             <guid>sd-constraining-nitrogen-loss-processes-from-agricultural-intensification-implications-for-mitigation-and-management-strategies</guid>
@@ -14642,13 +13886,6 @@
             <guid>sd-project-leadership-in-a-changing-world</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Project Leadership and Society (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Special issue on Critical Minerals: Current Perspectives]]></title>
-            <link>https://www.sciencedirect.com/special-issue/245248/special-issue-on-critical-minerals-current-perspectives</link>
-            <guid>sd-special-issue-on-critical-minerals-current-perspectives</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Geochemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Digital Finance for Technological Progress]]></title>
@@ -18067,13 +17304,6 @@
             <author>Journal of Monetary Economics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Elimination of Neglected Tropical Diseases]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315167/elimination-of-neglected-tropical-diseases</link>
-            <guid>sd-elimination-of-neglected-tropical-diseases</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>International Journal of Infectious Diseases (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Global diversity and disparity in mental health and brain health]]></title>
             <link>https://www.sciencedirect.com/special-issue/315168/global-diversity-and-disparity-in-mental-health-and-brain-health</link>
             <guid>sd-global-diversity-and-disparity-in-mental-health-and-brain-health</guid>
@@ -18879,13 +18109,6 @@
             <author>Marine Micropaleontology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Emerging Innovations in Sequential, Active, and Reinforcement Learning for Physical Layer Communications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/274207/emerging-innovations-in-sequential-active-and-reinforcement-learning-for-physical-layer-communications</link>
-            <guid>sd-emerging-innovations-in-sequential-active-and-reinforcement-learning-for-physical-layer-communications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Physical Communication (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Explainability, Robustness and Fairness for User-centric Intelligent Systems]]></title>
             <link>https://www.sciencedirect.com/special-issue/273918/special-issue-on-explainability-robustness-and-fairness-for-user-centric-intelligent-systems</link>
             <guid>sd-explainability-robustness-and-fairness-for-user-centric-intelligent-systems</guid>
@@ -18898,13 +18121,6 @@
             <guid>sd-climate-resilient-health-systems</guid>
             <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
             <author>Public Health (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[23rd International Symposium on Fluorine Chemistry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/270910/23rd-international-symposium-on-fluorine-chemistry</link>
-            <guid>sd-23rd-international-symposium-on-fluorine-chemistry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Journal of Fluorine Chemistry (SD)</author>
         </item>
         <item>
             <title><![CDATA[Climate changes and human occupation in the coastal (sub)Arctic North Atlantic]]></title>
@@ -19185,13 +18401,6 @@
             <guid>sd-advances-in-electrochemical-energy-production-storage-and-conversion-for-sustainable-future</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Chemical Engineering Journal (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[2024 Asian Finance Association Annual Conference Special Issue]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314821/2024-asian-finance-association-annual-conference-special-issue</link>
-            <guid>sd-2024-asian-finance-association-annual-conference-special-issue</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Pacific-Basin Finance Journal (SD)</author>
         </item>
         <item>
             <title><![CDATA[Focus Issue dedicated to the EU-funded project SINFONIA and the EURADOS collaboration]]></title>
@@ -19682,13 +18891,6 @@
             <guid>sd-selected-and-extended-papers-from-the-ifip-networking-2024-conference</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Computer Communications (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Virtual Imaging Trials in Medicine]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314542/virtual-imaging-trials-in-medicine</link>
-            <guid>sd-virtual-imaging-trials-in-medicine</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Medical Image Analysis (SD)</author>
         </item>
         <item>
             <title><![CDATA[the Occasion of the 45th Birthday of Elsevier Signal Processing]]></title>
@@ -20291,13 +19493,6 @@
             <guid>sd-revealing-the-dynamic-nature-of-brain-oscillations-underlying-cognitive-processes</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Biological Psychology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Modification, Degradation, Stabilisation of Polymers]]></title>
-            <link>https://www.sciencedirect.com/special-issue/314172/modification-degradation-stabilisation-of-polymers</link>
-            <guid>sd-modification-degradation-stabilisation-of-polymers</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Polymer Degradation and Stability (SD)</author>
         </item>
         <item>
             <title><![CDATA[Data Exploration & Visual Analytics in AI Era]]></title>
@@ -21903,13 +21098,6 @@
             <author>Future Generation Computer Systems (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Select Papers from the 2024 Hypervelocity Impact Symposium (HVIS)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313198/select-papers-from-the-2024-hypervelocity-impact-symposium-hvis</link>
-            <guid>sd-select-papers-from-the-2024-hypervelocity-impact-symposium-hvis</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>International Journal of Impact Engineering (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Advances in Processing and Bioprocessing of Alternative Proteins: Structural Transformations and Implications]]></title>
             <link>https://www.sciencedirect.com/special-issue/313154/advances-in-processing-and-bioprocessing-of-alternative-proteins-structural-transformations-and-implications</link>
             <guid>sd-advances-in-processing-and-bioprocessing-of-alternative-proteins-structural-transformations-and-implications</guid>
@@ -22125,13 +21313,6 @@
             <guid>sd-insights-into-brain-functioning-integrating-eye-movements-electrophysiology-and-functional-imaging-in-visual-neuroscience</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Experimental Eye Research (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Large Language Models in Cybersecurity: Attacks, Defenses and Applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313036/special-issue-on-large-language-models-in-cybersecurity-attacks-defenses-and-applications</link>
-            <guid>sd-large-language-models-in-cybersecurity-attacks-defenses-and-applications</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Information Security and Applications (SD)</author>
         </item>
         <item>
             <title><![CDATA[EuroSense 2024]]></title>
@@ -22440,13 +21621,6 @@
             <guid>sd-structural-application-of-non-conventional-materials</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Engineering Structures (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Net Zero Carbon Built Environment - Solar Energy Advances]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312881/net-zero-carbon-built-environment-solar-energy-advances</link>
-            <guid>sd-net-zero-carbon-built-environment-solar-energy-advances</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Solar Energy Advances (SD)</author>
         </item>
         <item>
             <title><![CDATA[Generative Media Processing, Computing, and Evaluation]]></title>
