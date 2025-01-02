@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Wed, 01 Jan 2025 03:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 02:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -2177,13 +2177,6 @@
             <author>International Journal of Biological Macromolecules (SD)</author>
         </item>
         <item>
-            <title><![CDATA[9th European Thermal Sciences Conference, EUROTHERM 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/311973/9th-european-thermal-sciences-conference-eurotherm-2024</link>
-            <guid>sd-9th-european-thermal-sciences-conference-eurotherm-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Thermal Engineering (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Photoacoustic Digital and Physical Phantoms and their Quantitative Imaging (Photoacoustic Phantoms)]]></title>
             <link>https://www.sciencedirect.com/special-issue/311738/photoacoustic-digital-and-physical-phantoms-and-their-quantitative-imaging-photoacoustic-phantoms</link>
             <guid>sd-photoacoustic-digital-and-physical-phantoms-and-their-quantitative-imaging-photoacoustic-phantoms</guid>
@@ -4345,13 +4338,6 @@
             <guid>sd-advances-in-titanium-based-alloys-for-biomedical-applications</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Journal of Alloys and Compounds Communications (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Accelerating the net-zero economy transformation: new challenges for sustainability]]></title>
-            <link>https://www.sciencedirect.com/special-issue/304843/accelerating-the-net-zero-economy-transformation-new-challenges-for-sustainability</link>
-            <guid>sd-accelerating-the-net-zero-economy-transformation-new-challenges-for-sustainability</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Energy Economics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Interactions of chemical components during  biomass pyrolysis]]></title>
@@ -6552,13 +6538,6 @@
             <author>Advances in Cancer Biology - Metastasis (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Special issue of selected papers from E-MRS 2024 Spring Meeting - Symposium I - Nano-engineered coatings and thin films: from fundamentals to applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/299939/special-issue-of-selected-papers-from-e-mrs-2024-spring-meeting-symposium-i-nano-engineered-coatings-and-thin-films-from-fundamentals-to-applications</link>
-            <guid>sd-special-issue-of-selected-papers-from-e-mrs-2024-spring-meeting-symposium-i-nano-engineered-coatings-and-thin-films-from-fundamentals-to-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Surface and Coatings Technology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[New Challenges in Isotopic Geochemistry and Water-Rock Interaction]]></title>
             <link>https://www.sciencedirect.com/special-issue/300025/new-challenges-in-isotopic-geochemistry-and-water-rock-interaction</link>
             <guid>sd-new-challenges-in-isotopic-geochemistry-and-water-rock-interaction</guid>
@@ -7315,13 +7294,6 @@
             <author>Ocean Engineering (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Organometallics for Oxidation Catalysis]]></title>
-            <link>https://www.sciencedirect.com/special-issue/298209/organometallics-for-oxidation-catalysis</link>
-            <guid>sd-organometallics-for-oxidation-catalysis</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Organometallic Chemistry (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Silanes and Catalytic Hydrosilylation and its Applications]]></title>
             <link>https://www.sciencedirect.com/special-issue/298251/silanes-and-catalytic-hydrosilylation-and-its-applications</link>
             <guid>sd-silanes-and-catalytic-hydrosilylation-and-its-applications</guid>
@@ -7546,13 +7518,6 @@
             <author>Chinese Herbal Medicines (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Microscale Enabled Advanced Flow and Heat Transfer Technologies for High Performance and Low Power Consumption]]></title>
-            <link>https://www.sciencedirect.com/special-issue/297861/microscale-enabled-advanced-flow-and-heat-transfer-technologies-for-high-performance-and-low-power-consumption</link>
-            <guid>sd-microscale-enabled-advanced-flow-and-heat-transfer-technologies-for-high-performance-and-low-power-consumption</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Applied Thermal Engineering (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[The Financial Stability of Airlines: Turbulence or Tranquillity Ahead?]]></title>
             <link>https://www.sciencedirect.com/special-issue/297577/the-financial-stability-of-airlines-turbulence-or-tranquillity-ahead</link>
             <guid>sd-the-financial-stability-of-airlines-turbulence-or-tranquillity-ahead</guid>
@@ -7621,13 +7586,6 @@
             <guid>sd-research-culture-in-infectious-disease-epidemiology</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Epidemics (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Fault tolerant control of nonlinear processes]]></title>
-            <link>https://www.sciencedirect.com/special-issue/297522/fault-tolerant-control-of-nonlinear-processes</link>
-            <guid>sd-fault-tolerant-control-of-nonlinear-processes</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of Process Control (SD)</author>
         </item>
         <item>
             <title><![CDATA[50th Anniversary special issue]]></title>
@@ -9184,13 +9142,6 @@
             <author>Separation and Purification Technology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[30 Years Visual World Paradigm: The State of the Art]]></title>
-            <link>https://www.sciencedirect.com/special-issue/291973/30-years-visual-world-paradigm-the-state-of-the-art</link>
-            <guid>sd-30-years-visual-world-paradigm-the-state-of-the-art</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Brain Research (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Emerging trends in Biological sciences in India]]></title>
             <link>https://www.sciencedirect.com/special-issue/291746/emerging-trends-in-biological-sciences-in-india</link>
             <guid>sd-emerging-trends-in-biological-sciences-in-india</guid>
@@ -9954,13 +9905,6 @@
             <author>Applied Ergonomics (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Advanced methods and applications of Explainable Artificial Intelligence (XAI)]]></title>
-            <link>https://www.sciencedirect.com/special-issue/287960/advanced-methods-and-applications-of-explainable-artificial-intelligence-xai</link>
-            <guid>sd-advanced-methods-and-applications-of-explainable-artificial-intelligence-xai</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Engineering Applications of Artificial Intelligence (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Epidemiology of Cancer in the Oldest Old]]></title>
             <link>https://www.sciencedirect.com/special-issue/287963/epidemiology-of-cancer-in-the-oldest-old</link>
             <guid>sd-epidemiology-of-cancer-in-the-oldest-old</guid>
@@ -10428,13 +10372,6 @@
             <guid>sd-laser-based-manufacturing-for-hydrogen-basedrich-applications-vsi-laser-in-h2-applications</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Optics &amp; Laser Technology (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Advanced Model and Full-scale Measurement Technologies for Maritime Industry]]></title>
-            <link>https://www.sciencedirect.com/special-issue/285353/advanced-model-and-full-scale-measurement-technologies-for-maritime-industry</link>
-            <guid>sd-advanced-model-and-full-scale-measurement-technologies-for-maritime-industry</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Ocean Engineering (SD)</author>
         </item>
         <item>
             <title><![CDATA[Sarcopenic obesity and myosteatosis in older adults]]></title>
@@ -11303,13 +11240,6 @@
             <guid>sd-endocannabinoid-and-paracannabinoid-signaling-in-motivated-behavior-physiological-and-pharmacological-implications</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Physiology &amp; Behavior (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Mixed Methods Research: Applying Transformative Frameworks]]></title>
-            <link>https://www.sciencedirect.com/special-issue/281435/mixed-methods-research-applying-transformative-frameworks</link>
-            <guid>sd-mixed-methods-research-applying-transformative-frameworks</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Methods in Psychology (SD)</author>
         </item>
         <item>
             <title><![CDATA[Advancing and Integrating Value-Based Selling Research in Industrial Marketing: New Theories, Methods, and Perspectives]]></title>
@@ -12474,13 +12404,6 @@
             <author>Biomarkers in Neuropsychiatry (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Biology of sex differences in frailty and aging]]></title>
-            <link>https://www.sciencedirect.com/special-issue/271647/biology-of-sex-differences-in-frailty-and-aging</link>
-            <guid>sd-biology-of-sex-differences-in-frailty-and-aging</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Experimental Gerontology (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Multi-Energy Systems for Smart Cities]]></title>
             <link>https://www.sciencedirect.com/special-issue/271756/multi-energy-systems-for-smart-cities</link>
             <guid>sd-multi-energy-systems-for-smart-cities</guid>
@@ -12591,13 +12514,6 @@
             <guid>sd-joint-good-modelling-practice</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Environmental Modelling &amp; Software (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Solid Oxide Fuel Cells (SOFCs): From Design to Applications]]></title>
-            <link>https://www.sciencedirect.com/special-issue/270374/solid-oxide-fuel-cells-sofcs-from-design-to-applications</link>
-            <guid>sd-solid-oxide-fuel-cells-sofcs-from-design-to-applications</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Chemical Physics Impact (SD)</author>
         </item>
         <item>
             <title><![CDATA[Telemedicine Experiences in Family Medicine / General Practice / Primary care]]></title>
@@ -12850,13 +12766,6 @@
             <guid>sd-understanding-the-dynamic-of-dissolved-organic-matter-through-environmental-metabolomics-lenses</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Organic Geochemistry (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Nicolas Triantafyllidis 70th Anniversary Volume]]></title>
-            <link>https://www.sciencedirect.com/special-issue/267920/the-nicolas-triantafyllidis-70th-anniversary-volume</link>
-            <guid>sd-the-nicolas-triantafyllidis-70th-anniversary-volume</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Journal of the Mechanics and Physics of Solids (SD)</author>
         </item>
         <item>
             <title><![CDATA[Advanced Thermoelectrics: What’s Next]]></title>
@@ -13305,13 +13214,6 @@
             <guid>sd-mechanobiology-in-cardiovascular-homeostasis-and-remodeling</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Mechanobiology in Medicine (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[International Knowledge Flows in the Digitalized World]]></title>
-            <link>https://www.sciencedirect.com/special-issue/262298/international-knowledge-flows-in-the-digitalized-world</link>
-            <guid>sd-international-knowledge-flows-in-the-digitalized-world</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Economic Modelling (SD)</author>
         </item>
         <item>
             <title><![CDATA[Reliability Assessment Under Partial Information]]></title>
@@ -13886,13 +13788,6 @@
             <guid>sd-project-leadership-in-a-changing-world</guid>
             <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
             <author>Project Leadership and Society (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Digital Finance for Technological Progress]]></title>
-            <link>https://www.sciencedirect.com/special-issue/245264/digital-finance-for-technological-progress</link>
-            <guid>sd-digital-finance-for-technological-progress</guid>
-            <pubDate>Sat, 16 Nov 2024 22:37:32 GMT</pubDate>
-            <author>Global Finance Journal (SD)</author>
         </item>
         <item>
             <title><![CDATA[Temporal and spatial flood patterns under the effect of global changes. How multi-archive evidences help to overcome our lack of imagination and identify the unknown unknowns]]></title>
@@ -17269,13 +17164,6 @@
             <author>Polymer (SD)</author>
         </item>
         <item>
-            <title><![CDATA[EALE Conference 2024]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315268/eale-conference-2024</link>
-            <guid>sd-eale-conference-2024</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Labour Economics (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Physics of Estuaries and Coastal Seas]]></title>
             <link>https://www.sciencedirect.com/special-issue/315270/physics-of-estuaries-and-coastal-seas</link>
             <guid>sd-physics-of-estuaries-and-coastal-seas</guid>
@@ -17295,13 +17183,6 @@
             <guid>sd-emerging-insights-for-magnetic-susceptibility-and-electrical-properties-mapping</guid>
             <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
             <author>NeuroImage (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Consequences of AI use on Society and Policy]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315230/the-consequences-of-ai-use-on-society-and-policy</link>
-            <guid>sd-the-consequences-of-ai-use-on-society-and-policy</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Journal of Monetary Economics (SD)</author>
         </item>
         <item>
             <title><![CDATA[Global diversity and disparity in mental health and brain health]]></title>
@@ -17682,13 +17563,6 @@
             <author>Journal of Subatomic Particles and Cosmology (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Law and/versus Technology: trends for the new decade]]></title>
-            <link>https://www.sciencedirect.com/special-issue/315003/law-and-versus-technology-trends-for-the-new-decade</link>
-            <guid>sd-law-andversus-technology-trends-for-the-new-decade</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Computer Law &amp; Security Review (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Euromicro Software Engineering and Advanced Applications: 50th Anniversary]]></title>
             <link>https://www.sciencedirect.com/special-issue/315006/euromicro-software-engineering-and-advanced-applications-50th-anniversary</link>
             <guid>sd-euromicro-software-engineering-and-advanced-applications-50th-anniversary</guid>
@@ -17995,13 +17869,6 @@
             <guid>sd-international-conference-on-alkali-aggregate-reactions-in-concrete-2024</guid>
             <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
             <author>CEMENT (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[XIV Vasoactive Peptides Meeting special issue]]></title>
-            <link>https://www.sciencedirect.com/special-issue/283103/xiv-vasoactive-peptides-meeting-special-issue</link>
-            <guid>sd-xiv-vasoactive-peptides-meeting-special-issue</guid>
-            <pubDate>Sat, 16 Nov 2024 22:36:13 GMT</pubDate>
-            <author>Peptides (SD)</author>
         </item>
         <item>
             <title><![CDATA[Regenerative Medicine for Osteoarthritis and Joint Tissues]]></title>
@@ -20034,13 +19901,6 @@
             <author>Computational and Structural Biotechnology Journal (SD)</author>
         </item>
         <item>
-            <title><![CDATA[Old Forests as Natural Climate Solutions and their Conservation]]></title>
-            <link>https://www.sciencedirect.com/special-issue/313857/old-forests-as-natural-climate-solutions-and-their-conservation</link>
-            <guid>sd-old-forests-as-natural-climate-solutions-and-their-conservation</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Biological Conservation (SD)</author>
-        </item>
-        <item>
             <title><![CDATA[Pharmacological Modulation of Steroidogenesis and of Steroid Effects in the Nervous System]]></title>
             <link>https://www.sciencedirect.com/special-issue/313854/pharmacological-modulation-of-steroidogenesis-and-of-steroid-effects-in-the-nervous-system</link>
             <guid>sd-pharmacological-modulation-of-steroidogenesis-and-of-steroid-effects-in-the-nervous-system</guid>
@@ -21663,13 +21523,6 @@
             <guid>sd-the-future-of-low-cost-carriers-trends-challenges-and-policies-with-the-global-perspective</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Research in Transportation Business &amp; Management (SD)</author>
-        </item>
-        <item>
-            <title><![CDATA[Hadron interactions with strangeness and charm]]></title>
-            <link>https://www.sciencedirect.com/special-issue/312710/hadron-interactions-with-strangeness-and-charm</link>
-            <guid>sd-hadron-interactions-with-strangeness-and-charm</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Journal of Subatomic Particles and Cosmology (SD)</author>
         </item>
         <item>
             <title><![CDATA[Innovative battery systems under harsh working conditions]]></title>
