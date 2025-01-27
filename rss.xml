@@ -4,7 +4,7 @@
         <title>CFP Hub</title>
         <link>http://localhost:3000/</link>
         <description>CFP Hub shows you the latest calls for papers in your discipline.</description>
-        <lastBuildDate>Sun, 26 Jan 2025 02:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 02:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -47,13 +47,6 @@
             <guid>jais-digital-responsibility-social-ethical-and-ecological-implications-of-is</guid>
             <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
             <author>Journal of the Association for Information Systems (JAIS)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unleashing the Power of Information Technology for Strategic Management of Disasters]]></title>
-            <link>https://pubsonline.informs.org/page/isre/calls-for-papers</link>
-            <guid>isr-unleashing-the-power-of-information-technology-for-strategic-management-of-disasters</guid>
-            <pubDate>Tue, 24 Sep 2024 20:51:51 GMT</pubDate>
-            <author>Information Systems Research (ISR)</author>
         </item>
         <item>
             <title><![CDATA[Fostering the Design and Governance of the Metaverse]]></title>
